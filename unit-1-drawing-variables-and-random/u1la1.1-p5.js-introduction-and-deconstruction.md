@@ -185,7 +185,7 @@ Watch the “wrap up” space for suggestions on how to end your class for the d
 
 Show students the drawing below:
 
-![Sample Robot on p5.js Coordinate Plane](.gitbook/assets/screen-shot-2021-09-30-at-3.29.22-pm.png)
+![Sample Robot on p5.js Coordinate Plane](../.gitbook/assets/screen-shot-2021-09-30-at-3.29.22-pm.png)
 
 **Let's unpack this drawing together:**
 
