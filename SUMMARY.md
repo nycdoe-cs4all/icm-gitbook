@@ -12,3 +12,7 @@
 * [🗃U1LA1 Mini Project: Taijitu Symbol](unit-1-drawing-variables-and-random/u1la1-mini-project-taijitu-symbol.md)
 * [U1LA2.1 Intro to Variables - System Variables](unit-1-drawing-variables-and-random/u1la2.1-intro-to-variables-system-variables.md)
 * [U1LA2.2 Custom Variables in p5.js](unit-1-drawing-variables-and-random/u1la2.2-custom-variables-in-p5.js.md)
+
+***
+
+* [U1LA2.3 Random Function & Variables](u1la2.3-random-function-and-variables.md)
