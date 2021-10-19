@@ -20,3 +20,4 @@
 * [U1LA.3.1 Intro to Color](u1la.3.1-intro-to-color.md)
 * [U1LA3.2: RGB vs HSB Color Modes](u1la3.2-rgb-vs-hsb-color-modes.md)
 * [U1LA3.3 Color Palettes & Design](u1la3.3-color-palettes-and-design.md)
+* [🎨 🎨 Unit 1 Final Project: Abstract Album Art](unit-1-final-project-abstract-album-art.md)
