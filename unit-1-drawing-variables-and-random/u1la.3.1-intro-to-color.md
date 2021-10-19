@@ -16,13 +16,13 @@ In the “Do Now”, you can provide students with a worksheet if making a grid 
 
 Students will not use computers for the first half of this activity. You are looking for them to recreate something similar to this:
 
-![Image of three circles overlapping in a triangular shape.](<.gitbook/assets/Screen Shot 2021-10-18 at 10.14.13 AM (1).png>)
+![Image of three circles overlapping in a triangular shape.](<../.gitbook/assets/Screen Shot 2021-10-18 at 10.14.13 AM (1).png>)
 
 Anticipate that many students may struggle with the idea of opacity/transparency. Anticipated responses include ‘brightness,’ ‘shade,’ ‘tone,’ etc. These are great return points for when you introduce HSB color mode.
 
 There are many wonderful examples of color theory at work in our world. A useful one to for this topic is Olafur Eliasson’s A Room for One Color, in which the artist uses additive mixing to make every object in the room appear a uniform grey.
 
-![This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students](<.gitbook/assets/Screen Shot 2021-10-18 at 10.15.08 AM.png>)
+![This image is not edited in any way! This is from the phenomenology art movement for anyone with curious students](<../.gitbook/assets/Screen Shot 2021-10-18 at 10.15.08 AM.png>)
 
 If you have students who are struggling with fill() and the drawing order, you may want to act out the code with a colored marker.
 
@@ -43,44 +43,44 @@ Students should be able to:
 
 Abstraction:
 
-* Describe how I might use patterns to express an idea.&#x20;
+* Describe how I might use patterns to express an idea.
 * Explain why using patterns is necessary when creating with a computer.
 
 Algorithms:
 
 * Describe more than one set of instructions that might complete a task.
-* Describe how instructions can have different outputs depending on inputs.&#x20;
+* Describe how instructions can have different outputs depending on inputs.
 * Explain why I used specific instructions to complete a task.
 
 Programming:
 
-* Experiment with the commands of a programming language.&#x20;
+* Experiment with the commands of a programming language.
 * Explain why I chose specific commands to communicate my instructions.
 * Discuss what can and cannot be done with a specific set of commands.
 
 ### Vocabulary
 
-* fill() function - Sets the color used to fill shapes.This color is either specified in terms of the RGB or HSB color depending on the current colorMode()&#x20;
-* Subtractive Mixing - the mixing you are used to seeing with paint - paint tints absorb different lights from around them to create the visual color you see.&#x20;
-* Additive Mixing - mixing done with light - adding lights to create the different colors you see.&#x20;
-* RGB - Red, Green, Blue color mode, the default in p5.js&#x20;
+* fill() function - Sets the color used to fill shapes.This color is either specified in terms of the RGB or HSB color depending on the current colorMode()
+* Subtractive Mixing - the mixing you are used to seeing with paint - paint tints absorb different lights from around them to create the visual color you see.
+* Additive Mixing - mixing done with light - adding lights to create the different colors you see.
+* RGB - Red, Green, Blue color mode, the default in p5.js
 * Opacity/Transparency - how see-through or not a shape is. Make sure students understand opaque to be solid and transparent to be closer to clear.
 
 ### Planning Notes
 
-|                                                                                                                                                                                       Planning Notes                                                                                                                                                                                       |                                                                                                                                                                                                                                                               Materials Needed                                                                                                                                                                                                                                                              |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p>The optional unplugged provides a deeper understanding of color mixing and the difference between mixing colors with art media vs. with light. It could be greatly abbreviated for time, or if you have students with a strong visual arts background. </p><p></p><p>Be aware of places in the lesson where students are required to make predictions - don’t give away the answer!</p> | <p>For optional launch: paint, colored pencils, construction paper, colored transparencies (like <a href="https://www.amazon.com/12-Pack-Overlays-Transparency-Correction/dp/B0759MGNH7/ref=sr_1_3?ie=UTF8&#x26;qid=1531354411&#x26;sr=8-3&#x26;keywords=colored+transparencies&#x26;dpID=41LY-BeWE4L&#x26;preST=_SY300_QL70_&#x26;dpSrc=srch">these</a> - transparent folders work as well!) and any other media you can think of. </p><p>Additive Mixing Sample Code </p><p>fill() practice code </p><p>Student note taking materials</p> |
+|                                                                                                                                                                                   Planning Notes                                                                                                                                                                                   |                                                                                                                                                                                                                                                             Materials Needed                                                                                                                                                                                                                                                             |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p>The optional unplugged provides a deeper understanding of color mixing and the difference between mixing colors with art media vs. with light. It could be greatly abbreviated for time, or if you have students with a strong visual arts background.</p><p>Be aware of places in the lesson where students are required to make predictions - don’t give away the answer!</p> | <p>For optional launch: paint, colored pencils, construction paper, colored transparencies (like <a href="https://www.amazon.com/12-Pack-Overlays-Transparency-Correction/dp/B0759MGNH7/ref=sr_1_3?ie=UTF8&#x26;qid=1531354411&#x26;sr=8-3&#x26;keywords=colored+transparencies&#x26;dpID=41LY-BeWE4L&#x26;preST=_SY300_QL70_&#x26;dpSrc=srch">these</a> - transparent folders work as well!) and any other media you can think of.</p><p>Additive Mixing Sample Code</p><p>fill() practice code</p><p>Student note taking materials</p> |
 
 ### Resources
 
-* Additive Mixing [Sample Code ](https://editor.p5js.org/cs4all/sketches/H1y6f957X)
-* fill([) Practice Code - RGB Color Mode ](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm)
+* Additive Mixing [Sample Code](https://editor.p5js.org/cs4all/sketches/H1y6f957X)
+* fill([) Practice Code - RGB Color Mode](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm)
 * [Working with Color](https://youtu.be/3aHWKQCqP-M) (Youtube Video)
 
 ### Assessments
 
-**Formative Assessment:** Student Share-Out, Fill() Practice Code, Optional Exit Slip&#x20;
+**Formative Assessment:** Student Share-Out, Fill() Practice Code, Optional Exit Slip
 
 **Summative Assessment:** End of Unit Project (Abstract Album Art)
 
@@ -98,7 +98,7 @@ You can provide students with a worksheet if making a grid will be too time cons
 
 You are looking for this (-ish):
 
-![](<.gitbook/assets/Screen Shot 2021-10-18 at 10.14.13 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-10-18 at 10.14.13 AM.png>)
 
 After brainstarter, have students partner check (high-five their partner if they both have matching answers!) to see if they are correct.
 
@@ -108,17 +108,17 @@ Prompt students through a similar thinking to Unit 1, Lesson 1 - where did you g
 
 Introduce fill as accepting 3+ arguments and the idea of RGB.
 
-![](<.gitbook/assets/Screen Shot 2021-10-18 at 10.32.01 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-10-18 at 10.32.01 AM.png>)
 
 **Ask Students:**
 
-* What do you think the R, G, and B stand for in this color system?&#x20;
-* Most students will get to red, blue, green pretty instantly. Based on where the 255 is, what color might this make?&#x20;
+* What do you think the R, G, and B stand for in this color system?
+* Most students will get to red, blue, green pretty instantly. Based on where the 255 is, what color might this make?
 * What if the 255 was somewhere else?
 
 Once students are more comfortable, introduce the 4th and final (optional) argument for fill:
 
-![](<.gitbook/assets/Screen Shot 2021-10-18 at 10.33.17 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-10-18 at 10.33.17 AM.png>)
 
 Be prepared to explain opacity - students may need visual examples, and having transparent overlays in different colors is very helpful for this.
 
@@ -139,8 +139,8 @@ ellipse(145, 150, 100, 100);
 
 After students add the new lines of code to their sketch, ask them the following questions centered around analyzing code and making prediction:
 
-1. What is a fill(0)? fill(255)? fill(100)?&#x20;
-2. What do you think the R, G, and B stand for in this color system?&#x20;
+1. What is a fill(0)? fill(255)? fill(100)?
+2. What do you think the R, G, and B stand for in this color system?
 3. For each fill function, based on where the 255 is, what color might this make? What if the 255 was somewhere else?
 
 ### Optional Unplugged: RGB Color, Additive vs. Subtractive Mixing
@@ -160,7 +160,6 @@ ellipse(170, 100, 100, 100);
 
 fill(0, 0, 255, ?);
 ellipse(145, 150, 100, 100);
-
 ```
 
 You may have all students use paint (you’ll need red, green, and blue), or you can split students into groups and have each group use a different media. For example, one group might paint, another might use colored pencils, another might use construction paper - giving you a great chance to re-explain opacity.
@@ -169,12 +168,12 @@ At the end of the activity, ask students if the results matched their prediction
 
 Present and run the [introToColor project,](https://editor.p5js.org/cs4all/sketches/H1y6f957X) and then ask students to discuss with their partner.
 
-1. What did you expect to happen? Did it happen?&#x20;
+1. What did you expect to happen? Did it happen?
 2. What might have caused the difference?
 
 After allowing time for discussion, introduce the following ideas:
 
-* **Additive Mixing**: Mixing with lights, such as on a computer, adds colors to create what you see.&#x20;
+* **Additive Mixing**: Mixing with lights, such as on a computer, adds colors to create what you see.
 * **Subtractive Mixing**: mixing with paints or other media suck up the light around it, creating what you see.
 
 ### RGB Color - Student Practice
@@ -191,13 +190,12 @@ Be sure to circulate and confirm that drivers are directing navigators. The navi
 
 If you’d like, you can collect student code and names of both partners through a Google Form or similar. You may want to include the following questions, or ask them to ask some of them as an exit slip if you aren’t interested in code collection:
 
-* What does RGB stand for?&#x20;
-* How does mixing on a computer differ from mixing with paints?&#x20;
-* A student wants only the second color in their project to be red, but with this code, everything is red! Why? (Show sample code that would make this situation true)&#x20;
-* A student successfully changes the color of their shapes, but their stroke is still black. What would they need to do to fix it? (Show code that matches this situation, with no stroke() call to change the color of the stroke.)&#x20;
+* What does RGB stand for?
+* How does mixing on a computer differ from mixing with paints?
+* A student wants only the second color in their project to be red, but with this code, everything is red! Why? (Show sample code that would make this situation true)
+* A student successfully changes the color of their shapes, but their stroke is still black. What would they need to do to fix it? (Show code that matches this situation, with no stroke() call to change the color of the stroke.)
 * What do you enjoy about working with color so far? What is frustrating about RGB colors?
 
 ### Extension
 
 Ask students to try to create a ROYGBIV rainbow with stroke and fill in different shades. Students should struggle greatly trying to mix additively.
-

@@ -48,7 +48,7 @@ This is all quite subjective; in early projects, you should adjust pace to suit 
 
 ### **Do Now/Warm Up (5 - 10 Minutes)**
 
-![](<.gitbook/assets/Screen Shot 2021-10-19 at 1.10.43 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2021-10-19 at 1.10.43 PM.png>)
 
 Display the table of images above. Ask students: what do you think it means for be less or more abstract? (Note: This is probably going to be a big challenge for them to describe, as many students have inaccurate definitions of abstraction floating around in their heads!)&#x20;
 
