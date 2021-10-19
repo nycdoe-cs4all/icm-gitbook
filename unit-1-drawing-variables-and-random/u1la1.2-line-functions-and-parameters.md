@@ -8,7 +8,7 @@ description: How do the parameters of function effect positioning on the p5 canv
 
 In this learning activity**,** students will create a visual composition using the p5 shape-drawing functions point() & line(). They will be introduced to functions, parameters, and then how to call them in p5.
 
-Students should have already created an account and know how to login. If not it would be good to model it before reviewing the editor. The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js. 
+Students should have already created an account and know how to login. If not it would be good to model it before reviewing the editor. The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js.&#x20;
 
 This lesson will be the first time that many students will be coding along with the teacher; give students enough time to copy as they get accustomed to code-alongs. Giving students access to the slide deck will help with questions, sharing links and entry points for anyone who may have gotten off track or needs help.
 
@@ -82,13 +82,13 @@ Once students are logged in, continue to the next section.
 
 ### createCanvas() and background() (5 min)
 
-Introducing functions, parameter and the canvas will be the students first code alone so some students may ask you to repeat a step or to zoom in on sections of code. 
+Introducing functions, parameter and the canvas will be the students first code alone so some students may ask you to repeat a step or to zoom in on sections of code.&#x20;
 
 While explaining functions remind students that is important to use the right vocabulary words and syntax when describing the values (parameters or arguments) of functions. It will help them communicate their code and thinking to others. This will assist their independent learning and research skills while using the reference guide.
 
-As you code discuss the following: 
+As you code discuss the following:&#x20;
 
-Not all functions take the same take of parameters 
+Not all functions take the same take of parameters&#x20;
 
 Some parameters have different scales. For example the canvas function by default accepts values 0-255 but in HSB mode it accepts values 0-360.
 
@@ -105,13 +105,13 @@ Ask students what they notice - what do they think values in createCanvas and ba
 
 The visual below can help students have a better understanding.
 
-![A scale going from black (0) to white (255) with number values marked in between.](../.gitbook/assets/screen-shot-2021-10-01-at-10.19.53-am.png)
+![A scale going from black (0) to white (255) with number values marked in between.](<../.gitbook/assets/Screen Shot 2021-10-01 at 10.19.53 AM.png>)
 
 **Then, ask students: **
 
 What would happen if you were to add multiple background functions with different values? Which of background color is prioritized? Why?
 
-### Line && Point Function Code Along (5 min) 
+### Line && Point Function Code Along (5 min)&#x20;
 
 For this code along it is important to spend time reviewing how the canvas works in p5 and its differences to a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the [following example](http://alpha.editor.p5js.org/SEP/sketches/HkLEZg4Em) with your students.
 
@@ -135,13 +135,13 @@ function draw() {
 
 As you code, go over the following:
 
-* Create various examples of a point and line with different parameters. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments. 
+* Create various examples of a point and line with different parameters. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments.&#x20;
 * Comments
   * Introduce and consistently model how to create and utilize comments so that students can build great habits of annotating their code.
-  * This is a great practice for debugging, testing new code, temporarily blocking out old code and a great what to keep track of shapes and functions. 
+  * This is a great practice for debugging, testing new code, temporarily blocking out old code and a great what to keep track of shapes and functions.&#x20;
 * Ask questions like:
-  * What type of parameters does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”). 
-  * How many parameters does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments. 
+  * What type of parameters does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”).&#x20;
+  * How many parameters does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments.&#x20;
   * How can the use of comments help organize the different lines?
 
 ### Student Practice (10 min)
@@ -150,7 +150,7 @@ Ask students complete the following exercises on the online editor and title it 
 
 1. Code the lines they found on their worksheet, and then:
 2. Draw a point near the top-right corner of the canvas.
-3. Draw a point in the middle of the canvas. 
+3. Draw a point in the middle of the canvas.&#x20;
 4. Draw a point near the bottom-left.
 5. Draw a horizontal line, a vertical line, a diagonal line.
 6. Draw a line from the top-left corner to the bottom-right corner.
@@ -173,7 +173,7 @@ Be sure to conference with students the day they share prior to sharing, even if
 
 _For students that finish early have them:_
 
-* Check that their code has comments so that they can pick up their work from wherever they left off. 
+* Check that their code has comments so that they can pick up their work from wherever they left off.&#x20;
 * Use multiple line functions to create a rectangle and a triangle so the lines create a house (pentagon).
 * Add comments for each line position.
 

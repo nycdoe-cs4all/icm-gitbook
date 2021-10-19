@@ -15,7 +15,7 @@ In this lesson, students will be introduced to the p5.js canvas and coordinate s
 Students should be able to...
 
 * Create an account on [https://editor.p5js.org/signup](https://editor.p5js.org/signup)
-* Explain what p5.js is 
+* Explain what p5.js is&#x20;
 * Describe things you can create on p5.js
 * Understand the p5 canvas coordinate system
 
@@ -38,7 +38,7 @@ Students should be able to...
 
 **Pre-Req Vocab:**
 
-* **Width - **Horizontal distance of a 2D shape 
+* **Width - **Horizontal distance of a 2D shape&#x20;
 * **Height - **Vertical distance of a 2D shape
 * **Radius - **distance from the center to edge of a circle
 * **Diameter - **distance from edge to edge of a circle passing through the center point
@@ -64,15 +64,15 @@ Students should be able to...
 
 ### Do Now/Warm Up (5 min)
 
-Have your students sign up for a p5.js editor account here: 
+Have your students sign up for a p5.js editor account here:&#x20;
 
 [http://editor.p5js.org/signup](http://alpha.editor.p5js.org/signup)
 
- They can easily create with these options:
+&#x20;They can easily create with these options:
 
-* Google account 
-* Github 
-* Email 
+* Google account&#x20;
+* Github&#x20;
+* Email&#x20;
 
 **NB**: The editor is not a p5.js online tool to manage and collect student work. It is strictly an online IDE - students will need to submit their project links to you through a Learning Management System such as Google Classroom, or another method such as Google Forms or Airtable.
 
@@ -88,7 +88,7 @@ Note: The video is interactive so move the mouse around when prompted to show st
 2. What things do you think you can make with p5?
 3. How is it similar or different to other programming languages?
 
-Show some final project student examples to give your classroom a sense of what is possible with p5. 
+Show some final project student examples to give your classroom a sense of what is possible with p5.&#x20;
 
 * [**Emoji **](https://alpha.editor.p5js.org/SEP/sketches/HylwiSZXQ)
 * [**Paint Tool**](https://alpha.editor.p5js.org/dcanizares/sketches/HklghoFlf)
@@ -128,7 +128,7 @@ Watch the “wrap up” space for suggestions on how to end your class for the d
 
 Show students the drawing below:
 
-![Sample Robot on p5.js Coordinate Plane](../.gitbook/assets/screen-shot-2021-09-30-at-3.29.22-pm.png)
+![Sample Robot on p5.js Coordinate Plane](<../.gitbook/assets/Screen Shot 2021-09-30 at 3.29.22 PM.png>)
 
 **Let's unpack this drawing together:**
 
