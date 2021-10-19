@@ -2,13 +2,13 @@
 description: How can code be used as a creative and expressive medium?
 ---
 
-# 🗃U1LA1 Mini Project: Taijitu Symbol
+# 🗃 🗃U1LA1 Mini Project: Taijitu Symbol
 
 ### Prompt
 
 Taijitu is a symbol representing the religious and philosophical tradition of Taoism (also called Daoism). The term means a ‘diagram of the supreme ultimate,’ and it refers to the famous Chinese concept of yin and yang, of opposites existing in complete harmony.
 
-![Taijitu Or Yin-Yang Symbol](https://lh6.googleusercontent.com/860mL-xJsUZI1OE8z3HDhBYnM6nmfQUAIB_c7NWEYoFp0YQjnKu3LwQSyGf9CeZGTjt_BirPey_a83DJxtvaeCD5P8RfXu0BIN4Qz9Tx2MtWArQEOqiJdP2aCeulSWNF4VREk9Ka=s0)
+![Taijitu Or Yin-Yang Symbol](https://lh6.googleusercontent.com/860mL-xJsUZI1OE8z3HDhBYnM6nmfQUAIB\_c7NWEYoFp0YQjnKu3LwQSyGf9CeZGTjt\_BirPey\_a83DJxtvaeCD5P8RfXu0BIN4Qz9Tx2MtWArQEOqiJdP2aCeulSWNF4VREk9Ka=s0)
 
 The Taijitu symbol consists of two (one black and one white) swirling ‘teardrop’ shapes that fit within each other to form a perfect circle. Each figure contains a part of the other so that there is a black dot in the white half of the circle and a white dot in the black portion. These seemingly opposing, but complementary halves make a whole and thus, are incomplete without each other.
 
@@ -18,7 +18,7 @@ The dark or shady side represents Yin, and the white or sunny side represents Ya
 
 Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/susanev/p5js-workshops/tree/master/1-day-workshop)
 
-**Directions**: Your task is to recreate the Taijitu symbol using code in p5. 
+**Directions**: Your task is to recreate the Taijitu symbol using code in p5.&#x20;
 
 **Requirements**:\
 

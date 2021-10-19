@@ -2,7 +2,7 @@
 description: 'Essential question: How can code be used as a creative and expressive medium?'
 ---
 
-# Unit 1 Overview
+# 🔮 Unit 1 Overview
 
 ### Overview
 
