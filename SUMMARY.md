@@ -18,3 +18,8 @@
 * [U1LA3.2: RGB vs HSB Color Modes](unit-1-drawing-variables-and-random/u1la3.2-rgb-vs-hsb-color-modes.md)
 * [U1LA3.3 Color Palettes & Design](unit-1-drawing-variables-and-random/u1la3.3-color-palettes-and-design.md)
 * [🎨 🎨 Unit 1 Final Project: Abstract Album Art](unit-1-drawing-variables-and-random/unit-1-final-project-abstract-album-art.md)
+
+## Unit 2: Respond & Draw on Canvas
+
+* [🔮 Unit 2 Overview](unit-2-respond-and-draw-on-canvas/unit-2-overview.md)
+* [U2LA1.1 - Conditionals and if statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
