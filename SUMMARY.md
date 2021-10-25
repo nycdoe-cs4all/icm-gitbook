@@ -23,3 +23,6 @@
 
 * [🔮 Unit 2 Overview](unit-2-respond-and-draw-on-canvas/unit-2-overview.md)
 * [U2LA1.1 - Conditionals and if statements](unit-2-respond-and-draw-on-canvas/u2la1.1-conditionals-and-if-statements.md)
+* [U2LA1.2 - Conditionals and if, else if, else statements](unit-2-respond-and-draw-on-canvas/u2la1.2-conditionals-and-if-else-if-else-statements.md)
+* [U2LA1.3 - Logical Operators And/Or](unit-2-respond-and-draw-on-canvas/u2la1.3-logical-operators-and-or.md)
+* [🗃 🗃U2LA1 Mini Project: Make a Traffic Light 🚦](unit-2-respond-and-draw-on-canvas/u2la1-mini-project-make-a-traffic-light.md)
