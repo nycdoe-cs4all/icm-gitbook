@@ -27,3 +27,4 @@
 * [U2LA1.3 - Logical Operators And/Or](unit-2-respond-and-draw-on-canvas/u2la1.3-logical-operators-and-or.md)
 * [🗃 🗃U2LA1 Mini Project: Make a Traffic Light 🚦](unit-2-respond-and-draw-on-canvas/u2la1-mini-project-make-a-traffic-light.md)
 * [U2LA1.4: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la1.4-draw-with-mouse.md)
+* [U2LA1.5: The Map Function](unit-2-respond-and-draw-on-canvas/u2la1.5-the-map-function.md)
