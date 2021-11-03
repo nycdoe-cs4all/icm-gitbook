@@ -6,9 +6,9 @@ description: How can we utilize p5.js system variables?
 
 ### Overview && Teacher Feedback
 
-In this learning activity, students will understand the concept of built in variables and place shapes on the canvas using the variables width ,  height, mouseX,  mouseY. They are also introduced to rectMode() to change the location from which shapes are placed. They will create a visual composition using these built in variables that will remain consistent when the canvas size is changed to demonstrate the concept of design systems. 
+In this learning activity, students will understand the concept of built in variables and place shapes on the canvas using the variables width , height, mouseX, mouseY. They are also introduced to rectMode() to change the location from which shapes are placed. They will create a visual composition using these built in variables that will remain consistent when the canvas size is changed to demonstrate the concept of design systems.
 
-This learning activity is split into three parts: 
+This learning activity is split into three parts:
 
 System variables\
 Custom variables\
@@ -20,7 +20,7 @@ The do-now introduces a headache to make students care about the built in width 
 
 Note: we have chosen to use console.log() over print(), as print() is more unique to the p5 library and console.log() is more universal across javascript.
 
-Paired programming should always have equal number of “at bats” for each student. 
+Paired programming should always have equal number of “at bats” for each student.
 
 Many students will struggle with getting a triangle to move together - expect many to either have their triangle reduced to a point (because they make every argument either mouseX or mouseY) or have just one vertice drag with the mouse. It is not anticipated that most students will succeed, but it lays good groundwork for the final mini-project students will do at the end of the learning activity.
 
@@ -30,7 +30,7 @@ If you attempt to tackle the triangle solution with your students, you might ask
 
 **Students should be able to:**
 
-* Use width and height 
+* Use width and height
 * Use mouseX and mouseY to move a shape
 * Use system variables as parameters for functions.
 
@@ -40,33 +40,36 @@ If you attempt to tackle the triangle solution with your students, you might ask
 
 ### Blueprint Foundational Student Outcomes
 
-| <p><strong>Abstraction:</strong><br><strong></strong></p><ul><li>Describe different things I tried in order to achieve a goal.</li></ul><p><strong>Algorithms:</strong><br><strong></strong></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Describe how instructions can have different outputs depending on inputs.</li><li>Explain why I used specific instructions to complete a task.</li></ul><p><strong>Programming:</strong><br><strong></strong></p><ul><li>Experiment with the commands of a programming language.</li><li>Describe three ways a development environment helps me create a project.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Abstraction:</strong><br></p><ul><li>Describe different things I tried in order to achieve a goal.</li></ul><p><strong>Algorithms:</strong><br></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Describe how instructions can have different outputs depending on inputs.</li><li>Explain why I used specific instructions to complete a task.</li></ul><p><strong>Programming:</strong><br></p><ul><li>Experiment with the commands of a programming language.</li><li>Describe three ways a development environment helps me create a project.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
 
 ### Vocabulary
 
-| <ul><li><strong>Variables - </strong>in CS, variables hold an assigned value or data of a specific type, they can also hold arrays of values which will be introduced later.</li><li><strong>width - </strong>system variable that holds width of canvas as declared in set up</li><li><strong>height - </strong>system variable that holds height of canvas as declared in setup</li><li><strong>mouseX - </strong>system variable that holds the current x-position of the mouse</li><li><strong>mouseY - </strong>system variable that holds the current y-position of the mouse</li><li><strong>console.log() - </strong>a function that logs a value to the console when the program is run.</li></ul><p><strong>Pre-Req Vocab:</strong><br><strong></strong></p><ul><li><strong>Width - </strong>Horizontal distance of a 2D shape<strong> </strong></li><li><strong>Height - </strong>Vertical distance of a 2D shape</li></ul> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><strong>Variables - </strong>in CS, variables hold an assigned value or data of a specific type, they can also hold arrays of values which will be introduced later.</li><li><strong>width - </strong>system variable that holds width of canvas as declared in set up</li><li><strong>height - </strong>system variable that holds height of canvas as declared in setup</li><li><strong>mouseX - </strong>system variable that holds the current x-position of the mouse</li><li><strong>mouseY - </strong>system variable that holds the current y-position of the mouse</li><li><strong>console.log() - </strong>a function that logs a value to the console when the program is run.</li></ul><p><strong>Pre-Req Vocab:</strong><br></p><ul><li><strong>Width - </strong>Horizontal distance of a 2D shape</li><li><strong>Height - </strong>Vertical distance of a 2D shape</li></ul> |
 
 ### **Planning Notes**
 
-| **Planning Notes**                                                                                                                                                                                                                                                                     | Materials Needed                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| <p></p><ul><li>Ensure students have access to the link or slide deck for quicker access to links. </li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>Alpha Editor </li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | _No extra materials required outside of a computer._ |
+|                                                                                                                                                                                                                                                                               |                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **Planning Notes**                                                                                                                                                                                                                                                            | Materials Needed                                     |
+| <ul><li>Ensure students have access to the link or slide deck for quicker access to links.</li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>Alpha Editor</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | _No extra materials required outside of a computer._ |
 
 ### Resources
 
 * [2.1 Variables in p5.js](https://www.youtube.com/watch?v=diGjw5tghYU)
-* [2.2 Variables in p5.js (Make your own)](https://youtu.be/Bn_B3T_Vbxs)
+* [2.2 Variables in p5.js (Make your own)](https://youtu.be/Bn\_B3T\_Vbxs)
 * [mouseX, mouseY, intro to random()](https://youtu.be/EgDvu4itXRQ) (Youtube Video w/ Coding Activity)
 
 ### Assessments
 
-**Formative Assessment: **If you feel it is necessary, you can collect student code from any of the explorations via Google Forms or have them post links in Google Classroom.
+\*\*Formative Assessment: \*\*If you feel it is necessary, you can collect student code from any of the explorations via Google Forms or have them post links in Google Classroom.
 
-**Informal Assessments: **Have students reflect on their problem-solving process during exploration by journaling in a google doc or on paper.  \
-****\
-**Summative Assessment: **Emoji Project (to be completed as a mini-project at the end of LA1)
+\*\*Informal Assessments: \*\*Have students reflect on their problem-solving process during exploration by journaling in a google doc or on paper.\
+\*\*\*\*\
+\*\*Summative Assessment: \*\*Emoji Project (to be completed as a mini-project at the end of LA1)
 
 ### Do Now/Warm Up (\~4 - 8 min)
 
@@ -84,7 +87,7 @@ Students should realize it was frustrating guessing the center and that hitting 
 
 ### **Center Elements With Built-In Variables Width and Height (10 min)**
 
-Explain the definition of variables to students, and then code along to have students perfectly center their ellipse using width and height as parameters for the x and y values. \
+Explain the definition of variables to students, and then code along to have students perfectly center their ellipse using width and height as parameters for the x and y values.\
 \
 Students will need to deduce that they need to divide these numbers in half to achieve a centered look. To assist them with this, your code along should show an example of how to console-log values, such as:
 
@@ -93,7 +96,7 @@ console.log(width)
 console.log(width/2)
 ```
 
-Students will see these values print in the console, but it will not affect anything on the screen. We will use console.log() frequently to debug and test variables. 
+Students will see these values print in the console, but it will not affect anything on the screen. We will use console.log() frequently to debug and test variables.
 
 Once students are comfortable, set them several pair-programming tasks for them to practice before moving on to the next section. For example, you might have them:
 
@@ -121,16 +124,16 @@ function draw() {
 }
 ```
 
-Explain to students that we can also use mouseX and mouseY in our functions as parameters to change our shape based on the position of the mouse, or make shapes follow the mouse. With students, code along an ellipse that follows the mouse. 
+Explain to students that we can also use mouseX and mouseY in our functions as parameters to change our shape based on the position of the mouse, or make shapes follow the mouse. With students, code along an ellipse that follows the mouse.
 
-Then, ask students to make a rectangle with their partner that follows the mouse. After 1-2 minutes, ask students to come back together and explain what is different between the ellipse and the rectangle. Students should recognize that the ellipse “attaches” to the mouse at its center, while the rectangle follows the upper left corner. 
+Then, ask students to make a rectangle with their partner that follows the mouse. After 1-2 minutes, ask students to come back together and explain what is different between the ellipse and the rectangle. Students should recognize that the ellipse “attaches” to the mouse at its center, while the rectangle follows the upper left corner.
 
 Use this as a launch to explain rectMode() and how it can be used to help position rectangles if students want them centered. Sometimes if students are doing calculations based around a point, rectMode on the center might make things a bit more difficult.
 
-Once students are comfortable with using mouseX and mouseY with the position of the shape then have them… 
+Once students are comfortable with using mouseX and mouseY with the position of the shape then have them…
 
 * Use mouse X and/or mouseY to change the height or width of a rectangle
-* Use mouse X and/or mouseY to change the height or width  of a ellipse 
+* Use mouse X and/or mouseY to change the height or width of a ellipse
 * Use mouse X and/or mouseY to change shade of the canvas
 * Use mouse X and mouseY to change the fill of a rectangle or ellipse
 
@@ -148,9 +151,9 @@ If your class struggled, base your discussion around problems they encountered r
 
 ### Extension
 
-After students have a rectangle with their cursor, ask them to work with a partner to try and create a triangle that follows the mouse. [Possible Solution ](http://editor.p5js.org/cs4all/sketches/H1-8b6nN7)
+After students have a rectangle with their cursor, ask them to work with a partner to try and create a triangle that follows the mouse. [Possible Solution](http://editor.p5js.org/cs4all/sketches/H1-8b6nN7)
 
-Many students will struggle with getting a triangle to move together - expect many to either have their triangle reduced to a point (because they make every argument either mouseX or mouseY) or have just one vertice drag with the mouse. \
+Many students will struggle with getting a triangle to move together - expect many to either have their triangle reduced to a point (because they make every argument either mouseX or mouseY) or have just one vertice drag with the mouse.\
 It’s not anticipated that most students will be successful, but if they are, challenge them to use something like quad() or beginShape() (see p5 reference sheet) that will travel with the mouse.
 
-\
+\\

@@ -6,9 +6,9 @@ description: How do the parameters of function effect positioning on the p5 canv
 
 ### Overview && Teacher Feedback
 
-In this learning activity**,** students will create a visual composition using the p5 shape-drawing functions point() & line(). They will be introduced to functions, parameters, and then how to call them in p5.
+In this learning activity\*\*,\*\* students will create a visual composition using the p5 shape-drawing functions point() & line(). They will be introduced to functions, parameters, and then how to call them in p5.
 
-Students should have already created an account and know how to login. If not it would be good to model it before reviewing the editor. The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js.&#x20;
+Students should have already created an account and know how to login. If not it would be good to model it before reviewing the editor. The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js.
 
 This lesson will be the first time that many students will be coding along with the teacher; give students enough time to copy as they get accustomed to code-alongs. Giving students access to the slide deck will help with questions, sharing links and entry points for anyone who may have gotten off track or needs help.
 
@@ -16,10 +16,10 @@ This lesson will be the first time that many students will be coding along with 
 
 Students should be able to:
 
-\*Understand the p5 canvas coordinate system \
-\*Consult the p5 reference for documentation \
-\*Create a line and point  \
-\*Change the grayscale value of a canvas  \
+\*Understand the p5 canvas coordinate system\
+\*Consult the p5 reference for documentation\
+\*Create a line and point\
+\*Change the grayscale value of a canvas\
 \*Use lines to create a rectangle or a house
 
 ### Suggested Duration
@@ -28,19 +28,21 @@ Students should be able to:
 
 ### Blueprint Foundations Student Outcomes
 
-| <p><strong>Abstraction:</strong><br><strong></strong></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain how I might help others identify patterns.</li></ul><p><strong>Algorithms:</strong><br><strong></strong></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul><p><strong>Programming:</strong><br><strong></strong></p><ul><li>Experiment with the commands of a programming language</li><li>Explain why I chose specific commands to communicate my instructions.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Abstraction:</strong><br></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain how I might help others identify patterns.</li></ul><p><strong>Algorithms:</strong><br></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul><p><strong>Programming:</strong><br></p><ul><li>Experiment with the commands of a programming language</li><li>Explain why I chose specific commands to communicate my instructions.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
 
 ### Vocabulary
 
-| <ul><li><strong>IDE - </strong>Integrated development area or IDE is a software application that provides a place for computer programmers to develop code.</li><li><strong>Function - </strong>Functions are lines of code that perform specific tasks.</li><li><strong>Parameters or Arguments - </strong>Are the values inside of parenthesis following the name of the function. These are used to change the outcome of a function</li></ul><p><strong>Pre-Req Vocab:</strong><br><strong></strong></p><ul><li><strong>Width - </strong>Horizontal distance of a 2D shape </li><li><strong>Height -</strong> Vertical distance of a 2D shape</li><li><strong>Cartesian (Coordinate) Plane - </strong>four-quadrant grid with an x &#x26;&#x26; y-axis, origin, etc.</li><li><strong>Vertices - </strong>a point where two or more lines meet</li></ul> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <ul><li><strong>IDE - </strong>Integrated development area or IDE is a software application that provides a place for computer programmers to develop code.</li><li><strong>Function - </strong>Functions are lines of code that perform specific tasks.</li><li><strong>Parameters or Arguments - </strong>Are the values inside of parenthesis following the name of the function. These are used to change the outcome of a function</li></ul><p><strong>Pre-Req Vocab:</strong><br></p><ul><li><strong>Width - </strong>Horizontal distance of a 2D shape</li><li><strong>Height -</strong> Vertical distance of a 2D shape</li><li><strong>Cartesian (Coordinate) Plane - </strong>four-quadrant grid with an x &#x26;&#x26; y-axis, origin, etc.</li><li><strong>Vertices - </strong>a point where two or more lines meet</li></ul> |
 
 ### Planning Notes
 
-| Planning Notes                                                                                                                                                                                                                                                                                                                                                                                                                                            | Materials Needed                                                                                                                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| <p></p><ul><li>You’ll be using the p5 online IDE A LOT - make sure every code example linked in your modified lesson is updated and usable</li><li>Students should log-in to their account at the beginning of each class (build this as a routine in your classroom)</li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>Alpha Editor </li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <p></p><ul><li>Computer or laptop </li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters || Colored Markers (optional)</p> |
+| Planning Notes                                                                                                                                                                                                                                                                                                                                                                                                                                    | Materials Needed                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| <ul><li>You’ll be using the p5 online IDE A LOT - make sure every code example linked in your modified lesson is updated and usable</li><li>Students should log-in to their account at the beginning of each class (build this as a routine in your classroom)</li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>Alpha Editor</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
 
 ### Resources
 
@@ -52,13 +54,14 @@ Students should be able to:
 
 ### Assessments
 
-**Formative: **Grey Scale Practice, Line practice** **\
-**Summative: **Students Share Out, Exit Slip, Student Robot Worksheet
+\*\*Formative: **Grey Scale Practice, Line practice** \*\*\
+\*\*Summative: \*\*Students Share Out, Exit Slip, Student Robot Worksheet
 
 ### Do Now/Warm Up
 
-| <p><strong>This unplugged activity will help reinforce your student’s understanding of the p5.js coordinate plane. Students can work as groups, pairs or individually.</strong><br><strong></strong></p><p><strong>Ask students to: </strong><br><strong></strong></p><ul><li><strong>Take a </strong><a href="https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/edit?usp=sharing"><strong>Line Worksheet</strong></a></li><li><strong>List the starting and ending points of each line using the p5 coordinate plane.</strong></li><li><strong>The first point is on the left and then the second is on the right.</strong></li></ul><p><em><strong>Once students have finished the task, ask:</strong></em></p><ol><li><strong>What would be different if these lines were to be drawn on a regular cartesian plane?</strong></li><li><strong>What are the coordinates for lines 1 - 6?</strong></li></ol> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>This unplugged activity will help reinforce your student’s understanding of the p5.js coordinate plane. Students can work as groups, pairs or individually.</strong><br></p><p><strong>Ask students to:</strong><br></p><ul><li><strong>Take a </strong><a href="https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/edit?usp=sharing"><strong>Line Worksheet</strong></a></li><li><strong>List the starting and ending points of each line using the p5 coordinate plane.</strong></li><li><strong>The first point is on the left and then the second is on the right.</strong></li></ul><p><em><strong>Once students have finished the task, ask:</strong></em></p><ol><li><strong>What would be different if these lines were to be drawn on a regular cartesian plane?</strong></li><li><strong>What are the coordinates for lines 1 - 6?</strong></li></ol> |
 
 ### Introduction (3 min)
 
@@ -66,7 +69,7 @@ Begin this lesson by having students think and list the difficulties of translat
 
 Show students the 3 final projects, or any other p5.js generated images for unit 1, and ask them what are some things they notice about these images. What might they need to learn to make them? What may be a challenge?
 
-### p5.js Web Editor Overview** (5-10 minutes)**
+### p5.js Web Editor Overview\*\* (5-10 minutes)\*\*
 
 It’s up to you if you would like to run this session as a code along, or if you would like to have students clamshell their computers and simply watch. Decide based on what you know of your class and their ability to pay attention! In either situation, if possible, provide steps on a slide deck for any student who may miss steps.
 
@@ -82,13 +85,13 @@ Once students are logged in, continue to the next section.
 
 ### createCanvas() and background() (5 min)
 
-Introducing functions, parameter and the canvas will be the students first code alone so some students may ask you to repeat a step or to zoom in on sections of code.&#x20;
+Introducing functions, parameter and the canvas will be the students first code alone so some students may ask you to repeat a step or to zoom in on sections of code.
 
 While explaining functions remind students that is important to use the right vocabulary words and syntax when describing the values (parameters or arguments) of functions. It will help them communicate their code and thinking to others. This will assist their independent learning and research skills while using the reference guide.
 
-As you code discuss the following:&#x20;
+As you code discuss the following:
 
-Not all functions take the same take of parameters&#x20;
+Not all functions take the same take of parameters
 
 Some parameters have different scales. For example the canvas function by default accepts values 0-255 but in HSB mode it accepts values 0-360.
 
@@ -107,11 +110,11 @@ The visual below can help students have a better understanding.
 
 ![A scale going from black (0) to white (255) with number values marked in between.](<../.gitbook/assets/Screen Shot 2021-10-01 at 10.19.53 AM.png>)
 
-**Then, ask students: **
+\*\*Then, ask students: \*\*
 
 What would happen if you were to add multiple background functions with different values? Which of background color is prioritized? Why?
 
-### Line && Point Function Code Along (5 min)&#x20;
+### Line && Point Function Code Along (5 min)
 
 For this code along it is important to spend time reviewing how the canvas works in p5 and its differences to a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the [following example](http://alpha.editor.p5js.org/SEP/sketches/HkLEZg4Em) with your students.
 
@@ -131,17 +134,15 @@ function draw() {
 }
 ```
 
-
-
 As you code, go over the following:
 
-* Create various examples of a point and line with different parameters. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments.&#x20;
+* Create various examples of a point and line with different parameters. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments.
 * Comments
   * Introduce and consistently model how to create and utilize comments so that students can build great habits of annotating their code.
-  * This is a great practice for debugging, testing new code, temporarily blocking out old code and a great what to keep track of shapes and functions.&#x20;
+  * This is a great practice for debugging, testing new code, temporarily blocking out old code and a great what to keep track of shapes and functions.
 * Ask questions like:
-  * What type of parameters does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”).&#x20;
-  * How many parameters does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments.&#x20;
+  * What type of parameters does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”).
+  * How many parameters does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments.
   * How can the use of comments help organize the different lines?
 
 ### Student Practice (10 min)
@@ -150,7 +151,7 @@ Ask students complete the following exercises on the online editor and title it 
 
 1. Code the lines they found on their worksheet, and then:
 2. Draw a point near the top-right corner of the canvas.
-3. Draw a point in the middle of the canvas.&#x20;
+3. Draw a point in the middle of the canvas.
 4. Draw a point near the bottom-left.
 5. Draw a horizontal line, a vertical line, a diagonal line.
 6. Draw a line from the top-left corner to the bottom-right corner.
@@ -173,7 +174,7 @@ Be sure to conference with students the day they share prior to sharing, even if
 
 _For students that finish early have them:_
 
-* Check that their code has comments so that they can pick up their work from wherever they left off.&#x20;
+* Check that their code has comments so that they can pick up their work from wherever they left off.
 * Use multiple line functions to create a rectangle and a triangle so the lines create a house (pentagon).
 * Add comments for each line position.
 

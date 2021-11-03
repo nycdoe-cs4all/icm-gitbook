@@ -28,3 +28,5 @@
 * [🗃 🗃U2LA1 Mini Project: Make a Traffic Light 🚦](unit-2-respond-and-draw-on-canvas/u2la1-mini-project-make-a-traffic-light.md)
 * [U2LA1.4: Draw with Mouse](unit-2-respond-and-draw-on-canvas/u2la1.4-draw-with-mouse.md)
 * [U2LA1.5: The Map Function](unit-2-respond-and-draw-on-canvas/u2la1.5-the-map-function.md)
+* [U2LA2.1 - Collision with Collide2D](unit-2-respond-and-draw-on-canvas/u2la2.1-collision-with-collide2d.md)
+* [U2LA2.2: Mouse Clicks && Shapes As Buttons](unit-2-respond-and-draw-on-canvas/u2la2.2-mouse-clicks-and-and-shapes-as-buttons.md)
