@@ -32,3 +32,4 @@
 * [U2LA2.2: Mouse Clicks && Shapes As Buttons](unit-2-respond-and-draw-on-canvas/u2la2.2-mouse-clicks-and-and-shapes-as-buttons.md)
 * [🗃 🗃U2LA2 Mini Project: Light Switch Game](unit-2-respond-and-draw-on-canvas/u2la2-mini-project-light-switch-game.md)
 * [U2LA3.1: Key Presses && Nested Conditionals](unit-2-respond-and-draw-on-canvas/u2la3.1-key-presses-and-and-nested-conditionals.md)
+* [🎨 🎨 Unit 2 Final Project: Interactive Drawing App](unit-2-respond-and-draw-on-canvas/unit-2-final-project-interactive-drawing-app.md)
