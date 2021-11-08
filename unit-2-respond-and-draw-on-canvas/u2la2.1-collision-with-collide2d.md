@@ -120,7 +120,41 @@ else{
 
 Once students have completed the code along, give them a chance to finish the rest of the practice activities. The practice is redundant on purpose, and if students get bored, ask them to try to change other things on the hover reaction instead of just color.
 
-### Collide with Other Shapes (15 - 20 minutes)
+This lesson also offers a good moment to reinforce the objects that they have been working with in the prior lessons. While each individual shape only has one property that is changing, because all of these properties are the same (they’re colors!) this could be a way to group the object. Note that because you are using color declarations, you’d need to declare the variable globally and assign color values in setup before changing them in draw. The declaration and initialization would look something like this:
+
+```
+var colors;
+
+function setup(){
+createCanvas(510, 350);
+
+ colors = {
+  rect1 = color(255,0,255),
+  rect2 = color(255,255,0),
+  rect3 = color(0,255,255)
+  //you would continue this for each shape
+ }
+}
+```
+
+And when using/updating the values, it would look something like this:
+
+```
+//rect 1
+  fill(255)
+  rect(20,50,110,110)
+
+if(collidePointRect(mouseX, mouseY, 20, 50, 110, 110){
+  colors.rect1 = color(100,200,50)
+}
+else{
+  colors.rect1 = color(255,0,255)
+}
+```
+
+The big takeaway here is that values grouped in an object should have some commonality between them - either that they are all attributes of the same element, or they are all the same attribute of many elements.
+
+### Collide With Shapes (15 - 20 minutes)
 
 Most likely, this section will be the start of the second day of this lesson cycle. As a launch into it, consider asking students to explore other options in the Collide2D library, or find a common error based on the prior day’s work that you display on the board.
 

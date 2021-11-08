@@ -86,13 +86,29 @@ Ask students to draw an ellipse in the center of their screen with a size of 50.
 
 Ask students to share out some things they may want to change - remind them that this list could be long, and making buttons for everything might not make sense. Some things can change with a key press.
 
-Code along with students; suggest that you all change the size of the circle together. Take notes in code that you want the circle to get bigger when you press b and smaller when you press s. Be sure to demonstrate that because size will change, it needs a new variable to control it.
+Code along with students; suggest that you all change the size of the circle together. Take notes in code that you want the circle to get bigger when you press b and smaller when you press s. Be sure to demonstrate that because size will change, it needs a new variable to control it. **Explain that you will be changing many different attributes of this circle eventually, so even though you are just changing one thing for now, you are going to set up your code using an object, like so:**
+
+```
+var theCircle;
+
+function setup(){
+ createCanvas(400,400)
+
+ theCircle = {
+  size: 200
+ }
+}
+
+function draw(){
+ ellipse(200,200, theCircle.size, theCircle.size)
+}
+```
 
 After the variable and base code has been set up, demonstrate using keyIsPressed in an if statement but do not specify a key yet. Ask students to press b - the circle should get larger. Then ask them to press s or any other key and ask what the problem is:
 
 ```
 if(keyIsPressed){
- circSize += 5 //alternately, circSize = circSize + 5
+ theCircle.size += 5 //alternately, theCircle.size = theCircle.size + 5
 }
 ```
 
@@ -101,10 +117,10 @@ Students should notice that all keys currently cause the circle to grow. This is
 ```
 if(keyIsPressed){
  if(key == 'b'){
-  circSize += 5 //alternately, circSize = circSize + 5
+  theCircle.size += 5 //alternately, theCircle.size = theCircle.size + 5
  }
  else if (key == 's'){
-  circSize -= 5 //alternately, circSize = circSize - 5
+  theCircle.size -= 5 //alternately, theCircle.size = theCircle.size - 5
  }
 }
 ```
@@ -114,10 +130,10 @@ Students should notice that after a point, the circle gets too small and the key
 ```
 if(keyIsPressed){
  if(key == 'b' && circSize < width){
-  circSize += 5 //alternately, circSize = circSize + 5
+  theCircle.size += 5 //alternately, theCircle.size = theCircle.size + 5
  }
  else if (key == 's' && circSize > 0){
-  circSize -= 5 //alternately, circSize = circSize - 5
+  theCircle.size -= 5 //alternately, theCircle.size = theCircle.size - 5
  }
 }
 ```

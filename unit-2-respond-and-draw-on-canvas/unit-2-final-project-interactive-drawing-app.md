@@ -17,7 +17,8 @@ We are better today; we have the tools needed to build our very own, p5 Microsof
 1. Create a program that allows you to draw with the mouse.&#x20;
 2. Create at least 4 buttons that will control different aspects of the program, such as color changes.&#x20;
 3. Create at least 4 key press reactions that will control different aspects of the program, such as brush type.&#x20;
-4. Make sure the user understands how to use your program!
+4. Utilize objects to control multiple attributes of the same element (such as the drawing tool), or the same attribute of multiple elements (such as the button colors).
+5. Make sure the user understands how to use your program!
 
 **Writing Prompt:**
 
