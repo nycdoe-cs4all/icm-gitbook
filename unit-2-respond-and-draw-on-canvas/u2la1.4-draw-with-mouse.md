@@ -6,9 +6,9 @@ description: How can I use built-in variables to create a program that lets the 
 
 ### Overview/Teacher Feedback
 
-This learning activity introduces p5`s program flow, demonstrating how setup() and draw() function. By using p5`s mouse position variables and turning off the background function, they create expressive drawing programs
+This learning activity introduces p5`s program flow, demonstrating how setup() and draw() function. By using p5`s mouse position variables and turning off the background function, they create expressive drawing programs. The use of object literals is a way of keeping code more organized so that students do not get overwhelmed.
 
-* This lesson is primarily a code-along, as it introduces several new concepts. Students will be rewarded for sitting through a very teacher-oriented lesson with ample play time and the chance to share and review each other’s work.&#x20;
+* This lesson is primarily a code-along, as it introduces several new concepts include object literals. Students will be rewarded for sitting through a very teacher-oriented lesson with ample play time and the chance to share and review each other’s work - and object literals, which we will continue using through out the course, will make life MUCH easier.
 * When you introduce frames, some students may struggle with the concept. If students are struggling, you might want to demonstrate with a paper stack - start drawing then replace with another paper and continue drawing, to show how a background erases what was previously there.&#x20;
 * The wrap up and share out can take many forms. It’s recommended you give students time to move, as they are sitting still and working independently for most of the class, and may be eager to move and share.
 
@@ -18,10 +18,11 @@ Students should be able to:
 
 * Understand how moving background out of the draw function allows the user to draw
 * Utilize pmouseX and pmouseY to create something that draws.
+* Use object literal to simplify code that involves many variables
 
 ### Suggested Duration
 
-1 period (\~45 minutes)
+1-2 periods (\~45 minutes each)
 
 ### Blueprint Foundations Student Outcomes
 
@@ -44,12 +45,13 @@ Students should be able to:
 * **pmouseX**: The system variable pmouseX always contains the horizontal position of the mouse or finger in the frame previous to the current frame, relative to (0, 0) of the canvas.&#x20;
 * **pmouseY**: The system variable pmouseY always contains the vertical position of the mouse or finger in the frame previous to the current frame, relative to (0, 0) of the canvas.&#x20;
 * **frameCount**: The system variable frameCount contains the number of frames that have been displayed since the program started.
+* **Object literal**: a comma-separated list of name-value pairs inside of curly braces. (If you’ve worked in other languages, this is like a python dictionary that can also hold functions.)
 
 ### Planning Notes
 
-|                                                                                                           Planning Notes                                                                                                           |                                                                         Materials Needed                                                                         |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| This lesson is scheduled to take one period, but students may finish more quickly; if they do, it is meant to bleed naturally into lesson 2 on the map function, so feel free to start the second in the same period if necessary. | Only a computer is required, but you may want pads of paper or other wireframing supplies to help students express their ideas if they are struggling with code. |
+|                                                                                                                       Planning Notes                                                                                                                      |                                                                         Materials Needed                                                                         |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| This may bleed over into two periods with the addition of object literals in JavaScript. That’s okay! They will also get MUCH more practice with these as they go through the course, so help them as needed and it will become more intuitive over time. | Only a computer is required, but you may want pads of paper or other wireframing supplies to help students express their ideas if they are struggling with code. |
 
 
 
@@ -57,6 +59,7 @@ Students should be able to:
 
 * [Lesson Starter Code ](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0)
 * Video tutorial: [2.1 Variables in p5.js (mouseX, mouseY) ](https://www.youtube.com/watch?v=RnS0YNuLfQQ)| [Code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js/2.1\_Variables\_in\_p5.js\_mouseX\_mouseY)&#x20;
+* [Objects in p5.js](https://youtu.be/-e5h4IGKZRY) (Youtube Tutorial)
 * [Draw with Mouse](https://youtu.be/NQ9-ENFtr6s) (Youtube Video)&#x20;
 * Learning Processing book: [Chapter 3](http://learningprocessing.com/examples/chp03/example-03-02-mouseX-mouseY), sections 3.1, 3.2 and 3.4 | [Code](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp03\_flow/)&#x20;
 * Getting Started With p5.js: Chapter 5, examples 5.04 to 5.09 | [Code](https://github.com/lmccart/gswp5.js-code/tree/master/05\_Response)
@@ -128,7 +131,9 @@ function draw() {
 }
 ```
 
-Once you’ve covered the basics, remind students that we have done just that - the basics. Our ellipse and/or line look very boring. Remind them that we can add stroke/strokeWeight/fill (although lines do not have a fill) and we can even make mouseX/mouseY control those values, too! We can also mix in other parts of p5, such as the dist() function, which will calculate the distance between two points and return a number. This can help us make things happen in our program like getting different appearances when you move your mouse quickly or slowly. Create the following example, finding the distance between mouseX/mouseY and pmouseX/pmouseY
+### Objects Literal in p5.js
+
+Once you’ve covered the basics, remind students that we have done just that - the basics. Our ellipse and/or line look very boring. Remind them that we can add stroke/strokeWeight/fill (although lines do not have a fill) and we can even make mouseX/mouseY control those values, too! With students, create a list somewhere in the room of all the things that you could change about this line (and feel free to get specific - you can change the color or just one value in the color, opacity, etc). Create this example with students before diving into objects:
 
 _Note: Students can conceptually struggle with how speed connects to distance. Be prepared to explain!_
 
@@ -146,13 +151,54 @@ function draw() {
 }
 ```
 
-### **Student Practice (10 - 15 minutes)**
+Before you set students free to play, review the list they made of all the things that could change about their line - that’s a long list, and that means they could be making a lot of variables. This is where our object literals come in: this is a Javascript structure that is really just a comma-separated list of key:value pairs. As students have never encountered this before, walk them through how to implement in the example and talk about how they can call values using keys, as in the example below, which you should code along with students:
+
+```
+//NOTE: You are coding a lot of properites for theLine to demonstrate 
+//objects literal - but you're only going to use one in this example. 
+//A good follow up is 'If I wanted to make a stroke color using this 
+//information, how would I do that?' and then let students come up 
+//with the answer using variable.property notation.
+
+var theLine = {
+    weight:5,
+    red: 255,
+    green: 0,
+    blue: 255,
+    opacity: 100
+  }
+
+function setup() {
+  createCanvas(400, 400);
+  background(220);
+  
+}
+
+function draw() {
+  strokeWeight(theLine.weight)
+  line(mouseX, mouseY, pmouseX, pmouseY)
+}
+```
+
+Follow this by asking students how they could use the key:values from the object to change the stroke, and allow students to come up with the answer you code together. It’s important for students to understand that the keys act like variables, and can be essentially anything - although like with variables, they should make sense based on the program.
+
+Please note that if students need or want to give any keys values based on p5 functions (like color(), dist(), etc) they would need to do so in setup. This can take one of two forms. Either they can declare the variable globally and initialize it in setup, as they do for most of the course, or they can follow the same steps outlined above and then reassign the values in setup or draw.
+
+When reassigning values to keys, it looks very similar to assigning/changing values in a variable, like so:
+
+```
+theLine.weight = 10 //this would assign the value of 10 to the 'weight' key of theLine object.Student Practice (10 - 15 minutes)
+```
+
+(If any students use conditionals in the next section, this would also be how to adjust values!)
+
+### Student Practice && Play
 
 After introductions, provide students 10 - 15 minutes to complete the following challenge
 
 Create a basic drawing program that draws as the mouse moves.
 
-Make your program unique - you can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks. Ask that students make the most UNIQUE program possible, as we will be looking at each other’s code!
+Make your program unique - you can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks. **You MUST use an object literal to hold all of the changing values of your drawing tool! **Ask that students make the most UNIQUE program possible, as we will be looking at each other’s code!
 
 You can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks.
 

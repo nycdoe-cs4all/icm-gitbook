@@ -90,13 +90,36 @@ Challenge students to determine how map could be used to make it so the canvas g
 
 Share out student responses (and test code as needed).
 
-Once students have completed this task, draw their attention to the rest of the starter code, which has a pink rectangle and a series of challenges. Remind them that they will need to create a mapped variable for each to make it run correctly.
+Once students have completed this task, draw their attention to the rest of the starter code, which has a pink rectangle and a series of challenges. Remind them that they will need to create a mapped variable for each to make it run correctly. Map can be a confusing concept for students - if they’d like to stick with individual variables that they will assign mapped values to, that is perfectly fine, however, if they would like to - or if you would like to push them to - continue using object literal, it is important to note that the mapped value would need to be assigned in draw. This is because all the values rely on mouseX/mouseY.
 
-After another example, give students 10 minutes to pair program or independently complete the final challenges as listed in the starter code.
+If students would like to pursue an object, the code would look something like this - consider showing students how to redo the bgColor code to be in an object in a similar way as the following solution to the code challenge:
+
+```
+function setup() {
+  createCanvas(500, 500);
+}
+
+function draw() {
+var rectProps = {
+  weight:map(mouseX,0,500,5,20),
+  size:map(mouseY,0,500,75,175),
+  red:map(mouseY,0,500,0,255)
+}
+ 
+  background(220);
+ 
+  strokeWeight(rectProps.weight)
+  fill(rectProps.red,0,255)
+  rect(210,210,rectProps.size,rectProps.size)
+ 
+}
+```
+
+After another example (like showing bgColor as a property of an object, or reviewing how to set up an object for an attribute of the rectangle), give students 10 minutes to pair program or independently complete the final challenges as listed in the starter code.
 
 ### Return to Draw with Mouse (15 - 20 minutes)
 
-Ask students to return to their drawing application and find ways they can integrate map while still drawing.
+Ask students to return to their drawing application and find ways they can integrate map while still drawing. **Encourage them to create a literal object to hold the properties, as this is what they’ll be working towards in the final project!**
 
 Again, either find time to share code or ask students to post their links for others to see.
 
