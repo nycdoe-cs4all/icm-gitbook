@@ -77,6 +77,8 @@ In 5 minutes, create a program where the background will change as you move your
 
 Discuss the issues that come up during the Do Now with students - they should notice that it’s black less than halfway across the canvas, which is not what we want. Prompt students to think about why this might be, by considering possible mouseX values. You can also print the text or console.log the values to show students what’s happening.
 
+Explain the following: You might have noticed, that the background is fully white before we reach that half of the screen. This is the mouse position ranges from 0 (when we are on the left edge of the canvas), to 600 (when we are on the right edge), while the background gray ranges from 0 to 255. Our maximum mouseX position (600) is not the same as our maximum value for color (255 for white). So when the mouse reaches pixel 255, the screen is white.
+
 Use this to launch the map function, which will be a new concept for many students. Share [this starter code ](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU)with students, then code along mapping mouseX from 0 to the width of the canvas, and run the program so students can see the difference. Your finished code should look like this (all in the draw function):
 
 ```
@@ -88,7 +90,7 @@ background(bgColor)
 
 Challenge students to determine how map could be used to make it so the canvas goes from white (on the left) to black (on the right) - allow them to work on this with their partners for \~2-4 minutes. (They should realize they will need to swap the final mapped values.)
 
-Share out student responses (and test code as needed).
+Share out student responses (and test code as needed). Ensure students understand that this is a situation that happens over and over again as we create responsive systems: we have an input range (in this case 0 to 600), and we need to map it to a certain output range (in this case 0 to 255). It is not hard to solve this problem using simple math (a rule of three), but it is so recurrent that there is a p5 function to solve it quickly, the map function. It takes the variable to be mapped (in this case mouseX), the range that we know it will be in (0 to width), and the output range we want (0 to 255).
 
 Once students have completed this task, draw their attention to the rest of the starter code, which has a pink rectangle and a series of challenges. Remind them that they will need to create a mapped variable for each to make it run correctly. Map can be a confusing concept for students - if they’d like to stick with individual variables that they will assign mapped values to, that is perfectly fine, however, if they would like to - or if you would like to push them to - continue using object literal, it is important to note that the mapped value would need to be assigned in draw. This is because all the values rely on mouseX/mouseY.
 

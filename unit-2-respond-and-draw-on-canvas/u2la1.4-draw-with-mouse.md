@@ -77,7 +77,15 @@ Ask students to recall the difference between the setup() and draw() functions a
 
 ### **Draw with Mouse (20 minutes)**
 
-Start students with [this code](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0) which they should duplicate and put into their own accounts/ Structure this section as a code along. After you have had a chance to review the brain starter, introduce the frameCount variable using the starter code sketch. Students may need an introduction to frames - be prepared to explain the way they work (counting each new frame that is drawn, roughly 60 frames per second) as you run the code and watch the numbers tick up.
+Start students with [this code](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0) which they should duplicate and put into their own accounts/ Structure this section as a code along. After you have had a chance to review the brain starter, introduce the frameCount variable using the starter code sketch.
+
+So far we have been drawing static images: they don't change over time. But one of the exciting things about drawing computationally is that we can make our drawings dynamic: we can have them change over time and respond to what the user does, or to some other kind of input.
+
+You have probably noticed that setup() and draw() come up repeatedly in the examples. These are both functions, like rect and ellipse, except that instead of calling them, we have been declaring them in our code. p5 takes care of calling them for us. In fact, it calls setup once, when our program starts, and then it calls draw once and again, forever (or until we close the sketch window).
+
+To prove it, look at this example. Each time our draw() function is called, p5 adds 1 to a variable called frameCount. In the sketch below, we draw this variable to our canvas, using the text function. As you can see, frameCount keeps growing, as p5 calls draw() over and over again.
+
+Students may need an introduction to frames - be prepared to explain the way they work (counting each new frame that is drawn, roughly 60 frames per second) as you run the code and watch the numbers tick up.
 
 Tell students you are now going to remove the background. Ask for predictions before you make the change - what do they think will happen? Once removed, either by deleting or by moving into setup, ask if their predictions came true and why they think this is taking place. Then, ask what will happen if you put background back into the setup - what will happen now? The code should look like this, and the numbers that were continuously ticking up should still be - except now they will create a blur.
 
@@ -117,7 +125,7 @@ function draw() {
 }
 ```
 
-Students may not want to draw with something that leaves gaps, which means that we need to figure out how to draw with lines. This can be problematic because lines require four values, which means we will need to demonstrate how to use pmouseX and pmouseY to create a continuous line. (Protip - have students comment out the ellipse and replace it with the line instead of deleting the code entirely, so they have a reference for later!)
+Be sure to draw student attention to what happens when you move your mouse quickly, etc as a way to introduce drawing with a line. Analyze sketch as a group and have students explain the application of mouseX and mouseY. Students may not want to draw with something that leaves gaps, which means that we need to figure out how to draw with lines. This can be problematic because lines require four values, which means we will need to demonstrate how to use pmouseX and pmouseY to create a continuous line. (Protip - have students comment out the ellipse and replace it with the line instead of deleting the code entirely, so they have a reference for later!)
 
 ```
 function setup(){
@@ -131,7 +139,7 @@ function draw() {
 }
 ```
 
-### Objects Literal in p5.js
+### Object Literals in p5.js
 
 Once you’ve covered the basics, remind students that we have done just that - the basics. Our ellipse and/or line look very boring. Remind them that we can add stroke/strokeWeight/fill (although lines do not have a fill) and we can even make mouseX/mouseY control those values, too! With students, create a list somewhere in the room of all the things that you could change about this line (and feel free to get specific - you can change the color or just one value in the color, opacity, etc). Create this example with students before diving into objects:
 

@@ -104,7 +104,20 @@ Ask Students to share out their solutions and explanations.
 
 ### Else-If Off the Canvas (20 - 30 minutes)
 
-This section follows the code-along youtube video linked under resources. Ask students to open and duplicate [this starter code](https://editor.p5js.org/cmorgantywls/sketches/QxTcBSExe) so they can save it into their p5.js accounts. Explain to students the existence of the ‘else if’ statement and its purpose in a program, and then code along with them a conditional to check the variable movie. If movie is ‘Ratatouille’, say ‘that movie is about a rat.’ Else if the movie is ‘Tangled’, say ‘That movie is about some hair.’ Otherwise, say ‘I don’t know that movie.’
+This section follows the code-along youtube video linked under resources. Ask students to open and duplicate [this starter code](https://editor.p5js.org/cmorgantywls/sketches/QxTcBSExe) so they can save it into their p5.js accounts. Explain to students the existence of the ‘else if’ statement and its purpose in a program. We can use "else if" to add more possible outcomes to our sketches. Since there are often more than two possible conditions that we want to work with, we can instruct the program to perform different tasks based on a range of conditions.
+
+I might want to tell someone that if it's cold they should wear a coat, but I also may want to say:
+
+* "if it's freezing, wear a coat,&#x20;
+* if it's cold, wear a jacket,&#x20;
+* otherwise just wear a sweater."&#x20;
+* We can do this by adding "else if" to our conditionals between "if" and "else."
+
+![](<../.gitbook/assets/Screen Shot 2021-11-15 at 12.04.49 PM.png>)
+
+The program will test each condition in order. As soon as one condition evaluates to true, the code inside those brackets is executed and the program continues after the statement.
+
+Then code along with them a conditional to check the variable movie. If movie is ‘Ratatouille’, say ‘that movie is about a rat.’ Else if the movie is ‘Tangled’, say ‘That movie is about some hair.’ Otherwise, say ‘I don’t know that movie.’
 
 The finished result of the code along should look like this:
 
@@ -121,6 +134,8 @@ else{
 ```
 
 Once students have completed this, test by changing the value of the variable to get different outcomes. Then, explain that you can have many else if conditions. Then, ask students to complete one large conditional that will tell the user when their birthday is based on their sign. (They should plan for EVERY sign!)
+
+Control flow is very important here because else if will check for multiple conditions but will only execute the first condition that is satisfied and stop then stop checking unless a new if statement is written. Using console.log() to debug and test the conditionals. Commenting is vital for this part. The traffic light problem will help reinforce this idea.
 
 ### Else If Lesson (20 - 30 minutes)
 
