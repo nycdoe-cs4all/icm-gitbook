@@ -206,7 +206,7 @@ After introductions, provide students 10 - 15 minutes to complete the following 
 
 Create a basic drawing program that draws as the mouse moves.
 
-Make your program unique - you can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks. **You MUST use an object literal to hold all of the changing values of your drawing tool! **Ask that students make the most UNIQUE program possible, as we will be looking at each other’s code!
+Make your program unique - you can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks. **You MUST use an object literal to hold all of the changing values of your drawing tool!** Ask that students make the most UNIQUE program possible, as we will be looking at each other’s code!
 
 You can draw with a line, a shape, a design. You can adjust the fill and transparency, and even try to calculate values to change how your program looks.
 

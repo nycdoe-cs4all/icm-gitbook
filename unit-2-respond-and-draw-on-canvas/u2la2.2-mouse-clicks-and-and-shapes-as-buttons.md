@@ -55,7 +55,7 @@ _Use your best judgment in timing! This lesson can easily be completed in one pe
 ### **Vocabulary**
 
 * **mouseIsPressed** - this is a built-in variable that is True when the mouse button is pressed, and False when it is not pressed&#x20;
-* **mousePressed() **- a major callback function in the p5 library that executes once, each time the mouse is pressed.&#x20;
+* **mousePressed()** - a major callback function in the p5 library that executes once, each time the mouse is pressed.&#x20;
 * **Efficiency** - In this case, making it easier and faster to debug and edit your code&#x20;
 * **Nesting Conditionals** - When one conditional lives within another -- so both of the conditions have to be met before your code will execute.
 
@@ -80,7 +80,7 @@ Assess the **learning activity**. Check for the ability to:
 * Repeat the process demonstrated in the code along&#x20;
 * Create a program with clickable shape buttons
 
-Assess the **Wrap Up **assignment. Check for the ability to:
+Assess the **Wrap Up** assignment. Check for the ability to:
 
 * Explain the characteristics or patterns that informed the interface they created.
 

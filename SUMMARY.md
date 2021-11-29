@@ -37,3 +37,4 @@
 ## Unit 3: Arrays, Loops, Media
 
 * [🔮 🔮 Unit 3 Overview](unit-3-arrays-loops-media/unit-3-overview.md)
+* [U3LA1.1: While Loops](unit-3-arrays-loops-media/u3la1.1-while-loops.md)

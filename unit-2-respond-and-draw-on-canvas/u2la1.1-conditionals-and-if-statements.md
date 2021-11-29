@@ -47,7 +47,7 @@ Students should be able to:
 
 ### Vocabulary
 
-**Conditional statements **- is a set of rules performed if a certain condition is met&#x20;
+**Conditional statements** - is a set of rules performed if a certain condition is met&#x20;
 
 **Boolean expressions** - is a logical statement that is either TRUE or FALSE
 
@@ -136,7 +136,7 @@ After, review with students the meaning of the == and that there are other compa
 
 * \== the same as&#x20;
 * != not the same as
-* **< **greater than&#x20;
+* **<** greater than&#x20;
 * <= greater than or equal to&#x20;
 * < less than&#x20;
 * <= less than or equal to

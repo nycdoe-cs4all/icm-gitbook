@@ -81,7 +81,7 @@ Summative Assessment: Coding exercises, Guiding questions, code walkthrough
 * Experiment with the commands of a programming language.&#x20;
 * Demonstrate the benefits of using && and || in their code.
 
-**Assess the wrap-up activity. Check for the ability to: **Describe the difference between && and || operators.
+**Assess the wrap-up activity. Check for the ability to:** Describe the difference between && and || operators.
 
 ### Do Now/Warm-Up (5-10 minutes)
 

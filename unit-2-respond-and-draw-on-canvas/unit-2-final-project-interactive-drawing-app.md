@@ -88,7 +88,7 @@ _This is all quite subjective; in early projects, you should adjust pace to suit
 
 ### **Assessments**
 
-_**This project serves as the final summative Assessment for Unit 2. **_
+_**This project serves as the final summative Assessment for Unit 2.**_&#x20;
 
 Assess the final project. Check for the ability to:
 
