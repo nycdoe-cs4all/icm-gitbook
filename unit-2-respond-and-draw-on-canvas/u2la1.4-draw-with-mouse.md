@@ -6,7 +6,7 @@ description: How can I use built-in variables to create a program that lets the 
 
 ### Overview/Teacher Feedback
 
-This learning activity introduces p5`s program flow, demonstrating how setup() and draw() function. By using p5`s mouse position variables and turning off the background function, they create expressive drawing programs. The use of object literals is a way of keeping code more organized so that students do not get overwhelmed.
+This learning activity introduces p5`s program flow, demonstrating how setup() and draw() function. By using p5`s mouse position variables and turning off the background function, they create expressive drawing programs. The use a new data structure, object literals, is a way of keeping code more organized so that students do not get overwhelmed.
 
 * This lesson is primarily a code-along, as it introduces several new concepts include object literals. Students will be rewarded for sitting through a very teacher-oriented lesson with ample play time and the chance to share and review each other’s work - and object literals, which we will continue using through out the course, will make life MUCH easier.
 * When you introduce frames, some students may struggle with the concept. If students are struggling, you might want to demonstrate with a paper stack - start drawing then replace with another paper and continue drawing, to show how a background erases what was previously there.&#x20;
