@@ -40,3 +40,4 @@
 * [U3LA1.1: While Loops](unit-3-arrays-loops-media/u3la1.1-while-loops.md)
 * [U3LA1.2: For Loops Pt 1](unit-3-arrays-loops-media/u3la1.2-for-loops-pt-1.md)
 * [U3LA1.3: Nested For Loops (For Loops pt 2)](unit-3-arrays-loops-media/u3la1.3-nested-for-loops-for-loops-pt-2.md)
+* [🗃 🗃U3LA1 Mini Project: Wallpaper Design](unit-3-arrays-loops-media/u3la1-mini-project-wallpaper-design.md)
