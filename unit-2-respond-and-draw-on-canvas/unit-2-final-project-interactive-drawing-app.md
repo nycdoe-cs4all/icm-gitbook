@@ -19,6 +19,7 @@ We are better today; we have the tools needed to build our very own, p5 Microsof
 3. Create at least 4 key press reactions that will control different aspects of the program, such as brush type.&#x20;
 4. Utilize objects to control multiple attributes of the same element (such as the drawing tool), or the same attribute of multiple elements (such as the button colors).
 5. Make sure the user understands how to use your program!
+6. **BONUS REQUIREMENT**: Make your canvas saveable by following the instructions under the extension!
 
 **Writing Prompt:**
 
@@ -33,6 +34,30 @@ Write a sales pitch for your program that includes instructions on how to use it
 |        Mild        |                                                                             Medium                                                                            |                                                                                                                          Spicy                                                                                                                         |
 | :----------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | Meets requirements | <p>At least 5 buttons</p><p><br>Create a drawing pen using the mouse ONLY when the mouse is being pressed </p><p></p><p>Have one button be a random color</p> | <p>All medium requirements plus the following… </p><p></p><p>Make an eraser Make a way to clear the canvas </p><p></p><p>Make complex brush types, beyond just drawing with different shapes </p><p></p><p>Create a website to house your creation</p> |
+
+#### OPTIONAL EXTENSION: Make Your Canvas a Saved Image
+
+_You are welcome to briefly teach students how to program in a save option using the_ [_built in saveCanvas() function_](https://p5js.org/reference/#/p5/saveCanvas) _or_ [_save function_](https://p5js.org/reference/#/p5/save)_. The former requires the canvas to be stored in a variable, but the latter will just save an image of the canvas by default. If you choose to introduce this to students, they should use them in a major callback function outside of the draw function to avoid repetition, such as mousePressed or keyPressed, like so:_
+
+```
+/// Option 1 - mousePressed major callback
+//mousePressed happens outside of and after draw (built in event listener for p5.js)
+
+function mousePressed(){
+   save("myCanvas.jpg")
+}
+```
+
+```
+// Option 2 - keyPressed major callback
+//keyPressed happens outside and after draw (built in event listener in p5.js)
+
+function keyPressed(){
+  if(key==='s'){
+    save("myCanvas.jpg")
+  }
+}
+```
 
 ### Overview && Teacher Feedback
 

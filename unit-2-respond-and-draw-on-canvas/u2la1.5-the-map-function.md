@@ -55,6 +55,7 @@ Students should be able to:
 ### Resources
 
 * [The Map Function](https://youtu.be/B-wsiuuT-HM) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU)
+* [Introduction to Objects - Code.org](https://youtu.be/ZunUF\_WGMb4) (Youtube Video)
 * Video tutorial: [2.4 The map() function ](https://www.youtube.com/watch?v=nicMAoW6u1g\&vl=en)| [Code](https://github.com/CodingTrain/website/blob/master/Tutorials/P5JS/p5.js/02/2.4\_p5.js\_map/sketch.js)
 
 ### Assessments
