@@ -10,6 +10,12 @@ In this lesson, students will be introduced to the idea of randomly choosing ele
 
 Selecting a random element from an array is an important concept to know when working on this units final project. It would be a good idea for students to share out their solutions to the exercises so that you can clear up any misconceptions.
 
+#### Nota Bene:
+
+As a note for you, random() as it exists in this curriculum is dependent on the p5.js library. Outside of that, there is a random function in the JavaScript Math library - you would access using Math.random(). However, this function only returns values between 0 and 1, so to use as we have been, there is need to multiply the value by 100. Essentailly, p5.js is doing all of this for us behind the scenes!
+
+It's also worth noting that a part of this abstraction to the p5 random() function is that you can say random(array) and get a random value automatically from the array. This essentially eliminates the need for this lesson, however, it abstracts out some concepts that students may need to work in other programming languages down the road, so we still view this lesson as important. _However,_ if you have students who are truly struggling, this is an option to explore.
+
 ### Objectives
 
 Students should be able to:
