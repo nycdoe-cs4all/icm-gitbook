@@ -156,3 +156,35 @@ function draw(){
 We should now not only see numbers being logged that are within our array, but we should also be able to get an ellipse with a random fill and no error messages. Hoorah!
 
 There's just one more thing we need to fix before we go off to play with this idea. Notice how right now, we are taking saying random(5) because the array is 5 items long? That could become a problem later if I were to add colors but forget to update this piece of code. Or what if I was making a program where users could add their favorite colors and the program would draw with them? &#x20;
+
+Right now, the 5 **** in our random function is what we call a **hardcoded value.** Things that are **hardcoded** will always be the same in a program - and there are plenty of things we would want to be hardcoded, such as the score of a game starting at 0, or the timer for a soccer match half starting at 45, for example. But in this instance, we want to make sure that the value in random is **dynamic** so that if we make changes to our ray, the rest of our program is taken care of.
+
+Remember that **.length** property we learned about in the last lesson? This is where it can come into play, like so:
+
+```
+randomNumber = floor(random(pallete1.length))
+```
+
+By changing the value to the length of the list, we will ensure that even if our lists gets longer (or shorter), the code will always work correctly. This kind of thinking is a best practice as we continue to make our programs more and more complicated. Always be asking yourself: what can I do to make sure this won't break in the future?
+
+### Student Practice
+
+Ask students to create a design where at least 5 shapes change randomly using colors from the array. _All_ shapes in their design should pull colors from the array, to practice calling array elements again, but they do not all need to be randomized.
+
+### Wrap Up
+
+Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
+
+Guiding questions:
+
+* How can we use the random function to select a random element in the array?&#x20;
+* What would happen if we did not use the floor function?
+
+### Extensions
+
+There are several ways that students can push their understanding of arrays:
+
+* Ask students to create a button that will 'reroll' the randomly chosen colors.
+* Have students create an array to hold the random values they generate. They can explore using [.push() ](https://www.w3schools.com/jsref/jsref\_push.asp)to add values to an array, and then call the values of that array for each shape. (This won't be as neat as it could be, yet, since they have not yet explored for loops and arrays.)
+* Which goes to say - could they create a for loop to work through some of the array stuff? Advanced exploration!
+* Learn about the [createColorPicker()](https://p5js.org/reference/#/p5/createColorPicker) function and use that to .push() values to the palette array. (.value will allow them to access the actual color selected by the picker.)
