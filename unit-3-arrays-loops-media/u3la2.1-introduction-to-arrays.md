@@ -127,7 +127,17 @@ function draw() {
 }
 ```
 
-Run a few times, changing out the index value each time. Before running, always ask students to predict what will display. Once they feel comfortable, it's time to hit them with another example!
+Run a few times, changing out the index value each time. Before running, always ask students to predict what will display.&#x20;
+
+Similarly to the chart paper example, after a few iterations of calling single items from the list, demonstrate that you can also pull other data from the list by trying things like this:
+
+```
+console.log(groceryList.length)
+```
+
+It's okay if students do see a ton of use in this feature yet - you can brainstorm some places where that might be useful, or just let it ride until future lessons.
+
+Once they feel comfortable, it's time to hit them with another example!
 
 ### What are arrays? Building Example (15 min)
 
