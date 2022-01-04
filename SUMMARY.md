@@ -42,7 +42,5 @@
 * [U3LA1.3: Nested For Loops (For Loops pt 2)](unit-3-arrays-loops-media/u3la1.3-nested-for-loops-for-loops-pt-2.md)
 * [🗃 🗃U3LA1 Mini Project: Wallpaper Design](unit-3-arrays-loops-media/u3la1-mini-project-wallpaper-design.md)
 * [U3LA2.1: Introduction to Arrays](unit-3-arrays-loops-media/u3la2.1-introduction-to-arrays.md)
-
-***
-
-* [U3LA.2.2: Arrays with floor() and random()](u3la.2.2-arrays-with-floor-and-random.md)
+* [U3LA.2.2: Arrays with floor() and random()](unit-3-arrays-loops-media/u3la.2.2-arrays-with-floor-and-random.md)
+* [🗃 🗃U3LA2 Mini Project 1: Fortune Teller](unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller.md)
