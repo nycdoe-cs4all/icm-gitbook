@@ -82,7 +82,7 @@ Ask students to create an array and fill it with 5 different colors. Then create
 
 _Check to see if students can create and use arrays. Have students share their solutions with the class. Students should be able to call elements from an array._
 
-### **Looping with Arrays**
+### **Looping with Arrays (\~5 - 10 minutes)**
 
 Ask a student or two to share their solution - the first thing you'll want to check for is their array, making sure that they added elements correctly, and the second is their code. Ask students if they notice repetition - they should! They are repeating both the fill, with only the number of the element they are calling changing, as well as the ellipse itself.
 
@@ -105,7 +105,7 @@ You may also need to spend some time explaining < **yourArray.length.** This is 
 
 Now, what students should see is they were once again able to go from a lot of lines of code down to 4 - and that's pretty cool. But we still have some repetition here in sizes - and what if we wanted them to be different sizes? Or what if we wanted them to not be in a row, but be in positions all over the screen?
 
-### **Objects in Arrays**
+### **Objects in Arrays (\~10 - 15 minutes)**
 
 Back in Unit 2, we discussed that **object literals** can hold lots of properties to keep us from repeating ourselves with many different variables. That's still true - and we can even put object literals _inside_ of arrays so that we can loop through and access many properties from a single array!
 
@@ -120,5 +120,80 @@ newArray = [
 
 **NB:** Notice that we have spread this array to make it easier to read. The square brackets are on different lines as are each object, but they are still separated by commas, as all elements in an array always are, regardless of type.
 
-### Generating Arrays with Loops
+Following the conventions we set, ask students to add their next five objects to the array, then show them how they would use this new array in the for loop they had in their draw function, like so:
 
+```
+for(i = 0; i < newArray.length; i++){
+  fill(newArray[i].theColor)
+  ellipse(i*50, newArray[i].y, newArray[i].w, newArray[i].h)
+}
+```
+
+Here, we access the object from the array by using the index value of the object in the array. (That's the newArray\[i] part, which we have seen before!) Now that will get us information about the ENTIRE OBJECT - you can console.log() the information if you want to see it live - but that won't work to plug into our p5 functions, we need the specific values. So as we've seen before with objects, we call them with the .property notation. So saying: newArray\[i].theColor, would access the value for theColor for the object in index position i. Pretty cool, right?
+
+Now, this allowed us to store a lot of information and loop through a lot of information, but right now our output always looks pretty much the same. And that's fine - but what if I wanted it to be different each time my program was run? What if I wanted to use some random values here? You might be tempted to try changing some of the objects to something like this:
+
+```
+newArray = [
+ {theColor: color(random(255),255,0), y:random(height), w: 50, h: random(10,20)}, 
+ {theColor: color(0,0,255), y:100, w: 50, h: 50}
+]
+```
+
+What you'll notice is that while this does get random values, they're doing the flashy thing all over the screen, which isn't always what we want. But if we put the for loop in the setup function (so it only runs once), we will have to move the background, and there is just potential for it to be a whole big thing.
+
+So: how can we make sure that we are able to make objects with random values that maintain those random values?
+
+### Generating with Loops (\~15 minutes)
+
+The answer is that we need to use a loop to make our objects and populate them into the list before we ever draw with them - and good news is, that's easier than it sounds!
+
+First, we are going to start off with an empty list at the top of our program, before the setup or draw function. (This makes it a GLOBAL variable, which means we can access it in both setup and draw.) Like so:
+
+```
+anotherArray = []
+```
+
+When we set up an empty list like this, it tells the program that anotherArray is in fact an array and can do array things - and it basically primes it to be set up like a shopping list. In our mind, let's imagine a long, blank list - there are lots of lines, maybe some check boxes, but nothing written. That's exactly what this empty array looks like - it's empty and waiting to have things added! So let's add them in setup, using a for loop:
+
+```
+anotherArray = []
+
+function setup(){
+  createCanvas(400,400)
+  
+  for(i = 0; i < 10; i++){
+    anotherArray[i] = {theColor: color(random(255),255,0), y:random(height), w: 50, h: random(10,20)}
+  }
+}
+```
+
+Now, here's what we should be asking (and as a teacher, you should pose these to students first before clarifying):
+
+* **What exactly is happening on line 6?** Well, we made a for loop. It starts at 0, and it is going to run until is 10 or higher, and each time it will increase i by one. Because this loop is adding an object to our array, this means it will add 10 objects to that array. (If you change this number, you can get more/less objects - try it!)
+* **What about the whole thing with line 7?** So glad you asked - remember how our array is empty? This line is saying that at an empty index value - whichever empty index value i has landed us on in that moment - take it from being empty to being equal to this object.
+* **Aren't all our objects the same?** Not at all! See how we used random in several places in that object? (And you could of course alter how/where the randomness is being used, as you see fit.) It's going to 'reroll' those random values each time, creating new, unique objects.
+* **What if I don't trust this process?** Pop a console.log(anotherArray) at the end of your setup function, after the for loop, and let's see what we get once the for loop has run. It should be an array of objects - demonstrate how you can click through the arrow levels to display the different objects - each with their own random values for different properties. And if we run the program again, we will get NEW random objects in our array!
+
+So, how would you use this? Great question - if you go back to your draw function, you would make a for loop very much like what you had before, just using this new, randomly generated array. It will then draw each ellipse on the screen with properties from the objects, and those objects will change without you ever having to lift a finger.
+
+### Mini Practice (\~10 minutes)
+
+Randomly generate another array of objects that include properties for rectangles, and then draw the rectangles on the screen.
+
+**NB:** _Students will get more practice with this in the next mini project, which is really just an extended practice for this activity. As students gain more and more skills, the mini-projects become more abundant because their confidence level means the practice does not need to be as prescriptive!_
+
+### Wrap Up
+
+Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each&#x20;
+
+Guiding questions:&#x20;
+
+* Explain how loops and arrays together can make our code more efficient.
+* How do you populate an array with random values? Why is this useful?
+
+### Extensions
+
+Students can absolutely use this skill to go back and redesign their wallpaper if they are looking for a creative challenge.
+
+For students looking for a concept challenge, have them look into vectors in the p5 library, as they will be useful in the next mini project.

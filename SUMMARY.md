@@ -44,7 +44,4 @@
 * [U3LA2.1: Introduction to Arrays](unit-3-arrays-loops-media/u3la2.1-introduction-to-arrays.md)
 * [U3LA.2.2: Arrays with floor() and random()](unit-3-arrays-loops-media/u3la.2.2-arrays-with-floor-and-random.md)
 * [🗃 🗃U3LA2 Mini Project 1: Fortune Teller](unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller.md)
-
-***
-
-* [U3LA2.3: Loops and Arrays](u3la2.3-loops-and-arrays.md)
+* [U3LA2.3: Loops and Arrays](unit-3-arrays-loops-media/u3la2.3-loops-and-arrays.md)
