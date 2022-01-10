@@ -46,3 +46,4 @@
 * [🗃 🗃U3LA2 Mini Project 1: Fortune Teller](unit-3-arrays-loops-media/u3la2-mini-project-1-fortune-teller.md)
 * [U3LA2.3: Loops and Arrays](unit-3-arrays-loops-media/u3la2.3-loops-and-arrays.md)
 * [🗃 🗃U3LA2 Mini Project 2: Random Starfield](unit-3-arrays-loops-media/u3la2-mini-project-2-random-starfield.md)
+* [U3LA3.1: Preload && Images](unit-3-arrays-loops-media/u3la3.1-preload-and-and-images.md)
