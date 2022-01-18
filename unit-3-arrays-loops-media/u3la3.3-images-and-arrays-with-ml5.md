@@ -1,3 +1,7 @@
+---
+description: How can our computer interact with an array of images?
+---
+
 # U3LA3.3: Images and Arrays with ml5
 
 ### Overview && Teacher Feedback

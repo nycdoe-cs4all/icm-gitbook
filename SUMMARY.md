@@ -48,4 +48,5 @@
 * [🗃 🗃U3LA2 Mini Project 2: Random Starfield](unit-3-arrays-loops-media/u3la2-mini-project-2-random-starfield.md)
 * [U3LA3.1: Preload && Images](unit-3-arrays-loops-media/u3la3.1-preload-and-and-images.md)
 * [U3LA3.2: Tint && Image Manipulation](unit-3-arrays-loops-media/u3la3.2-tint-and-and-image-manipulation.md)
+* [🗃 🗃U3LA2 Mini Project 3: Vision Board](unit-3-arrays-loops-media/u3la2-mini-project-3-vision-board.md)
 * [U3LA3.3: Images and Arrays with ml5](unit-3-arrays-loops-media/u3la3.3-images-and-arrays-with-ml5.md)
