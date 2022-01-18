@@ -2,6 +2,10 @@
 
 * [Introduction to Computational Media](README.md)
 
+## Curriculum Extras
+
+* [🔮 Curriculum Extras Overview](curriculum-extras/curriculum-extras-overview.md)
+
 ## Unit 1: Drawing, Variables, and Random
 
 * [🔮 Unit 1 Overview](unit-1-drawing-variables-and-random/unit-1-overview.md)
