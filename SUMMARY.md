@@ -5,6 +5,7 @@
 ## Curriculum Extras
 
 * [🔮 Curriculum Extras Overview](curriculum-extras/curriculum-extras-overview.md)
+* [Timers in p5.js](curriculum-extras/timers-in-p5.js.md)
 
 ## Unit 1: Drawing, Variables, and Random
 
