@@ -57,3 +57,4 @@
 * [U3LA3.3: Images and Arrays with ml5](unit-3-arrays-loops-media/u3la3.3-images-and-arrays-with-ml5.md)
 * [U3LA4.1 Fonts && Text Styling](unit-3-arrays-loops-media/u3la4.1-fonts-and-and-text-styling.md)
 * [🗃 🗃U3LA4: Typography Project](unit-3-arrays-loops-media/u3la4-typography-project.md)
+* [U3LA5.1: Loading & Playing Sound Files](unit-3-arrays-loops-media/u3la5.1-loading-and-playing-sound-files.md)
