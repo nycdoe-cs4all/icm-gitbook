@@ -137,7 +137,7 @@ Point out to students that there are also areas next to the search results where
 
 Once you choose a file to use, click on the file name to go to the file page where more information is available. This page has a download button to save the file, comments from users and a link to the specific license used by the file.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Students should keep links to all of the files used for their projects, regardless of the license. When students download a sound to use in a project, they should copy the URL where they found the sound and include it in their project comments. In the comments at the top of the sketch add the link to the original sound source, like so:
 
