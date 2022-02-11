@@ -59,3 +59,7 @@
 * [🗃 🗃U3LA4: Typography Project](unit-3-arrays-loops-media/u3la4-typography-project.md)
 * [U3LA5.1: Loading & Playing Sound Files](unit-3-arrays-loops-media/u3la5.1-loading-and-playing-sound-files.md)
 * [🗃 🗃U3LA5 Mini Project: Keyboard/Patatap](unit-3-arrays-loops-media/u3la5-mini-project-keyboard-patatap.md)
+
+***
+
+* [🎨 🎨Unit 3 Final Project: Random Meme Generator](unit-3-final-project-random-meme-generator.md)
