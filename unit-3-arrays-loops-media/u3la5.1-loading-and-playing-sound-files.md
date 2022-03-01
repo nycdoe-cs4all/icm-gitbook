@@ -120,7 +120,7 @@ Alright, with all of that behind us, it's time to go forth and find our first so
 
 Ask students to login to Freesound.org. We will begin by using the search bar to look for all the same sound, let's say 'saxophone solo.'
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Make sure students have found this bar, then enter the search query and hit enter. The results page will list Search results with some information about the sound file and preview player. The sound can be played to preview here but can only be downloaded from the sound page. The search results show the duration of the sound file, the user who uploaded the file, the name, rating, number of downloads and date of upload.
 
