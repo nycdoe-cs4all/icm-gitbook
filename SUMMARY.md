@@ -76,3 +76,4 @@
 * [U4LA1.2: Move In All Directions & Make it Bounce](unit-4-motion-animation-transformation/u4la1.2-move-in-all-directions-and-make-it-bounce.md)
 * [🗃 🗃 U4LA.1: Make a Floating DVD Logo](unit-4-motion-animation-transformation/u4la.1-make-a-floating-dvd-logo.md)
 * [U4LA2.1: Translation Battleship](unit-4-motion-animation-transformation/u4la2.1-translation-battleship.md)
+* [U4LA2.2: Rotations](unit-4-motion-animation-transformation/u4la2.2-rotations.md)
