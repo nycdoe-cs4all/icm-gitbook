@@ -78,3 +78,4 @@
 * [U4LA2.1: Translation Battleship](unit-4-motion-animation-transformation/u4la2.1-translation-battleship.md)
 * [U4LA2.2: Rotations](unit-4-motion-animation-transformation/u4la2.2-rotations.md)
 * [U4LA3.1: Sine & Oscillating Motion](unit-4-motion-animation-transformation/u4la3.1-sine-and-oscillating-motion.md)
+* [U4LA3.2: Cosine & Circular Motion](unit-4-motion-animation-transformation/u4la3.2-cosine-and-circular-motion.md)
