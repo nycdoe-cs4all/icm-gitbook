@@ -83,7 +83,7 @@ Way back when the ancient Greeks (shout out Pythagoras) noticed some very intere
 
 This relationship is shown in the diagram below. Note that as the angle increases in size, so does the value of **sine**, but once sine hits 1, it starts heading back down to -1, and then back up towards 1.
 
-![Diagram of an angle changing and the sine being graphed.](<.gitbook/assets/image (2).png>)
+![Diagram of an angle changing and the sine being graphed.](<../.gitbook/assets/image (2).png>)
 
 ### Sine in p5.js
 
