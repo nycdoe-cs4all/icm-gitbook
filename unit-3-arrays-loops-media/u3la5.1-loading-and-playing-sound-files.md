@@ -124,7 +124,7 @@ Ask students to login to Freesound.org. We will begin by using the search bar to
 
 Make sure students have found this bar, then enter the search query and hit enter. The results page will list Search results with some information about the sound file and preview player. The sound can be played to preview here but can only be downloaded from the sound page. The search results show the duration of the sound file, the user who uploaded the file, the name, rating, number of downloads and date of upload.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 Point out to students that there are also areas next to the search results where you can use filters to find specific attributes within the results. Some examples of things you can use to filter your search are:
 
