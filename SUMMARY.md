@@ -80,3 +80,7 @@
 * [U4LA3.1: Sine & Oscillating Motion](unit-4-motion-animation-transformation/u4la3.1-sine-and-oscillating-motion.md)
 * [U4LA3.2: Cosine & Circular Motion](unit-4-motion-animation-transformation/u4la3.2-cosine-and-circular-motion.md)
 * [🎨 🎨 Unit 4 Final Project: Animated Greeting Card/PSA](unit-4-motion-animation-transformation/unit-4-final-project-animated-greeting-card-psa.md)
+
+## Unit 5: Functions & Abstraction
+
+* [🔮 🔮 Unit 5 Overview](unit-5-functions-and-abstraction/unit-5-overview.md)
