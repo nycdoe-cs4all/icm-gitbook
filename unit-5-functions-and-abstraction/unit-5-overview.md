@@ -55,9 +55,9 @@ For many, this is also the final unit of ICM (unless you have time for the two r
 
 ### **Assessment**
 
-Formative Assessments: Each lesson contains suggestions for deliverables that could be evaluated as a formative assessment for that day’s learning.
+**Formative Assessments:** Each lesson contains suggestions for deliverables that could be evaluated as a formative assessment for that day’s learning.
 
-Summative Assessments: Redo a past project using custom functions
+**Summative Assessments:** Redo a past project using custom functions
 
 ### **Overview of Instructional Materials**
 
