@@ -85,3 +85,4 @@
 
 * [🔮 🔮 Unit 5 Overview](unit-5-functions-and-abstraction/unit-5-overview.md)
 * [U5LA1.1: What is Abstraction?](unit-5-functions-and-abstraction/u5la1.1-what-is-abstraction.md)
+* [U5LA1.2: Intro to Functions & Function Calls](unit-5-functions-and-abstraction/u5la1.2-intro-to-functions-and-function-calls.md)
