@@ -88,3 +88,4 @@
 * [U5LA1.2: Intro to Functions & Function Calls](unit-5-functions-and-abstraction/u5la1.2-intro-to-functions-and-function-calls.md)
 * [U5LA1.3: Draw with Functions](unit-5-functions-and-abstraction/u5la1.3-draw-with-functions.md)
 * [🗃 🗃 U5LA1 Mini Project: Custom Function Library](unit-5-functions-and-abstraction/u5la1-mini-project-custom-function-library.md)
+* [U5LA2.1: Data Type Scavenger Hunt](unit-5-functions-and-abstraction/u5la2.1-data-type-scavenger-hunt.md)
