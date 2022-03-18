@@ -5,7 +5,8 @@
 ## Curriculum Extras
 
 * [🔮 Curriculum Extras Overview](curriculum-extras/curriculum-extras-overview.md)
-* [Imposter Syndrome (pt. 1)](curriculum-extras/imposter-syndrome-pt.-1.md)
+* [Imposter Syndrome (pt. 1)](curriculum-extras/imposter-syndrome-pt.-1/README.md)
+  * [Imposter Syndrome (pt 2)](curriculum-extras/imposter-syndrome-pt.-1/imposter-syndrome-pt-2.md)
 * [Timers in p5.js](curriculum-extras/timers-in-p5.js.md)
 * [Time Functions: Crazy Clock Mini Project](curriculum-extras/time-functions-crazy-clock-mini-project.md)
 * [Using Sliders](curriculum-extras/using-sliders.md)
