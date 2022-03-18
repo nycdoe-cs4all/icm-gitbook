@@ -63,7 +63,7 @@ Ask students to open up their copy of the CodeWars Functions Worksheet. They wil
 
 For students who may struggle, ask them to select the language - which is JavaScript - and then fix the issue in the puzzle they are given:
 
-![Select a language on the CodeWars website](<.gitbook/assets/Screen Shot 2022-03-18 at 10.07.58 AM.png>) ![Solve the simple puzzle](<.gitbook/assets/Screen Shot 2022-03-18 at 10.08.25 AM.png>)
+![Select a language on the CodeWars website](<../.gitbook/assets/Screen Shot 2022-03-18 at 10.07.58 AM.png>) ![Solve the simple puzzle](<../.gitbook/assets/Screen Shot 2022-03-18 at 10.08.25 AM.png>)
 
 The solution just involves putting 'return' in front of a\*b. (Or alternately, saving a\*b to a variable and returning the variable.)
 

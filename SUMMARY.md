@@ -90,7 +90,5 @@
 * [🗃 🗃 U5LA1 Mini Project: Custom Function Library](unit-5-functions-and-abstraction/u5la1-mini-project-custom-function-library.md)
 * [U5LA2.1: Data Type Scavenger Hunt](unit-5-functions-and-abstraction/u5la2.1-data-type-scavenger-hunt.md)
 * [U5LA2.2: Functions that Return Values](unit-5-functions-and-abstraction/u5la2.2-functions-that-return-values.md)
-
-***
-
-* [U5LA2.3: Functions with Purpose](u5la2.3-functions-with-purpose.md)
+* [U5LA2.3: Functions with Purpose](unit-5-functions-and-abstraction/u5la2.3-functions-with-purpose.md)
+* [U5LA2.4: Functions with Boolean Returns](unit-5-functions-and-abstraction/u5la2.4-functions-with-boolean-returns.md)
