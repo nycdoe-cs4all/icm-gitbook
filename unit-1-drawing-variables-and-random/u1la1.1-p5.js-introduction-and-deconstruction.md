@@ -31,19 +31,19 @@ Students should be able to...
 
 ### **Vocabulary**
 
-* \*\*Computational Media - \*\*The practice of using programming to build expressive and interactive computer applications and media.
-* \*\*p5.js - **An open**-\*\*source Javascript library that allows people to make web pages animated and interactive.
-* \*\*IDE - \*\*Integrated development area is a software application that provides a place for computer programmers to develop code.
-* \*\*Unplugged Activity - \*\*an activity that can be conducted without the use of computers or electronic equipment.
-* \*\*Abstraction - \*\*Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics
+* **Computational Media** - The practice of using programming to build expressive and interactive computer applications and media.
+* **p5.js** - An open-source Javascript library that allows people to make web pages animated and interactive.
+* **IDE** - Integrated development area is a software application that provides a place for computer programmers to develop code.
+* **Unplugged Activity** - an activity that can be conducted without the use of computers or electronic equipment.
+* **Abstraction** - Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics
 
 **Pre-Req Vocab:**
 
-* \*\*Width - \*\*Horizontal distance of a 2D shape
-* \*\*Height - \*\*Vertical distance of a 2D shape
-* \*\*Radius - \*\*distance from the center to edge of a circle
-* \*\*Diameter - \*\*distance from edge to edge of a circle passing through the center point
-* \*\*Cartesian (Coordinate) Plane - \*\*four quadrant grid with an x & y axis, origin, etc.
+* **Width** - Horizontal distance of a 2D shape
+* **Height** - Vertical distance of a 2D shape
+* **Radius** - distance from the center to edge of a circle
+* **Diameter** - distance from edge to edge of a circle passing through the center point
+* **Cartesian (Coordinate) Plane** - four quadrant grid with an x & y axis, origin, etc.
 
 ### Planning Notes
 
@@ -60,8 +60,8 @@ Students should be able to...
 
 ### Assessments
 
-\*\*Formative: \*\*Peer reflection, Exit Slip\
-\*\*Summative: \*\*Students Share Out, Student Robot Worksheet Review
+**Formative**: Peer reflection, Exit Slip\
+**Summative**: Students Share Out, Student Robot Worksheet Review
 
 ### Do Now/Warm Up (5 min)
 

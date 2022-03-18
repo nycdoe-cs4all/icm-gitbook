@@ -35,8 +35,8 @@ Students should be able to:
 
 ### Vocabulary
 
-* \*\*Function - \*\*Functions are lines of code that perform specific tasks.
-* \*\*Parameters - \*\*Parameters are the values inside of parenthesis following the name of the function.
+* **Function** - Functions are lines of code that perform specific tasks.
+* **Parameters** - Parameters are the values inside of parenthesis following the name of the function.
 * **triangle()**
 * **quad()**
 * **openShape()**
@@ -44,9 +44,9 @@ Students should be able to:
 
 **Pre-Req Vocab:**
 
-* \*\*Vertices - \*\*a corner or a point where lines meet.
-* \*\*Quadrilateral - \*\*A four sided polygon.
-* \*\*Triangle - \*\*Three sided polygon
+* **Vertices** - a corner or a point where lines meet.
+* **Quadrilateral** - A four sided polygon.
+* **Triangle** - Three sided polygon
 
 ### Planning Notes
 
@@ -71,7 +71,7 @@ Students should be able to:
 
 * \_Having an open discussion on these questions is a good way to gauge the temperature of the classroom. Students should know that a programmer does not know everything but they have them collaborate and research skills to find creative solutions. \_
 * \_Creating a poster from students' feedback can help create a successful and safe risk -aking culture in your classroom. \_
-* _Interesting Video on Tech Culture: _[_https://www.youtube.com/watch?v=QW834PGYnYI_](https://www.youtube.com/watch?v=QW834PGYnYI)
+* \_Interesting Video on Tech Culture: \_[_https://www.youtube.com/watch?v=QW834PGYnYI_](https://www.youtube.com/watch?v=QW834PGYnYI)
 
 Ask Students:
 

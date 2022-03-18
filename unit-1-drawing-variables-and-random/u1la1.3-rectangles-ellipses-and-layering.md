@@ -24,7 +24,7 @@ This lesson provides opportunities for pair programming. Please note that paired
 ### Objectives
 
 |                                                                                                                                                                                                                                                                                                      |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <p><strong>Students should be able to:</strong><br></p><ul><li>Consult the p5 reference</li><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
 
 ### Suggested Duration
@@ -42,7 +42,7 @@ This lesson provides opportunities for pair programming. Please note that paired
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <ul><li><strong>Function - </strong>Functions are lines of code that perform specific tasks.</li><li><strong>Parameters - </strong>Are the values inside of a parenthesis following the name of the function.</li><li><strong>rect() function - </strong>Draws a rectangle to the screen.</li><li><strong>ellipse() function - </strong>Draws an ellipse (oval) to the screen.</li></ul><p><strong>Pre-Req Vocab:</strong><br></p><ul><li><strong>Width - </strong>Horizontal distance of a 2D shape</li><li><strong>Height - </strong>Vertical distance of a 2D shape</li><li><strong>Rectangle - </strong>a 2D figure with four straight sides and four right angles</li><li><strong>Ellipse - </strong>a regular oval shape</li></ul> |
+| <ul><li><strong>Function -</strong> Functions are lines of code that perform specific tasks.</li><li><strong>Parameters -</strong> Are the values inside of a parenthesis following the name of the function.</li><li><strong>rect() function -</strong> Draws a rectangle to the screen.</li><li><strong>ellipse() function -</strong> Draws an ellipse (oval) to the screen.</li></ul><p><strong>Pre-Req Vocab:</strong><br></p><ul><li><strong>Width -</strong> Horizontal distance of a 2D shape</li><li><strong>Height -</strong> Vertical distance of a 2D shape</li><li><strong>Rectangle -</strong> a 2D figure with four straight sides and four right angles</li><li><strong>Ellipse -</strong> a regular oval shape</li></ul> |
 
 ### **Planning Notes**
 
@@ -69,17 +69,17 @@ This will be an unplugged activity, it is important to review how to find the po
 
 To review how rectangles and ellipses work in p5 ask students ask the following:
 
-\*Which corner is used to determine the position of a rectangle?\
-**\***What two values are used to determine the position of a rectangle?\
-\*Is the width and the height of the ellipse a diameter or a radius?
+* Which corner is used to determine the position of a rectangle?
+* What two values are used to determine the position of a rectangle?
+* Is the width and the height of the ellipse a diameter or a radius?
 
 ### Draw a Rectangle (10 Min)
 
 Bring students back together to briefly code-along the rect() function. They should first be introduced to it along with its parameters and with examples showing different values for width and height.
 
 Begin by introducing the rectangle function and how it works. You may have students copy it into their notes or add it onto a function poster around the classroom.\
-\*\*\*\*\
-\*\*\*\*As you code discuss the following:
+\
+**As you code discuss the following:**
 
 * How many parameters does rect() accept? Use the [reference](https://p5js.org/reference/#/p5/rect) to show its arguments.
 * How can we tell what are the “x” and “y” values of the position of a rectangle or other shapes?
@@ -100,14 +100,14 @@ After discussing the rect() function give students a moment to practice adding m
 ### Drawing Order
 
 Some questions may come up about layering or drawing order if so tell them that in p5, shape and color functions are rendered to the canvas in the order they're written in the program - from top to bottom.\
-\*\*\*\*\
-\*\*Algorithms - \*\*Drawing order and control flow in p5.js is an important CS practice. This concept will appear often throughout the course.
+\
+**Algorithms** - Drawing order and control flow in p5.js is an important CS practice. This concept will appear often throughout the course.
 
 ![Shows setup and draw function, setup labeled as running once, draw labeled as running in a loop.](<../.gitbook/assets/Screen Shot 2021-10-01 at 11.45.10 AM.png>)
 
 ### Student Practice #1 (5 Min)
 
-Ask students to complete the challenge of recreating the following shapes on their canvas. \*\*NB: \*\*The real challenge is recognizing how to get all their edges to show!
+Ask students to complete the challenge of recreating the following shapes on their canvas. **NB**: _The real challenge is recognizing how to get all their edges to show!_
 
 ![Grey canvas with a white square of equal size in each corner.](<../.gitbook/assets/Screen Shot 2021-10-01 at 11.55.29 AM.png>)
 
@@ -119,12 +119,12 @@ This activity will reinforce students’ knowledge of coordinate points and posi
 
 Some students may want to create more squares or experiment with sizing. Circulate the room to ensure students are using comments to label the different rectangles.
 
-\*\*Ask students: \*\*
+**Ask students:**
 
 What is the relationship between the x & y coordinates and the height & width?\
 Explain your process for layering the rectangles in the challenge.
 
-### Draw an Ellipse\*\* (5 min)\*\*
+### Draw an Ellipse (5 min)
 
 Bring students back together to briefly code-along the ellipse() function. They should first be introduced to it along with its parameters and with examples showing different values for width and height.
 

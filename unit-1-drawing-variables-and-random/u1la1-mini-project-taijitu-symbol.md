@@ -18,32 +18,29 @@ The dark or shady side represents Yin, and the white or sunny side represents Ya
 
 Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/susanev/p5js-workshops/tree/master/1-day-workshop)
 
-**Directions**: Your task is to recreate the Taijitu symbol using code in p5.&#x20;
+**Directions**: Your task is to recreate the Taijitu symbol using code in p5.
 
-**Requirements**:\
-
+**Requirements**:\\
 
 1. Use shapes that we covered in this unit
 2. Add comments to the different shapes
 3. Use fill and stroke the change the colors of the shape
 4. Center it in the middle of the canvas.
 
-**Writing Prompt: **
+**Writing Prompt:**
 
 * Look around the room you are in and see how many yin/yang relationships you can see. List them.
 * Research and find out what are some pros and cons to coding.
 
 ### Output
 
-
-
 ![p5.js Generated Taijitu Symbol on grey background](https://lh6.googleusercontent.com/18BL39dWOzL9mEZfpreUZaOBfviNJ4275sKL-FWU1KqtNOFm8qETuTjvfoKf4SHYoUei0\_0A69wWcky5QmyWN5NTo6sGBdKrIdzoTG7iV93fpBEGJTUhApZaWSZDRPRaJDZX3cqk=s0)
 
 ### Extensions
 
-**Directions: **Create your own meaningful symbol, like the Taijitu it should have meaning and represent something.
+**Directions**: Create your own meaningful symbol, like the Taijitu it should have meaning and represent something.
 
-**Writing Prompt: **
+**Writing Prompt:**
 
 * Explain the meaning to your symbol.
 * Why did you choose to create this symbol?
