@@ -81,13 +81,13 @@ Ask the students how they arrived - they will not state the rule. Explain to eve
 
 Explain to students that you are going to practice the idea of defining functions and calling them with different inputs to see what is returned altogether. You will start by looking in a JavaScript format, but eventually, the practice will be in **pseudocode** that is very similar.
 
-![Side by side comparison of a mystery function in Javascript and DeltaMath](<../../.gitbook/assets/Screen Shot 2022-03-18 at 9.55.23 AM.png>)
+![Side by side comparison of a mystery function in Javascript and DeltaMath](<../.gitbook/assets/Screen Shot 2022-03-18 at 9.55.23 AM.png>)
 
 Display both and explain the similarities and differences as you walk through how to read the code and how to map out their thinking to determine an answer. Here, we would see that a = 5, b = 6, and c = -4, so when we substitute, we would be returning 6 - 5 - -4 which gets saved to the variable ans. When we console.log(ans)/DISPLAY(ans) we thus end up with an answer of 3.
 
 After going through one as a class, ask students to attempt the following independently. **You may wish to give this question as a post-it note check so you can collect student answers and group for remediation as students move into independent practice on DeltaMath.**
 
-![Side by side comparison of a mystery function in Javascript and DeltaMath](<../../.gitbook/assets/Screen Shot 2022-03-18 at 9.56.44 AM.png>)
+![Side by side comparison of a mystery function in Javascript and DeltaMath](<../.gitbook/assets/Screen Shot 2022-03-18 at 9.56.44 AM.png>)
 
 Students should arrive at an answer of -19. Ask a student to step through their process and correct any errors or misconceptions, or group students based on understanding to remediate during independent practice.
 
