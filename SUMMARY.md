@@ -93,3 +93,4 @@
 * [U5LA2.3: Functions with Purpose](unit-5-functions-and-abstraction/u5la2.3-functions-with-purpose.md)
 * [U5LA2.4: Functions with Boolean Returns](unit-5-functions-and-abstraction/u5la2.4-functions-with-boolean-returns.md)
 * [🗃 🗃 U5LA2 Mini Project: Build Your Own Challenge](unit-5-functions-and-abstraction/u5la2-mini-project-build-your-own-challenge.md)
+* [🔮 🔮 Unit 5 Final Project: Menu of Options](unit-5-functions-and-abstraction/unit-5-final-project-menu-of-options.md)
