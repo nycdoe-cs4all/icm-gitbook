@@ -12,8 +12,8 @@ This curriculum was developed by the [NYCDOE CS4All](http://cs4all.nyc) academic
 
 While this is an introductory computer science course, it can serve as a terrific AP Computer Science Principles Prep course. Please use the guides below to assist if you are a teacher whose students will eventually take AP CSP, or who is just looking to broaden the content covered within this course:
 
-* [AP CSP/ICM Companion Guide](https://docs.google.com/document/d/1ci--4DONVH2xYddqeAq8F4\_RmlgBY\_Tvug56ueWhBj0/edit)
-* [Social Implications of Computing Companion Guide](https://docs.google.com/document/d/1GVzOsjulSYxlEj51HJCFeo64VuXrf3aHdA2zH4X8cv8/edit)
+* [AP CSP/ICM Companion Guide](https://docs.google.com/document/d/1ci--4DONVH2xYddqeAq8F4\_RmlgBY\_Tvug56ueWhBj0/preview) (DRAFT - sorry for the mess!)
+* [Social Implications of Computing Companion Guide](https://docs.google.com/document/d/1GVzOsjulSYxlEj51HJCFeo64VuXrf3aHdA2zH4X8cv8/preview) (DRAFT - sorry for the mess!)
 
 ### Curriculum Materials on Peblio
 
