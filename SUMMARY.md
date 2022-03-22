@@ -12,7 +12,6 @@
 * [Using Sliders](curriculum-extras/using-sliders.md)
 * [Getting Sound from Mic](curriculum-extras/getting-sound-from-mic.md)
 * [Sound Recognition with ml5](curriculum-extras/sound-recognition-with-ml5.md)
-* [Alert, Confirm, Prompt](curriculum-extras/alert-confirm-prompt.md)
 
 ## Unit 1: Drawing, Variables, and Random
 
