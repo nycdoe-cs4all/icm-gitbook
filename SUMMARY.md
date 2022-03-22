@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction to Computational Media](README.md)
+* [How to Use this Curriculum](how-to-use-this-curriculum.md)
 
 ## Curriculum Extras
 
