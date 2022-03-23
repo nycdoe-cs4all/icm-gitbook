@@ -19,39 +19,47 @@ At this point students should have a basic understanding of variables and how to
 Students should be able to:
 
 * Use random() to generate different positioning, sizing and grayscale fill
-* Assign random() to a function 
+* Assign random() to a function
 * Use random() in the correct scope
 
 ### Suggested Duration
 
 1 period (45 minutes)
 
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundational Student Outcomes
 
 **Abstraction:**
 
-* Describe how I might use patterns to express an idea. 
-* Describe different things I tried in order to achieve a goal. 
+* Describe how I might use patterns to express an idea.
+* Describe different things I tried in order to achieve a goal.
 * Explain why using patterns is necessary when creating with a computer.
 
 **Algorithms:**
 
-* Describe more than one set of instructions that might complete a task. 
-* Describe how instructions can have different outputs depending on inputs. 
-* Explain why I used specific instructions to complete a task. 
+* Describe more than one set of instructions that might complete a task.
+* Describe how instructions can have different outputs depending on inputs.
+* Explain why I used specific instructions to complete a task.
 * Compare and contrast my instructions with other instructions that complete the same task.
 
 **Programming**
 
-* Experiment with the commands of a programming language. 
-* Explain why I chose specific commands to communicate my instructions. 
-* Discuss what can and cannot be done with a specific set of commands. 
+* Experiment with the commands of a programming language.
+* Explain why I chose specific commands to communicate my instructions.
+* Discuss what can and cannot be done with a specific set of commands.
 * Teach another person how to use a development environment and the basics of programming.
 
 ### Vocabulary
 
-* **random() **- A function that returns a number in a given interval 
-* **int() **- A mathematical function that converts the value into an integer.
+* \*\*random() \*\*- A function that returns a number in a given interval
+* \*\*int() \*\*- A mathematical function that converts the value into an integer.
 
 **Pre-req vocab:**
 
@@ -59,24 +67,24 @@ Students should be able to:
 
 ### Planning Notes
 
-|                                                                                               Planning Notes                                                                                              |          Materials          |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: |
-| Ensure students have access to the link or slide deck for quicker access to links. Students will need 3 tabs open for every lesson of this course:  Editor, Slide Decks (optional), P5.js Reference Guide | No extra materials required |
+|                                                                                              Planning Notes                                                                                              |          Materials          |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------: |
+| Ensure students have access to the link or slide deck for quicker access to links. Students will need 3 tabs open for every lesson of this course: Editor, Slide Decks (optional), P5.js Reference Guide | No extra materials required |
 
 ### Resources
 
-* Video tutorial: [2.5 The random() function](https://youtu.be/nfmV2kuQKwA) | [Code](https://github.com/CodingTrain/website/blob/master/Tutorials/P5JS/p5.js/02/2.5\_p5.js_random/sketch.js) 
+* Video tutorial: [2.5 The random() function](https://youtu.be/nfmV2kuQKwA) | [Code](https://github.com/CodingTrain/website/blob/master/Tutorials/P5JS/p5.js/02/2.5\_p5.js\_random/sketch.js)
 * [Random Review with Variables](https://youtu.be/I1Y0EE1ENU4) (Youtube Video)
 
 ### **Assessments**
 
-* Formative Assessment: If you feel it is necessary, you can collect student code from any of the explorations via Google Forms or have them post links in Google Classroom. 
+* Formative Assessment: If you feel it is necessary, you can collect student code from any of the explorations via Google Forms or have them post links in Google Classroom.
 * Informal Assessments: Have students reflect on their problem solving process during exploration by journaling in a google doc or on paper.
 * Summative Assessment: Random Emoji Project (to be completed as a mini-project at the end of LA2)
 
 ### Do Now/Warm Up (3-5 Minutes)
 
-**Share students on **[**this sample code**](http://editor.p5js.org/cs4all/sketches/HJG9QHAmQ)**.**
+**Share students on** [**this sample code**](http://editor.p5js.org/cs4all/sketches/HJG9QHAmQ)**.**
 
 Instruct students to play their code and then try to constrain the ellipse that to only half of the canvas. If students complete this task early, ask them to modify the code so that the ellipse can be placed in random position of the canvas.
 
@@ -121,8 +129,8 @@ Once students are comfortable, set them several pair-programming tasks for them 
 
 Make an ellipse that is…
 
-* Begins at a random location anywhere on the canvas after pressing play 
-* Add a second ellipse that begins with a random size 
+* Begins at a random location anywhere on the canvas after pressing play
+* Add a second ellipse that begins with a random size
 * Add a rectangle that begins with a random grey fill
 
 Teachers should circulate and make notes of struggling students for conferencing or remediation. Students should be adding comments to their code to differentiate each shape they are making and where it -should- be appearing.
@@ -144,8 +152,8 @@ function draw() {
 
 **Ask Students**:
 
-* Why is the ellipse doesn’t stay in one place? 
-* Explain how the draw function works and how it affects the location of the ellipse. 
+* Why is the ellipse doesn’t stay in one place?
+* Explain how the draw function works and how it affects the location of the ellipse.
 * Where would be the best place to initialize the random function?
 
 ### Wrap Up (5 Min)
@@ -156,11 +164,11 @@ If your class struggled, base your discussion around problems they encountered r
 
 **Student Assessment Guiding Questions:**
 
-* Why is difficult to move the entire triangle together using random()? 
-* How can we use custom variable to help us move shapes? 
+* Why is difficult to move the entire triangle together using random()?
+* How can we use custom variable to help us move shapes?
 * How can we use the random function to create games in the future?
 
 ### **Extensions**
 
-1. Ask students to work with a partner to try and create a triangle using variables and the random function to appear anywhere on the canvas while staying the same size. 
+1. Ask students to work with a partner to try and create a triangle using variables and the random function to appear anywhere on the canvas while staying the same size.
 2. Use the random function to create a random canvas size every time play is pressed while having an ellipse staying in the center of the canvas no matter the canvas size. (Hint: use custom variables)

@@ -23,6 +23,14 @@ Students should be able to...
 
 1 Period \~45 Minutes
 
+### **NYS Standards**
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundational Student Outcomes
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -159,5 +167,3 @@ Have students take turns adding to their robot and identifying sizes/coordinates
 \
 **For the lesson generally:**\
 In this lesson or the future lessons, if you think your students need more 'at-bats' to familiarize themselves with the p5 coordinate system, consider taking an extra period to complete the Desmos activity linked under resources.
-
-\\

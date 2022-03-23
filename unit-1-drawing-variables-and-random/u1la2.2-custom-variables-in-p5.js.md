@@ -14,7 +14,7 @@ We will first look at variables for values that are all the same, such as the �
 
 For some students, the ideas of positions relating to another (variable) position is really confusing. If this concept is not cleared up during the code along, there are two strategies you can take:
 
-\*For the scientific/mathematically minded students, you can break down that all coordinates are a relation of distance from something, it’s just that that something is usually the origin. This is usually best explained with graph paper in a small group or one-on-one conference with struggling students. 
+\*For the scientific/mathematically minded students, you can break down that all coordinates are a relation of distance from something, it’s just that that something is usually the origin. This is usually best explained with graph paper in a small group or one-on-one conference with struggling students.
 
 \*For students who need more tangible examples, you can do an unplugged activity (this works especially well if you have tiles on your floor). Pick a student and start them on a tile. Then, select another student and position them and tell them “you two are going to move, but you still must be x tiles to the right of Sarah and y tiles down from Sarah…” Keep adding students with different positions and ask the students to shift around the room to demonstrate. This is best done as a whole class activity, as you will need room to move AND it’s a useful visual for everyone.
 
@@ -32,6 +32,14 @@ Students should be able to: Identify repeated values in their code and use varia
 
 A solid period is devoted to variable practice using DeltaMath. This is **strongly** recommended for classrooms using this as an AP Computer Science Principles prep course (or classrooms where variable understanding is weak), but it can be skipped if your students already have a thorough understanding of variables in computer science. Without this addition, this lesson could easily be one period.
 
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundations Student Outcomes
 
 **Abstraction**:
@@ -48,11 +56,11 @@ Experiment with the commands of a programming language. Explain why I chose spec
 
 ### Vocabulary
 
-**Scope** - where a variable can be ‘seen’ by the computer within a program 
+**Scope** - where a variable can be ‘seen’ by the computer within a program
 
-**Global Variables** - variables declared outside of a function which can be used in any function. 
+**Global Variables** - variables declared outside of a function which can be used in any function.
 
-**Local (script) Variables** - variables declared within a function whose scope is limited to that function 
+**Local (script) Variables** - variables declared within a function whose scope is limited to that function
 
 **var** - declaration of variable words in p5.js
 
@@ -64,9 +72,9 @@ Experiment with the commands of a programming language. Explain why I chose spec
 
 ### Resources
 
-* [Code Along 2 (with original code) ](http://editor.p5js.org/cs4all/sketches/H1zfOrRXX)
-* Video tutorial: [2.2 Variables in p5.js (make your own)](https://www.youtube.com/watch?v=Bn_B3T_Vbxs\&index=6\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) | [Code](u1la2.2-custom-variables-in-p5.js.md#vocabulary) 
-* Learning Processing book: [Chapter 4. Variables ](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
+* [Code Along 2 (with original code)](http://editor.p5js.org/cs4all/sketches/H1zfOrRXX)
+* Video tutorial: [2.2 Variables in p5.js (make your own)](https://www.youtube.com/watch?v=Bn\_B3T\_Vbxs\&index=6\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) | [Code](u1la2.2-custom-variables-in-p5.js.md#vocabulary)
+* Learning Processing book: [Chapter 4. Variables](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
 * Getting Started With p5.js: Chapter 4, examples 4.1, 4.2 | [Code](https://github.com/lmccart/gswp5.js-code/tree/master/04\_Variables)
 
 ### Assessments
@@ -91,9 +99,9 @@ Instead of changing values manually, explain that we can use variables instead. 
 
 Remind students that there are three steps to creating a variable:
 
-**Declare** - Declaring our variable is basically just telling the program “hey! I’m creating a variable, and this is what it’s going to be called.” All you need to do when you want to declare a variable is write the term “var variableName”. 
+**Declare** - Declaring our variable is basically just telling the program “hey! I’m creating a variable, and this is what it’s going to be called.” All you need to do when you want to declare a variable is write the term “var variableName”.
 
-**Initialize** - give variableName a value. This is called an assignment operation. We are assigning a value to our variable. If I write variableName = 50, every time I use my variable name, the program will replace it with the number 50. 
+**Initialize** - give variableName a value. This is called an assignment operation. We are assigning a value to our variable. If I write variableName = 50, every time I use my variable name, the program will replace it with the number 50.
 
 **Use the variable** - Your code won’t break if you don’t use the variable, but then what was the point? If we add an ellipse at ellipse(100,100,variableName,variableName), our ellipse will be 50px wide and 50px high.
 
@@ -125,10 +133,10 @@ function draw() {
 
 **As you code, discuss the following:**
 
-* Why are we calling our variable y? Make sure students understand that we name variables useful things so we keep track of them - you might ask them how we could make this even more precise, and then change the variable name to something like ellipseY. You should also model adding comments with your variables about what this will control. 
-* Where could we use this variable? Students should tell you in the y position. 
-* What value should this variable have to start? If students aren’t sure, suggest starting at 60 to make sure it runs - then you can change it from there. 
-* Why do you think we named our variable above all the other functions? This is your introduction to global variables. Some students will see the visual cue that the variable is declared before we use it and that it’s used in two functions - some will not. It’s okay to explain this a bit more, they will see it again in more detail when they learn about random(). 
+* Why are we calling our variable y? Make sure students understand that we name variables useful things so we keep track of them - you might ask them how we could make this even more precise, and then change the variable name to something like ellipseY. You should also model adding comments with your variables about what this will control.
+* Where could we use this variable? Students should tell you in the y position.
+* What value should this variable have to start? If students aren’t sure, suggest starting at 60 to make sure it runs - then you can change it from there.
+* Why do you think we named our variable above all the other functions? This is your introduction to global variables. Some students will see the visual cue that the variable is declared before we use it and that it’s used in two functions - some will not. It’s okay to explain this a bit more, they will see it again in more detail when they learn about random().
 * Why did we need to set the value of y in the setup? This is a great question they might not grasp yet, but will during the next lesson - setup runs ONCE and sets up the value of our variable. Draw runs continuously. Right now, nothing will go ‘wrong’ if we give our variable a value in draw, but they it’s good to start getting the differences in now.
 
 After the variable is added in, give it a few different values, running the program each time to see the change (you might want to make the canvas longer for this).
@@ -145,8 +153,8 @@ This code along will be partially on a computer, and partially drawn - if you ha
 
 Ask:
 
-1. How far away from this ellipse is the next closest one? Students should notice that it is 80 pixels away, from looking at the x position in the code. This is where the chart paper comes in handy - you can note this distance away so students have a visual of center-to-center relationships. 
-2. If I move this entire design - so it still looks exactly the same! - how far away will the next closest ellipse be? Some students may struggle with how far you’re moving the design, but it shouldn’t matter - if the design stays the same, they will still be 80 pixels apart. If students are confused, adjust circleY to show that the design moved, and ask if the distance between the circles left and right changed at all. 
+1. How far away from this ellipse is the next closest one? Students should notice that it is 80 pixels away, from looking at the x position in the code. This is where the chart paper comes in handy - you can note this distance away so students have a visual of center-to-center relationships.
+2. If I move this entire design - so it still looks exactly the same! - how far away will the next closest ellipse be? Some students may struggle with how far you’re moving the design, but it shouldn’t matter - if the design stays the same, they will still be 80 pixels apart. If students are confused, adjust circleY to show that the design moved, and ask if the distance between the circles left and right changed at all.
 3. Repeat these questions with the third ellipse, jotting down on the chart paper the relationship of the first ellipse’s center to the third. Repeat with the fourth only if needed.
 
 Suggest to your students that you initialize the variable with the value of the first ellipse they chose. Stress that this is not what the value will always be, but it’s a useful starting place for us to test and make sure everything will stay the same before we start moving things.
@@ -219,9 +227,9 @@ You may want to bring students together to discuss successes and sticking points
 
 ### Student Assessment Guiding Questions
 
-* What is a variable? How do you use it in your code? 
-* What are the benefits of using variables? 
-* How did you use variables in your project and why that way? 
+* What is a variable? How do you use it in your code?
+* What are the benefits of using variables?
+* How did you use variables in your project and why that way?
 * What was challenging when using variables?
 
 ### Extensions

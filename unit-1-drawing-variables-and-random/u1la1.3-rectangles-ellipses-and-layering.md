@@ -23,14 +23,22 @@ This lesson provides opportunities for pair programming. Please note that paired
 
 ### Objectives
 
-|                                                                                                                                                                                                                                                                                                      |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <p><strong>Students should be able to:</strong><br></p><ul><li>Consult the p5 reference</li><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
+|                                                                                                                                                                                                                                                                                                    |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p><strong>Students should be able to:</strong><br></p><p>Consult the p5 reference</p><ul><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
 
 ### Suggested Duration
 
 \~1 period, 45 minutes\
 (This may require some extension depending on how elaborate students were with their robots, but they will come back to this project later!)
+
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
 
 ### Blueprint Foundational Student Outcomes
 
