@@ -29,6 +29,20 @@ This project can be made much longer or shorter depending on your personal prefe
 
 2-4 45 minute periods
 
+### **NYS Standards**
+
+**9-12.IC.1** Evaluate the impact of computing technologies on equity, access, and influence in a global society
+
+**9-12.IC.5** Describe ways that complex computer systems can be designed for inclusivity and to mitigate unintended consequences.
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.CT.7** Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### **Blueprint Foundations Student Outcomes**
 
 #### **Algorithms**

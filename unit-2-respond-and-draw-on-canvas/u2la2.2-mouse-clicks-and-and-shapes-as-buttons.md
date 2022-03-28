@@ -33,6 +33,16 @@ Students should be able to:
 
 _Use your best judgment in timing! This lesson can easily be completed in one period, however, if you believe students need more practice, give them ideas of how they could keep honing these skills and allow them time to work!_
 
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.CT.8** Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundations Student Outcomes
 
 **Abstraction**
