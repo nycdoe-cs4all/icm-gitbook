@@ -24,6 +24,18 @@ Students will be able to…
 
 The time for this is dependent on how much you would like students to practice and dig into this content. One period is enough for them to solve 1 or 2 challenges, generally.
 
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.CT.5** Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
+
+**9-12-CT.9** Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundation Student Outcomes
 
 **Abstraction, Decomposition**: Ideas, problems, or projects are broken down into component parts to set the stage for deeper analysis.

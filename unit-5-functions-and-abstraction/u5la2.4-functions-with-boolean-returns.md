@@ -23,6 +23,18 @@ Students will be able to...
 
 **NB**: _This could be stretched to two class periods if you would like to have them spend a period redoing a project that utilizes collision detection with the function they created. This can be great practice and can drive home the importance of functions, but is not a requirement._
 
+### NYS Standards
+
+**9-12.CT.4** Implement a program using a combination of student-defined and third-party functions to organize the computation.
+
+**9-12.CT.5** Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
+
+**9-12-CT.9** Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
+
+**9-12.DL.1** Type proficiently on a keyboard.
+
+**9-12.DL.2** Communicate and work collaboratively with others using digital tools to support individual learning and contribute to the learning of others.
+
 ### Blueprint Foundation Student Outcomes
 
 **Abstraction**, **Decomposition** Ideas, problems, or projects are broken down into component parts to set the stage for deeper analysis.
