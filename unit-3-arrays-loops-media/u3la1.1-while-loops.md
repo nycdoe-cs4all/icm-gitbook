@@ -59,9 +59,10 @@ Students should be able to:
 
 ### Vocabulary
 
-* Loops - A sequence of instructions that is repeated until a certain condition is met.&#x20;
-* Iterations - the repetition of a process or utterance.&#x20;
-* While loop - The while loop loops through a block of code as long as a specified condition is true.
+* **Loops** - A sequence of instructions that is repeated until a certain condition is met.&#x20;
+* **Iterations** - the repetition of a process or utterance.&#x20;
+* **While loop** - The while loop loops through a block of code as long as a specified condition is true.
+* **Control structure -** codebase portion that supports decisions based on analysis of variables
 
 ### Planning Notes
 
@@ -74,6 +75,8 @@ Students should be able to:
 * [4.1 While and for loop](https://www.youtube.com/watch?v=cnRD9o6odjk\&t=500s) (Youtube Video) | [Code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js) (4.1a to 4.2b)&#x20;
 * [Learning Processing: Chapter 6. Loops](http://learningprocessing.com/examples/)&#x20;
 * [Getting Started With p5.js: Chapter 4. Variables (Section: Repetition)](https://p5js.org/books/)
+* [While Loop w/ Code Comments ](https://editor.p5js.org/cs4all/sketches/HJUxl-eN-)(Code Sample)
+* [Spicy Challenge Example](https://editor.p5js.org/cs4all/sketches/r1UO4XZSb) (Code Sample)
 
 ### Assessments
 
