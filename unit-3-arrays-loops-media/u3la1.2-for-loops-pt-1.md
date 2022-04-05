@@ -100,11 +100,13 @@ Your teacher has come to class with a big bag of candy. They offer each of the f
 
 What would happen in each of these scenarios? How do they differ? Is there a situation where you anticipate getting more/less candy than the other? Why?
 
-_After students have thing time, feel free to share and/or act out the situation (bringing actual candy is an easy win for this). In the WHILE scenario they will keep getting candy as long as there is candy in the bag - in the FOR, they will each only get one piece._
+_After students have think time, feel free to share and/or act out the situation (bringing actual candy is an easy win for this). In the WHILE scenario they will keep getting candy as long as there is candy in the bag - in the FOR, they will each only get one piece._
 
 ### Repeat Shapes with a For Loop
 
-Explain to students that WHILE and FOR (be careful to specify this is NOT the number) are both control structures that act as loops. They behave a little differently, but their main components are similar. Students may benefit from seeing them side by side (this can also be useful to loop back to later in the lesson):
+Explain to students that WHILE and FOR (be careful to specify this is NOT the number) are both control structures that act as loops. They behave a little differently, but their main components are similar. One way to think of it is like this: what's the difference between saying 'I will give each student in here a piece of candy while I have candy in this bag' and 'For each student, give one piece of candy'? (You can also act this out with some advanced prep - the while will keep repeating until the candy is out, the for will end once every student has one piece of candy.)
+
+Students may benefit from seeing them side by side (this can also be useful to loop back to later in the lesson):
 
 ![Handwritten while/for loop with annotations](<../.gitbook/assets/Screen Shot 2021-12-02 at 1.12.53 PM.png>)
 
@@ -120,6 +122,7 @@ Once students are familiar with this as an idea, pause to do a brief code along 
 //initialize; check condition; increment variable
 for(i = 0; i < width; i += 50){
   ellipse(i, 75, 200)
+  console.log(i) //feel free to to add or remove this - it will just show the changing value of i!
 }
 ```
 
@@ -273,7 +276,7 @@ function draw(){
 	
   //this loop with repeat five times since the variable was initialized to 0
   ///(initialize the variable; check for a condition; increment the variable)
-  for (var i=0; i<5; i=i+1){
+  for (var i=0; i<5; i+=1){
 	//draw ellipses in the center of the canvas set to the size variable
 	ellipse(width/2, height/2,size,size)
 	//every time the loop runs (which will be 5 times) the size is decreased by 60
