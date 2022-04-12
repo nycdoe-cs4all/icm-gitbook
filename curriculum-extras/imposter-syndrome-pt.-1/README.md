@@ -108,7 +108,7 @@ Intro, chart paper/chalk talk protocol, video, student discussion, affirmations 
 
 ### **Introduction to Imposter Syndrome (\~10 minutes)**
 
-Once students finish the ChalkTalk and sit, explain that we are reflecting on these things because there is a very dangerous thing that can strike in new, uncomfortable situations and especially in the world of CS: Imposter Syndrome. Define Imposter Syndrome for students and then cut to a video or article - you can select which one from the resources you think best fits your students, but we recommend this TEDEd Youtube Video as a good starting place.
+Once students finish the ChalkTalk and sit, explain that we are reflecting on these things because there is a very dangerous thing that can strike in new, uncomfortable situations and especially in the world of CS: Imposter Syndrome. Define Imposter Syndrome for students and then cut to a video or article - you can select which one from the resources you think best fits your students, but we recommend this [TEDEd Youtube Video](https://youtu.be/ZQUxL4Jm1Lo) as a good starting place.
 
 After the video, ask students:
 
