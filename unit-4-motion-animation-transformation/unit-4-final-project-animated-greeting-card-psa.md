@@ -59,6 +59,19 @@ If you're picking a social cause, pick something that is important to you that y
 
 ![Example Code](../.gitbook/assets/example\_gif.gif)
 
+### Culturally Responsive Best Practices
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (_Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
+The PSA half of this activity is easily scalable to focus students on a more social-justice focused lens; encourage students to consider causes that are important to them, and how they can bridge the gap between real-world social action and the coded PSA they have created.
+
+**Possible CR-SE Prompts (Greeting Card Focus):**
+
+1. Create a greeting card to celebrate any holiday you would like, real or imagined! (You wanna make a card for your birthday and only your birthday? Go for it.)
+2. Create a greeting card for a holiday-specific to your cultural background, and highlighting any traditions you follow. (EX: St Nick’s day in the Midwest)
+3. Create or remix a holiday that challenges traditional perception of what the holiday represents.
+4. Level 3 + hide some easter eggs that can teach the user about your holiday while also celebrating it!
+
 ### Extensions
 
 * Research on your own how to take input from a user through either a popup or an input box added to your sketch so you can find and add the name of the user to the program!&#x20;

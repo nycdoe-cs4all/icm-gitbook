@@ -43,6 +43,15 @@ Because we have reached the end, rather than have one project we want everyone t
 * Explain one specific function - how does it work, and why was this an important function to write?&#x20;
 * What improvements would you like to see for your project?
 
+### Culturally Responsive Best Practices
+
+As this challenge is student-driven, it is up to the individual to decide the direction they would like to take it. You can guide students to greater depths of CR-SE thinking with the following suggested levels:
+
+1. Centered around you, your lived experience, and your contributions
+2. Expands your knowledge by adding concepts or themes that are culturally responsive
+3. Transforms your project into something that allows for diverse perspectives
+4. Makes your project into a powerful tool for social action
+
 ### **Extensions**
 
 Because this project takes on a choose-your-own-adventure format, students should be encouraged to find ways to constantly improve their projects and iterate on top of what they have already made. Consider making this a part of their final rubric grade!
