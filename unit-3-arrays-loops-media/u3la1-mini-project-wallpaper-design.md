@@ -52,6 +52,17 @@ function keyPressed(){
 }
 ```
 
+### Culturally Responsive Best Practices
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. _(Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
+**Possible CR-SE Prompts:**
+
+1. Use colors and shapes of your preference to create a repeated, generative pattern that allow the user to know more about the creator.
+2. Create a digital wallpaper that includes visual elements specific to a certain community or culture (ex: color schemes or shapes that create traditional indigenous patterns - look into Islamic, Andean, African and other folk art patterns).
+3. Create a digital wallpaper that includes visual elements specific to a certain culture. When the user hovers over elements of your pattern, explain the meaning behind what was chosen.
+4. Create a digital wallpaper that includes features specific to a certain community. When the user hovers over elements of your pattern, display a call to action that will improve your chosen community. (EX: How is climate change affecting communities in the Andes?)
+
 ### Extensions
 
 **Randomize your wallpaper**

@@ -39,6 +39,12 @@ Your project should:
 
 ![Fortune Teller Exemplar](../.gitbook/assets/fortuneteller.gif)
 
+### Culturally Responsive Best Practices
+
+Once again, allow lots of room for student choice within this project. Not all students may resonate with the idea of 'fortunes,' but there are many ways to generate random sentences without creating a fortune. Brainstorm other options that might appeal to kids, and give them the freedom to create their own options as long as they meet the criteria of the project.
+
+_(Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
 ### Extensions
 
 For students who are ready for the next level, consider asking them to create a MadLib. This should be a story that will fill random verbs/nouns/adjectives from arrays that they create to change the meaning of the story.

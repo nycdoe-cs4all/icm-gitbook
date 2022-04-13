@@ -33,6 +33,10 @@ Describe your design process, including stepping through the code to explain exa
 
 _N/A - figure it out!_
 
+### Culturally Responsive Best Practices
+
+This game allows students to play with an algorithm and user interactions to make a mini-puzzle. The best opportunity to be culturally responsive is to once again allow for an ample amount of student choice - they can choose to design the puzzle as they wish, or can make adjustment to the end-goals of the game as long they are hitting the key concepts assessed by this mini project.
+
 ### Extensions
 
 * Figure out how to draw a new background and “scene” if you win, so that the player knows they have completed the challenge.&#x20;
