@@ -78,12 +78,7 @@ This share-out method can be used outside of project time, as well. Use a calend
 
 Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (_Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
 
-**Possible CR-SE Prompts:**
-
-1. Recreate your own version of MS paint so that it includes colors, stamps, and elements that you will find useful for your art projects.
-2. Create a drawing app that includes features specific to a certain community (ex: color schemes that reflect your community, or drawing tools that create an important indigenous pattern).
-3. Create a drawing app that is accessible to all users in your community (take into account color blindness, button size, etc)
-4. Create a drawing app that allows users to quickly put together images and shapes to address specific issues on a shareable image (ex. animal shapes, logos of nonprofits, slogans (text)).
+_**Allowing for student choice in this project is one of the best ways to be culturally responsive!** _ Allow students freedom to pick the song/poem/whatever that is most meaningful to them - if they say it is important, accept it as important.
 
 ### Extensions
 

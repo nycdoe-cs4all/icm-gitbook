@@ -69,6 +69,17 @@ This will be the most challenging project students have encountered so far, as i
 
 Suggestions for this are available in the Project Introduction, but you can also create worksheets or other resources if you think it will help your students navigate the creation of their drawing application.
 
+### Culturally Responsive Best Practices
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)
+
+**Possible CR-SE Prompts:**
+
+1. Recreate your own version of MS paint so that it includes colors, stamps, and elements that you will find useful for your art projects.
+2. Create a drawing app that includes features specific to a certain community (ex: color schemes that reflect your community, or drawing tools that create an important indigenous pattern).
+3. Create a drawing app that is accessible to all users in your community (take into account color blindness, button size, etc)
+4. Create a drawing app that allows users to quickly put together images and shapes to address specific issues on a shareable image (ex. animal shapes, logos of nonprofits, slogans (text)).
+
 ### Objectives
 
 Students should be able to:
