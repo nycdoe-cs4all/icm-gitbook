@@ -36,4 +36,8 @@ Additionally, there are a variety of optional learning activities that contain g
 
 ### Using CR-SE Prompts
 
-_\[Coming Soon]_
+Mini Projects and Unit Projects include a section on **Culturally Responsive Best Practices.** These are intended to allow students to connect their classroom experience to their own communities and culture. In some instances, it is provided as guidance, and in others, it is additional prompts that can be presented alongside a project to give the project a more intentionally culturally responsive lens.
+
+Many projects in this course allow for great amounts of student choice, which we hope will allow students to make the work their own and produce things that they can be proud of. Student choice is important as some may want to focus on big, serious things, and some may just want a moment to have fun, be creative, and be silly.
+
+(_Please keep in mind that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
