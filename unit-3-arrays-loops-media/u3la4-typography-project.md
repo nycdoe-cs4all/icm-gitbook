@@ -30,6 +30,12 @@ While we don’t have quite the animation skills yet to make something this elab
 
 ![Example with blinking text and hidden message](../.gitbook/assets/ghost.gif) ![Paper Inspiration](<../.gitbook/assets/Screen Shot 2022-01-26 at 1.13.15 PM.png>) ![Example that displays two text designs](<../.gitbook/assets/typegif (1).gif>)
 
+### Culturally Responsive Best Practices
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (_Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
+_**Allowing for student choice in this project is one of the best ways to be culturally responsive!** _ Allow students the freedom to pick the song/poem/whatever that is most meaningful to them - if they say it is important, accept it as important.
+
 ### Extensions
 
 Write your own poem and animate it as it is meant to be performed. For inspiration, check out Melisa Lozada-Oliva, who primarily writes poems that explore her culture and upbringing and are meant to be performed:

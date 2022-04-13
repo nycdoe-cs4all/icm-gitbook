@@ -39,6 +39,10 @@ In this project, you'll be making an interactive vision board. Vision boards are
 
 ![A sample vision board featuring healthy food and hair, makeup, camera, and a beach scene.](<../.gitbook/assets/Screen Shot 2022-01-18 at 3.16.54 PM.png>)
 
+### Culturally Responsive Best Practices
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. (_Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
 ### Extensions
 
 * When an object is clicked or hovered on, display a message or reminder about how to achieve that dream.&#x20;

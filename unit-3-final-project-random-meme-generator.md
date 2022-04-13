@@ -48,6 +48,17 @@ Think about what fonts and images you may want to use and how you will source th
 
 [**Example Project Code**](https://editor.p5js.org/cmorgantywls/sketches/SOCouTm6G)****
 
+### **Culturally Responsive Best Practices**
+
+Within this design-based challenge, there are many prompts you can give students to make the project seem more relevant to them and the cultures of communities that they are a part of. _(Please recall that communities can refer to a lot of things, including just the culture of being a teen, a Minecraft player, or a KPop fan - be mindful that you are allowing students to explore choice in their creations in a way that is authentic to them!)_
+
+**Possible CR-SE Prompts:**
+
+1. Program a meme generator that outputs memes that are funny and relevant to your culture and lived experience. Use meme formats currently relevant on the internet
+2. Focus your memes around a single theme or format that are funny and informative, teaching the user about something specific to your culture or lived experience.
+3. Output memes that draw attention to/inform about a specific cultural or social justice issue.
+4. META MEMES: Learn about the role memes play in popular culture. Create memes that will engage the viewer and teach them about the role memes play in our world, including stages like recent elections.. (Resources: [1](https://yp.scmp.com/news/features/article/107044/why-do-memes-matter-look-good-dank-and-viral) | [2](https://academic.oup.com/jcmc/article/18/3/362/4067545) | [3](https://www.theguardian.com/us-news/2016/nov/04/political-memes-2016-election-hillary-clinton-donald-trump) or do a quick google search of your own!)
+
 ### **Extensions**
 
 Some possible extensions could be:
