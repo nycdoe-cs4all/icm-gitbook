@@ -33,3 +33,7 @@ While we recommend following this course in the intended order, there are some c
 This curriculum purposefully keeps functions as an end-of-unit activity to try and keep kids from getting overwhelmed by concepts and syntax early on in the course. If this is not your preferred method of delivery, Unit 5 could be moved to after Unit 2.
 
 Additionally, there are a variety of optional learning activities that contain guidance on when they are best implemented. We strongly encourage teachers to follow any inspiration that strikes them and introduce any and all interesting projects that may come to mind!
+
+### Using CR-SE Prompts
+
+_\[Coming Soon]_
