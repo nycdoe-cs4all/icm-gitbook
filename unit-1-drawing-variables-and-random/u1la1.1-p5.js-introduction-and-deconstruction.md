@@ -6,15 +6,17 @@ description: How can we break down a robot into basic shapes in p5.js?
 
 ### Teacher Feedback and Overview
 
+**PLEASE review the coding environment options before beginning this lesson - students can either work in the** [**p5 editor**](https://editor.p5js.org) **or on** [**repl.it**](https://repl.it)**, depending on your classroom needs and preferences. You should pick ONE environment that the ENTIRE class should use - don't leave this one to student choice!**
+
 This lesson is an unplugged activity that has students drawing a robot using shapes and that they will then use abstraction to code in the alpha editor. It is a great way to introduce p5.js before coding.
 
-In this lesson, students will be introduced to the p5.js canvas and coordinate system. It is one of the most important concepts that students will need to master in order to be successful when coding in p5.js. This lesson is an unplugged activity in which students will draw a robot using shapes and then use abstraction decompose and code in the alpha editor. It is a great way to introduce p5.js before coding. Students will practice abstraction (definition below) when they are decomposing the robots shapes. Abstraction is an important CS practice that is used to reduce complexity and increase efficiency.
+In this lesson, students will be introduced to the p5.js canvas and coordinate system. It is one of the most important concepts that students will need to master in order to be successful when coding in p5.js. This lesson is an unplugged activity in which students will draw a robot using shapes and then use abstraction decompose and code in the p5 editor or repl.it. It is a great way to introduce p5.js before coding. Students will practice abstraction (definition below) when they are decomposing the robots shapes. Abstraction is an important CS practice that is used to reduce complexity and increase efficiency.
 
 ### Objectives
 
 Students should be able to...
 
-* Create an account on [https://editor.p5js.org/signup](https://editor.p5js.org/signup)
+* Create an account on [https://editor.p5js.org/signup](https://editor.p5js.org/signup) or on [https://repl.it](https://repl.it)
 * Explain what p5.js is
 * Describe things you can create on p5.js
 * Understand the p5 canvas coordinate system
@@ -73,9 +75,21 @@ Students should be able to...
 
 ### Do Now/Warm Up (5 min)
 
+**OPTION 1:**
+
 Have your students sign up for a p5.js editor account here:
 
-[http://editor.p5js.org/signup](http://alpha.editor.p5js.org/signup)
+{% embed url="http://editor.p5js.org/signup" %}
+Link to sign up for the p5 web editor
+{% endembed %}
+
+**OPTION 2:**
+
+Have your students sign up for a repl.it account here:
+
+{% embed url="https://replit.com/signup?from=landing" %}
+Link to sign up for repl.it
+{% endembed %}
 
 They can easily create with these options:
 
@@ -83,7 +97,7 @@ They can easily create with these options:
 * Github
 * Email
 
-**NB**: The editor is not a p5.js online tool to manage and collect student work. It is strictly an online IDE - students will need to submit their project links to you through a Learning Management System such as Google Classroom, or another method such as Google Forms or Airtable.
+**NB**: _The **p5 editor** is not a p5.js online tool to manage and collect student work. It is strictly an online IDE - students will need to submit their project links to you through a Learning Management System such as Google Classroom, or another method such as Google Forms or Airtable. **Repl.it** does offer an option called_ [_**Teams for Education**_](https://replit.com/site/teams-for-education) _which does allow you to give feedback directly through the repl.it platform._
 
 After they’re done signing up, ask them to close their laptops or turn around with their attention to you (if in a lab).
 
