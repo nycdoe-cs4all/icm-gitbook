@@ -15,11 +15,11 @@ The do-now will give students an opportunity to create a new robot (or multiple 
 
 Have extra copies of the worksheet because students may make mistakes (or may have lost their sheet prior to this class).
 
-**NB**: There are two activities to practice rectangles and ellipses. Offer multiple opportunities for students to display and explain their work to the class or peers.
+**NB**: _There are two activities to practice rectangles and ellipses. Offer multiple opportunities for students to display and explain their work to the class or peers._
 
-Some students may want to add color, but that lesson won’t be introduced until U1LA3. The student focus should be on drawing using functions from the p5.js library. Trust the process that styling will come later!
+_Some students may want to add color, but that lesson won’t be introduced until U1LA3. The student focus should be on drawing using functions from the p5.js library. Trust the process that styling will come later!_
 
-This lesson provides opportunities for pair programming. Please note that paired programming opportunities should always have an equal number of “at-bats” for each student.
+_This lesson provides opportunities for pair programming. Please note that paired programming opportunities should always have an equal number of “at-bats” for each student._
 
 ### Objectives
 
@@ -121,7 +121,7 @@ Ask students to complete the challenge of recreating the following shapes on the
 
 ![Grey canvas with white square in each corner and four in the center forming a larger square.](<../.gitbook/assets/Screen Shot 2021-10-01 at 11.55.39 AM.png>)
 
-[Solution Code](http://editor.p5js.org/Jorea/sketches/SkeFVNOzX)
+Solution Code ([p5 editor](https://editor.p5js.org/Jorea/sketches/SkeFVNOzX) | [repl.it](https://replit.com/@qrtnycs4all/U1LA13-Square-Challenge-Solution#script.js))
 
 This activity will reinforce students’ knowledge of coordinate points and positioning on the canvas. Some calculations will be needed in order to get the rectangles in the corner. Have some present their work and explain their solutions to the rest of the class.
 
@@ -163,12 +163,14 @@ This activity will reinforce students’ knowledge of coordinate points and posi
 
 Draw in p5.js the robot that you made on graph paper.
 
-Students who are having trouble with positioning can use this [starter sketch](http://editor.p5js.org/owenroberts/sketches/S1N-5TAGQ) that contains the following:
+Students who are having trouble with positioning can use this starter sketch ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/tquByCSYi) | [repl.it](https://replit.com/@qrtnycs4all/Blank-Editor-with-Text-and-Grid-Display#script.js)) that contains the following:
 
 * Mouse canvas position indicator (x, y)
 * Adaptable grid
 
 Make sure students read the comments in the code as they serve as instructions!
+
+Alternately, for students for whom it is not helpful to see the grid, they may get more use out of this starter code that just shows mouse canvas position as x, y coordinates ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/QhsPoRBHE) | [repl.it](https://replit.com/@qrtnycs4all/Blank-Editor-with-Text-Display)).
 
 ### Wrap Up (3 min)
 

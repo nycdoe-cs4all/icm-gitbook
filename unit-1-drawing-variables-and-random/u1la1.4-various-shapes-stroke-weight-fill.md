@@ -68,26 +68,26 @@ Students should be able to:
 * [Basic shape guide](https://drive.google.com/file/d/0Byk7AxhPkTEJWWdUeVFteXFrT2M/view?usp=sharing)
 * [Blank Student Shape Guide](https://docs.google.com/document/d/1H-H5XI5pqNcyGtJsySNG20reEn-qQQWKyGGvXNS8PAM/edit?usp=sharing)
 * [Using the Reference Sheet](https://youtu.be/waPAw\_Ndbdk) (Youtube Video)
-* [Styling Shapes](https://youtu.be/4FQjGC5oHOM) (Youtube Video w/ Starter Code Activity)
+* [Styling Shapes](https://youtu.be/4FQjGC5oHOM) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/Vvpxe2B8e) | [repl.it](https://replit.com/@qrtnycs4all/U1LA14-Styling-Shapes-Starter-Code#script.js))
 
 ### Assessments
 
-\*\*Formative: \*\*Guided questions, code alongs, peer examples\
-\*\*Summative: \*\*Student Share Out, Blank Student Shape Guide
+**Formative**: Guided questions, code alongs, peer examples\
+**Summative**: Student Share Out, Blank Student Shape Guide
 
 ### Do Now/Warm Up (4 -8 min)
 
-* \_Having an open discussion on these questions is a good way to gauge the temperature of the classroom. Students should know that a programmer does not know everything but they have them collaborate and research skills to find creative solutions. \_
-* \_Creating a poster from students' feedback can help create a successful and safe risk -aking culture in your classroom. \_
-* \_Interesting Video on Tech Culture: \_[_https://www.youtube.com/watch?v=QW834PGYnYI_](https://www.youtube.com/watch?v=QW834PGYnYI)
+* _Having an open discussion on these questions is a good way to gauge the temperature of the classroom. Students should know that a programmer does not know everything but they have them collaborate and research skills to find creative solutions._
+* _Creating a poster from students' feedback can help create a successful and safe risk-taking culture in your classroom._&#x20;
+* _Interesting Video on Tech Culture:_ [_https://www.youtube.com/watch?v=QW834PGYnYI_](https://www.youtube.com/watch?v=QW834PGYnYI)
 
-Ask Students:
+**Ask Students:**
 
 1. What do you do when you are stuck or confused on a problem?
 2. How do you think a software engineer solves a problem when they are stuck or confused?
 3. How does risk-taking play a role in problem-solving? Give examples using our classroom?
 
-Optional Questions:
+**Optional Questions:**
 
 1. How can we promote self-advocacy?
 2. What are successful peer collaboration skills?
@@ -95,38 +95,38 @@ Optional Questions:
 
 ### Intro (5 Min)
 
-Tell students that this activity will have them problem solving and researching with their peer. Ask students what they do when feeling stuck? This question will open up the discussion on how students go about solving problems.
+Tell students that this activity will have them problem-solving and researching with their peers. Ask students what they do when feeling stuck? This question will open up the discussion on how students go about solving problems.
 
 Prompt students to think about these questions when they feel stuck. You can have them copy it from a slide deck or create a poster.
 
-* Ask yourself:
+* **Ask yourself:**
   * What was supposed to happen?
   * What happened instead?
-* If there is an error message look at the line number and error description. If the error message has a suggestion try that first.
-* Check for common errors working line by line from top to bottom
-* Play with the code. Make one change at a time then hit run.
-* Use teamwork. Compare your code to the code of someone next to you.
-* Check out the p5.js online reference. [www.p5js.org/reference](http://www.p5js.org/reference) Model how to navigate the reference guide and then how to read the arguments a function takes.
-* Attach a sticky note to the back of your laptop. Let your peers or teachers know that you need extra help.
+* If there is an **error message** look at the line number and error description. If the error message has a suggestion try that first.
+* Check for **common errors** working line by line from top to bottom
+* **Play** with the code. Make one change at a time then hit run.
+* **Use teamwork.** Compare your code to the code of someone next to you.
+* **Check out the p5.js online reference.** [www.p5js.org/reference](http://www.p5js.org/reference) Model how to navigate the reference guide and then how to read the arguments a function takes.
+* **Attach a sticky note to the back of your laptop.** Let your peers or teachers know that you need extra help.
 
 Model how to navigate the reference guide and then how to read the arguments a function takes.
 
 ![Screenshot of the p5.js Reference Sheet](https://lh5.googleusercontent.com/j71sDwY4pf5jKT7LbtaYY192Nh4BYBp8c6L0IYb9gzNNEVg860uVlR7HgDeGgz56dyGFfKvV4yc5kw1SwmxXn5an-rZ7gqX7Vv17n\_M6vgG\_AB7AjoWKpFcMEt-Wv7HQ7k9RcLb2=s0)
 
-### Draw Other Shapes and Navigate the p5.js Reference Sheet (\~15 min)
+### Draw Other Shapes and Navigate the p5.js Reference Sheet (\~15-25 min)
 
-Explain the definition of fill(), stroke() and noStroke() to students, and then [code along](http://alpha.editor.p5js.org/SEP/sketches/rk6LV23EQ) to explain the difference between the 3 functions. Ensure students are adding comments to their code.
+Explain the definition of fill(), stroke() and noStroke() to students, and then code along ([p5 editor](https://editor.p5js.org/cs4all/sketches/rk6LV23EQ) | [repl.it](https://replit.com/@qrtnycs4all/U1LA14-Styling-Shapes-Starter-Code#script.js)) to explain the difference between the 3 functions. Ensure students are adding comments to their code. After the code-along, give students time to practice using the functions on the other shapes.
 
-In pairs or groups of 3 ask students to complete the following [worksheet](https://docs.google.com/document/d/1H-H5XI5pqNcyGtJsySNG20reEn-qQQWKyGGvXNS8PAM/edit?usp=sharing) by filling in the missing blanks and using the [p5 reference](http://www.p5js.org/reference) to research information on each shape. Model how to complete the worksheet with the students.\
-Students can use the following lines of code at the bottom of draw() to help them create these shapes:
+One thing that students may notice is that the helper coordinate text is getting styled, too, and may become distracting or unreadable. This is because the draw function runs on a loop, meaning whatever the last styling text is will loop back up to the top and apply to whatever comes first if it is not otherwise styled. Ask students if they can figure out a solution, and they should come up with something like this:
 
 ```
-//To help you find the right point positions, use this line:
-  fill(0); //set the fill color to black
-  noStroke(); //set the stroke to none
-  text(mouseX + ", " + mouseY, 20, 20);
-  //We will explain how it works later on.
+strokeWeight(1) //alternately, they may use noStroke()
+stroke(0)
+fill(0)
+text(mouseX + ", " + mouseY, 20, 20)
 ```
+
+The other thing they should notice is that there are shapes they haven't learned before! They work, but what do the numbers mean? In pairs or groups of 3 ask students to complete the following [worksheet](https://docs.google.com/document/d/1H-H5XI5pqNcyGtJsySNG20reEn-qQQWKyGGvXNS8PAM/edit?usp=sharing) by filling in the missing blanks and using the [p5 reference](http://www.p5js.org/reference) to research information on each shape. Model how to complete the worksheet with the students.
 
 After they are done with the worksheet, ask them to create one or more of the following shapes in the p5.js:
 
@@ -141,17 +141,17 @@ Their sketches should include:
 * A canvas size of 600 pixels wide by 120 pixels high.
 * Light gray background.
 
-Examples of possible outputs:
+**Examples of possible outputs:**
 
 ![Four shapes on grey background, a triangle, a star-esque polygon, a quadrilateral, and a small arc.](https://lh3.googleusercontent.com/dGqIUpfi5c82eila\_zca\_VOhNxfCdp89lzjUxZgX7eLjayW2\_mVi\_lVl5IyxZnRwRIteQhuJPx8T1kWFizHaF-YE08YOQ-Qh44YYNGYjh1LcA4kbdQmTLDYhtdBz8sQxXhdbE2h6=s0)
 
-[**Possible Solution**](http://alpha.editor.p5js.org/SEP/sketches/Byc6nmFEX)\*\* | \*\*[**Possible Solution with stroke() and fill()**](http://alpha.editor.p5js.org/SEP/sketches/SkiIEh3Nm)
+[**Possible Solution**](http://alpha.editor.p5js.org/SEP/sketches/Byc6nmFEX) | [**Possible Solution with stroke() and fill()**](http://alpha.editor.p5js.org/SEP/sketches/SkiIEh3Nm)
 
 Students do not have to recreate these shapes exactly. Circulate the room to ensure students are adding comments to their code to label each shape.
 
 For students choosing to create the star shape or their own polygon, remind them that they can use the beginShape() function, and then add as many vertices as needed. Add endShape(CLOSE) at the end to close the shape.
 
-Example:
+**Example**:
 
 ![Image of a continous line forming a house on a grey background](https://lh3.googleusercontent.com/OHZu7dvRlWatG3joa3Og6nWpEkyw2bAGBbsACBak2NbIXVzV9Os4AOGnTXnK\_5DxbnXVJ0Kejbk2PCmNBX-efcqKJ3yWtykQ-\_Si1lQoffrRM0VO26il2QLpeniJl66AgCZnI9fs=s0)
 
@@ -173,8 +173,4 @@ Ask 2-3 students (preferably that you have conferenced with) to share their answ
 
 If time allows, spend some time reviewing the arc function, angle measuring units, and how its parameters work using this [p5 reference cheat sheet](https://drive.google.com/file/d/0Byk7AxhPkTEJWWdUeVFteXFrT2M/view?usp=sharing) and have the students compare their results in their groups. Then have them create this arc using the cheat sheet.
 
-![](https://lh5.googleusercontent.com/CffIEEI4ZmAL6XdROcZieVmN2EDyWB8PfTi0Q2i-lNVIR9dvWaskAFq1UrpnEJozwKNffITy39azMaReCdeqKs6x0qXqZLRu09tVWig-cW4jnavF3XDGqIMQKWl6cdFWiKJ1DS4B=s0)
-
-\
-\
-\\
+![Circle (arc) with a slice missing](https://lh5.googleusercontent.com/CffIEEI4ZmAL6XdROcZieVmN2EDyWB8PfTi0Q2i-lNVIR9dvWaskAFq1UrpnEJozwKNffITy39azMaReCdeqKs6x0qXqZLRu09tVWig-cW4jnavF3XDGqIMQKWl6cdFWiKJ1DS4B=s0)
