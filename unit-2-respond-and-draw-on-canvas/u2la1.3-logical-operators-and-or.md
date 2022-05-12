@@ -78,7 +78,7 @@ Students should be able to:
 
 ### **Resources**
 
-* [And/Or In Code ](https://youtu.be/8TGpiFZ5gsY)(Youtube Video) | [Starter Code ](https://editor.p5js.org/cmorgantywls/sketches/6Ta8mC-DJ)
+* [And/Or In Code ](https://youtu.be/8TGpiFZ5gsY)(Youtube Video) | Starter Code ([p5 editor ](https://editor.p5js.org/cmorgantywls/sketches/6Ta8mC-DJ)| [repl.it](https://replit.com/@qrtnycs4all/U2LA13-AndOr-Starter-Code#script.js))
 * Video tutorial: [Else, and else if, AND and OR](https://www.youtube.com/watch?v=r2S7j54I68c)
 
 ### **Assessments**
@@ -118,7 +118,7 @@ The “do now” should give students a solid understanding of AND, and OR. Info
 
 For this code along be sure to explain the purpose of each expression that is written between &&, and ||. This will model thinking behind using logical operators to create buttons. Refer to the chart to show how each condition can be satisfied. **This follows the youtube video on And/Or Code, if you need a reference.**
 
-Ask students to [make a copy of this starter code](https://editor.p5js.org/cmorgantywls/sketches/6Ta8mC-DJ). Students will be writing conditionals to change the background color when the mouse is in each different quadrant; note that the entire background will be changing, and not each individual quadrant, which can be a sticking point for students. Begin by asking students to explore the canvas, specifically moving their mouse into each quadrant and reporting what they notice about the x and y values when they are in each area.
+Ask students to make a copy of this starter code ([p5 editor ](https://editor.p5js.org/cmorgantywls/sketches/6Ta8mC-DJ)| [repl.it](https://replit.com/@qrtnycs4all/U2LA13-AndOr-Starter-Code#script.js)). Students will be writing conditionals to change the background color when the mouse is in each different quadrant; note that the entire background will be changing, and not each individual quadrant, which can be a sticking point for students. Begin by asking students to explore the canvas, specifically moving their mouse into each quadrant and reporting what they notice about the x and y values when they are in each area.
 
 You will be coding along the bottom right quadrant because it is the furthest from where the mouse starts when students hit play. Ask students what they notice about values in this quadrant specifically - they should recognize that all x values are greater than 200, and all y values are also greater than 200 (the lines represent the exact centers of each axis). Together, create the following code (you will need to make the bgColor variable):
 

@@ -80,7 +80,7 @@ Video tutorial: [Conditional Statements](https://www.youtube.com/watch?v=1Osb\_i
 
 [Pseudocode Conditionals](https://youtu.be/1CJaGL9dQBA) (Youtube Video)&#x20;
 
-[Conditionals Off-Canvas](https://youtu.be/28BONkrInyY) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/FZDxLCBiS)
+[Conditionals Off-Canvas](https://youtu.be/28BONkrInyY) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/FZDxLCBiS) | [repl.it](https://replit.com/@qrtnycs4all/U2LA11-Conditionals-Off-Canvas-Starter-Code#script.js))
 
 ### **Assessments**
 
@@ -129,7 +129,7 @@ The boolean expression inside the parentheses is the expression being evaluated.
 
 ### **Conditionals Off Canvas (20-30 Minutes)**
 
-Share students on this [starter ](https://editor.p5js.org/cmorgantywls/sketches/FZDxLCBiS)[code](https://editor.p5js.org/cmorgantywls/sketches/FZDxLCBiS) and direct them to make a copy so they can save it to their p5.js editor accounts. This tutorial follows the instructional Youtube video linked under resources if you would prefer to use that to help you prepare for the lesson.
+Share students on this starter code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/FZDxLCBiS) | [repl.it](https://replit.com/@qrtnycs4all/U2LA11-Conditionals-Off-Canvas-Starter-Code#script.js)) and direct them to make a copy so they can save it to their p5.js editor accounts. This tutorial follows the instructional Youtube video linked under resources if you would prefer to use that to help you prepare for the lesson.
 
 Explain that this starter code will not use the canvas and will run entirely behind the scenes, in the console. There are already some variables created with values as well as prompts for what students will be doing. Complete the noted code along with students to create code that will say ‘I love your music!” if theName says Beyonce and for all others will say ‘Nice to meet you!’ The finished result should look like this:
 

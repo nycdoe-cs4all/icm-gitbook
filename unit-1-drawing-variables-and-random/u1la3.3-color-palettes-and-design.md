@@ -24,7 +24,7 @@ Curious students might want to look into [Brutalism](http://brutalistwebsites.co
 
 ### Objectives
 
-Students will be able to:
+Students should be able to:
 
 Students will understand how to pick a color palette and use color wisely.
 

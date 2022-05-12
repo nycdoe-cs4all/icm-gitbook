@@ -67,7 +67,7 @@ Students should be able to:
 
 ### Resources
 
-* [Lesson Starter Code ](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0)
+* [Lesson Starter Code ](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0)([p5 editor](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0) | [repl.it](https://replit.com/@qrtnycs4all/U2LA14-Draw-with-Mouse-Lesson-Starter-Code#script.js))
 * Video tutorial: [2.1 Variables in p5.js (mouseX, mouseY) ](https://www.youtube.com/watch?v=RnS0YNuLfQQ)| [Code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js/2.1\_Variables\_in\_p5.js\_mouseX\_mouseY)&#x20;
 * [Objects in p5.js](https://youtu.be/-e5h4IGKZRY) (Youtube Tutorial)
 * [Introduction to Objects - Code.org ](https://youtu.be/ZunUF\_WGMb4)(Youtube Video)
@@ -88,7 +88,7 @@ Ask students to recall the difference between the setup() and draw() functions a
 
 ### **Draw with Mouse (20 minutes)**
 
-Start students with [this code](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0) which they should duplicate and put into their own accounts/ Structure this section as a code along. After you have had a chance to review the brain starter, introduce the frameCount variable using the starter code sketch.
+Start students with this code ([p5 editor](https://editor.p5js.org/cs4all/sketches/y5WZ8h6G0) | [repl.it](https://replit.com/@qrtnycs4all/U2LA14-Draw-with-Mouse-Lesson-Starter-Code#script.js)) which they should duplicate and put into their own accounts/ Structure this section as a code along. After you have had a chance to review the brain starter, introduce the frameCount variable using the starter code sketch.
 
 So far we have been drawing static images: they don't change over time. But one of the exciting things about drawing computationally is that we can make our drawings dynamic: we can have them change over time and respond to what the user does, or to some other kind of input.
 

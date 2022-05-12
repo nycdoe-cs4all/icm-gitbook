@@ -77,14 +77,14 @@ Students should be able to:
 ### **Resources**
 
 * Video tutorial: [Else, and else if, AND and OR ](https://www.youtube.com/watch?v=r2S7j54I68c)
-* [Else If Off the Canvas](https://youtu.be/If5VtjKP1xI) (Youtube Video) | [Starter Code ](https://editor.p5js.org/cmorgantywls/sketches/QxTcBSExe)
-* [Conditionals On the Canvas ](https://youtu.be/IsJ4D-2TR8c)(Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/B0KjtW4yo)&#x20;
-* [Do now Code](http://editor.p5js.org/cs4all/sketches/S1MhAWCVX)
+* [Else If Off the Canvas](https://youtu.be/If5VtjKP1xI) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/QxTcBSExe) | [repl.it](https://replit.com/@qrtnycs4all/U2LA12-Else-If-Off-Canvas-Starter-Code#script.js))
+* [Conditionals On the Canvas ](https://youtu.be/IsJ4D-2TR8c)(Youtube Video) | Starter Code  ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/B0KjtW4yo) | [repl.it](https://replit.com/@qrtnycs4all/U2LA12-Conditionals-on-the-Canvas#script.js))
+* [Do now Code](http://editor.p5js.org/cs4all/sketches/S1MhAWCVX) ([p5 editor](https://editor.p5js.org/cs4all/sketches/S1MhAWCVX) | [repl.it](https://replit.com/@qrtnycs4all/U2LA12-Do-Now-Code#script.js))
 
 ### **Assessments**
 
-Formative Assessment: Do now, Google form, Padlet\
-Summative Assessment: Coding exercises, Guiding questions, code walkthrough
+**Formative Assessment:** Do now, Google form, Padlet\
+**Summative Assessment:** Coding exercises, Guiding questions, code walkthrough
 
 Assess the Do Now assignment. Check for the ability to: Identify bugs in a program and modify the code to fix them.
 

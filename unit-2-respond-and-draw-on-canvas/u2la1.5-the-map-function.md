@@ -64,7 +64,7 @@ Students should be able to:
 
 ### Resources
 
-* [The Map Function](https://youtu.be/B-wsiuuT-HM) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU)
+* [The Map Function](https://youtu.be/B-wsiuuT-HM) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU) | [repl.it](https://replit.com/@qrtnycs4all/U2LA15-Map-Function-Starter-Code#script.js))
 * [Introduction to Objects - Code.org](https://youtu.be/ZunUF\_WGMb4) (Youtube Video)
 * Video tutorial: [2.4 The map() function ](https://www.youtube.com/watch?v=nicMAoW6u1g\&vl=en)| [Code](https://github.com/CodingTrain/website/blob/master/Tutorials/P5JS/p5.js/02/2.4\_p5.js\_map/sketch.js)
 
@@ -90,7 +90,7 @@ Discuss the issues that come up during the Do Now with students - they should no
 
 Explain the following: You might have noticed, that the background is fully white before we reach that half of the screen. This is the mouse position ranges from 0 (when we are on the left edge of the canvas), to 600 (when we are on the right edge), while the background gray ranges from 0 to 255. Our maximum mouseX position (600) is not the same as our maximum value for color (255 for white). So when the mouse reaches pixel 255, the screen is white.
 
-Use this to launch the map function, which will be a new concept for many students. Share [this starter code ](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU)with students, then code along mapping mouseX from 0 to the width of the canvas, and run the program so students can see the difference. Your finished code should look like this (all in the draw function):
+Use this to launch the map function, which will be a new concept for many students. Share this starter code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/THA0wYUcU) | [repl.it](https://replit.com/@qrtnycs4all/U2LA15-Map-Function-Starter-Code#script.js)) with students, then code along mapping mouseX from 0 to the width of the canvas, and run the program so students can see the difference. Your finished code should look like this (all in the draw function):
 
 ```
 var bgColor = map(mouseX, 0, 800, 0, 255) 
