@@ -20,7 +20,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 **Directions**: Your task is to recreate the Taijitu symbol using code in p5.
 
-**Requirements**:
+**Requirements**:\\
 
 1. Use shapes that we covered in this unit
 2. Add comments to the different shapes
@@ -40,7 +40,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 This project not only assesses students' ability to understand how to sequence functions in a program to get interesting results on screen, but it does so through a symbol that has a rich meaning and background. This can be a great moment for students to learn about other cultures, but there are also ways to make it more relevant to your student population and even tie it into other courses! Most sophomores in my class are quick to connect this to what they have learned about Daoism in their World History 1 course freshman year - consider looping your social studies teachers in on this project to help support learning.
 
-Additionally, this is a project that could be completed in small groups/whole class to make room for exploration that is more culturally driven. After the challenge and practice of recreating a Taijitu symbol, you could ask students to think of any important symbols to them or in their culture and then recreate those in code. (They could also be asked to imagine/brainstorm things that are important to them/their culture and create a symbolic representation that involves overlapping shapes!) This is also a great extension activity for students who move quickly through the course.
+Additionally, this is a project that could be completed in small groups/whole class to make room for exploration that is more culturally driven. After the challenge and practice of recreating a Taijitu symbol, you could ask students to think of any important symbols to them or in their culture and then recreate those in code. (They could also be asked to imagine brainstorm things that are important to them/their culture and create a symbolic representation that involves overlapping shapes!) This is also a great extension activity for students who move quickly through the course.
 
 ### Extensions
 

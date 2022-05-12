@@ -72,7 +72,7 @@ Experiment with the commands of a programming language. Explain why I chose spec
 
 ### Resources
 
-* Code Along 2 ([p5 editor](https://editor.p5js.org/cs4all/sketches/H1zfOrRXX) | [repl.it](https://replit.com/@qrtnycs4all/U1LA22-Custom-Variable-Starter-Code#script.js))
+* [Code Along 2 (with original code)](http://editor.p5js.org/cs4all/sketches/H1zfOrRXX)
 * Video tutorial: [2.2 Variables in p5.js (make your own)](https://www.youtube.com/watch?v=Bn\_B3T\_Vbxs\&index=6\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) | [Code](u1la2.2-custom-variables-in-p5.js.md#vocabulary)
 * Learning Processing book: [Chapter 4. Variables](http://learningprocessing.com/examples/chp04/example-04-01-declaringvars)
 * Getting Started With p5.js: Chapter 4, examples 4.1, 4.2 | [Code](https://github.com/lmccart/gswp5.js-code/tree/master/04\_Variables)
@@ -147,7 +147,7 @@ Ask students: we’ve changed the y position, but now I want to move this entire
 
 Students should vocalize that the numbers are different, so they might not immediately recognize that they can use one variable. Encourage them to use one variable!
 
-Code along with students do discuss how we could move left and right. It’s recommended that you use this code ([p5 editor](https://editor.p5js.org/cs4all/sketches/H1zfOrRXX) | [repl.it](https://replit.com/@qrtnycs4all/U1LA22-Custom-Variable-Starter-Code#script.js)) that has the original, commented out, and the variable modified code. This will allow you to look back at where you started.
+Code along with students do discuss how we could move left and right. It’s recommended that [you use this code ](http://editor.p5js.org/cs4all/sketches/H1zfOrRXX)that has the original, commented out, and the variable modified code. This will allow you to look back at where you started.
 
 This code along will be partially on a computer, and partially drawn - if you have chart paper, that’s recommended. Don’t worry about graph paper - just worry about marking ellipses and their centers. Ask students to look at the code and pick one ellipse that will be our starter (most students will pick the far left, because that’s how we read).
 

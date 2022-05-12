@@ -74,7 +74,7 @@ Students should be able to:
 ### Resources
 
 * Video tutorial: [2.5 The random() function](https://youtu.be/nfmV2kuQKwA) | [Code](https://github.com/CodingTrain/website/blob/master/Tutorials/P5JS/p5.js/02/2.5\_p5.js\_random/sketch.js)
-* [Random Review with Variables](https://youtu.be/I1Y0EE1ENU4) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/97GXwFZGc) | [repl.it](https://replit.com/@qrtnycs4all/U1LA23-Random-Review-Starter-Code#script.js))
+* [Random Review with Variables](https://youtu.be/I1Y0EE1ENU4) (Youtube Video)
 
 ### **Assessments**
 
@@ -84,9 +84,9 @@ Students should be able to:
 
 ### Do Now/Warm Up (3-5 Minutes)
 
-**Share students on this sample code (**[**p5 editor** ](https://editor.p5js.org/cs4all/sketches/HJG9QHAmQ)**|** [**repl.it**](https://replit.com/@qrtnycs4all/U1LA23-Do-Now#script.js)**).**
+**Share students on** [**this sample code**](http://editor.p5js.org/cs4all/sketches/HJG9QHAmQ)**.**
 
-Instruct students to read and play their code to see what happens. After a few plays, try to adjust the code to constrain the ellipse to only half of the canvas. If students complete this task early, ask them to modify the code so that the ellipse can be placed in random position of the canvas.
+Instruct students to play their code and then try to constrain the ellipse that to only half of the canvas. If students complete this task early, ask them to modify the code so that the ellipse can be placed in random position of the canvas.
 
 While students struggle, circulate and identify one or two students who have completed the task to share their work. Plug their computer into the smartboard (or otherwise display their code).
 
@@ -132,8 +132,6 @@ Make an ellipse that is…
 * Begins at a random location anywhere on the canvas after pressing play
 * Add a second ellipse that begins with a random size
 * Add a rectangle that begins with a random grey fill
-
-_There is an alternative starter code listed under resources that includes a challenge assignment that students can use instead of these challenges._
 
 Teachers should circulate and make notes of struggling students for conferencing or remediation. Students should be adding comments to their code to differentiate each shape they are making and where it -should- be appearing.
 

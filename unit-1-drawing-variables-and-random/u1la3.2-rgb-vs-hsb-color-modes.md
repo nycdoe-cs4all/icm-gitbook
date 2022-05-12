@@ -71,8 +71,9 @@ Students should be able to:
 
 ### Resources
 
-* Partner Color Guess Code ([Guesser](https://editor.p5js.org/cs4all/sketches/Hk-F\_ghXm) | [Judge](https://editor.p5js.org/cs4all/sketches/By4eFxnm7))
-* [Color Application Practice](http://editor.p5js.org/cs4all/sketches/rJ31kZ3QQ)
+* **p5 editor:** Partner Color Guess Code ([Guesser](https://editor.p5js.org/cs4all/sketches/Hk-F\_ghXm) | [Judge](https://editor.p5js.org/cs4all/sketches/By4eFxnm7))
+* **repl.it:** Partner Color Guess Code ([Guesser](https://replit.com/@qrtnycs4all/U1LA32-Partner-Color-Guesser-GUESSER#script.js) | [Judge](https://replit.com/@qrtnycs4all/U1LA32-Partner-Color-Guess-Code-JUDGE#script.js))
+* Color Application Practice ([p5 editor](https://editor.p5js.org/cs4all/sketches/rJ31kZ3QQ) | [repl.it](https://replit.com/@qrtnycs4all/U1LA32-HSB-Color-Partner-Practice#script.js))
 * [HSB Color System](https://learnui.design/blog/the-hsb-color-system-practicioners-primer.html)
 * [HSB Color Mode](https://youtu.be/lt1lDp2aFLQ) (Youtube Video)
 
