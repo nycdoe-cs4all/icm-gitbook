@@ -124,7 +124,7 @@ What would happen if you were to add multiple background functions with differen
 
 ### Line && Point Function Code Along (5 min)
 
-For this code-along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following example ([p5 editor](https://editor.p5js.org/cs4all/sketches/HkLEZg4Em) | [repl.it](https://replit.com/@qrtnycs4all/U1LA12-Line-and-Point-Example#script.js)) with your students.
+For this code-along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the [following example](http://alpha.editor.p5js.org/SEP/sketches/HkLEZg4Em) with your students.
 
 ```
 function setup() {
@@ -155,7 +155,7 @@ As you code, go over the following:
 
 ### Student Practice (10 min)
 
-Ask students to complete the following exercises on the online editor and title it "LinesU1L1.2"
+Ask students to complete the following exercises on the online editor and title it “LinesU1L1.2””
 
 1. Code the lines they found on their worksheet, and then:
 2. Draw a point near the top-right corner of the canvas.

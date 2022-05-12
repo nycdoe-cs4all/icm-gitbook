@@ -10,6 +10,21 @@ This curriculum was built as an introductory high school computer science course
 
 The curriculum is broken into units, with each unit including lesson arcs (structured as 'learning activities') with many projects and final projects to endcap each unit.
 
+### What We Provide
+
+This curriculum provides detailed lesson plans, sample code, starter code, and links to additional resources (including videos).
+
+We _do not_ provide other classroom materials such as lesson slides or rubrics, as we believe these are things that often need to be customized to meet the needs of your class and your specific learners.&#x20;
+
+### Choosing an Editor
+
+One of the most important parts of beginning a course is determining the environment your students will be coding in. This curriculum supports two:
+
+* **p5 Editor:** This is a code editor that allows students to start with a default template that is already inked to the p5 library (as well as sound library). Students have accounts and can rename and save their projects, as well as making 'collections' (folders/directories) to store and organize them. It is actively worked on and updated by the p5/processing team and is made specifically for working with p5. Runs best in Chrome. It _does not_ have a teams/classroom/education feature, so teachers will need to collect links to student projects and give feedback separately.
+* **repl.it:** This is a code editor that supports _many_ languages and libraries and includes a p5 template. Students will need to select the p5 template when creating new projects, but it will then have the p5 library automatically linked. While their focus is not specifically p5, any updates to the p5 library will also exist here. There is a 'Teams for Education' option that is now free for K-12 educators and allows work to be collected/feedback left through repl.it.&#x20;
+
+We have done our best to ensure all starter code exists as a template in both editors. This curriculum was initially made using the p5 editor before repl.it added the p5 template (and because there was initially helpful p5 reminders that only existed in the editor, but has since become a part of the library), so there remain some examples that exist only in the editor. We have done our best to ensure that anything that exists in only the p5 editor is a project that is only meant to be viewed by students/teachers, not necessarily remixed or interacted with.
+
 ### Pacing
 
 There is no end-of-course exam, so teachers should feel free to adjust pacing to suit the needs of their class. From experience, we believe that the five units in this guide represent a reasonable pace for a year. Finishing Unit 5 also puts students in a great place for follow-up courses such as AP Computer Science Principles.
