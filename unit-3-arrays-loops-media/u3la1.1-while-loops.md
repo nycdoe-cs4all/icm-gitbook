@@ -75,8 +75,8 @@ Students should be able to:
 * [4.1 While and for loop](https://www.youtube.com/watch?v=cnRD9o6odjk\&t=500s) (Youtube Video) | [Code](https://github.com/CodingRainbow/Rainbow-Code/tree/master/p5.js) (4.1a to 4.2b)&#x20;
 * [Learning Processing: Chapter 6. Loops](http://learningprocessing.com/examples/)&#x20;
 * [Getting Started With p5.js: Chapter 4. Variables (Section: Repetition)](https://p5js.org/books/)
-* [While Loop w/ Code Comments ](https://editor.p5js.org/cs4all/sketches/HJUxl-eN-)(Code Sample)
-* [Spicy Challenge Example](https://editor.p5js.org/cs4all/sketches/r1UO4XZSb) (Code Sample)
+* While Loop w/ Code Comments Code Sample ([p5 editor](https://editor.p5js.org/cs4all/sketches/HJUxl-eN-) | [repl.it](https://replit.com/@qrtnycs4all/U3LA11-While-Loops-Code-Sample#script.js))
+* Spicy Challenge Example Code Sample ([p5 editor ](https://editor.p5js.org/cs4all/sketches/r1UO4XZSb)| [repl.it](https://replit.com/@qrtnycs4all/U3LA11-While-Loop-Spicy-Challenge-Sample-Code#script.js))
 
 ### Assessments
 

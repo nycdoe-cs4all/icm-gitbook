@@ -67,7 +67,7 @@ Students should be able to:
 ### Resources
 
 * [Intro to For Loops](https://youtu.be/DszE9QFPGes) (Youtube Video)
-* [Styling For Loops](https://youtu.be/9RLDwu0-8hQ) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/fnbo7fpBH)
+* [Styling For Loops](https://youtu.be/9RLDwu0-8hQ) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/fnbo7fpBH) ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/fnbo7fpBH) | [repl.it](https://replit.com/@qrtnycs4all/U3LA12-For-Loops-Starter-Code#script.js))
 * [Learning Processing: Chapter 6. Loops](http://learningprocessing.com/examples/)
 * [Getting Started With p5.js: Chapter 4. Variables (Section: Repetition)](https://p5js.org/books/)
 

@@ -45,8 +45,8 @@ Much like translations, rotations are cumulative so students will need to contin
 
 ### Resources
 
-* [Rotation Exploration Pt. 1](https://editor.p5js.org/cmorgantywls/sketches/NyU-OagKH) (Starter Code)
-* [Rotation Exploration Pt. 2](https://editor.p5js.org/cs4all/sketches/Ska-yQ96Q) (Starter Code)
+* **Rotation Exploration Pt. 1 Starter Code** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/NyU-OagKH) | [repl.it](https://replit.com/@qrtnycs4all/U4LA22-Rotations-Exploration-Pt-1-Starter-Code#script.js))
+* **Rotation Exploration Pt. 2 Starter Code** [(p5 editor](https://editor.p5js.org/cs4all/sketches/Ska-yQ96Q) | [repl.it](https://replit.com/@qrtnycs4all/U4LA22-Rotation-Exploration-Pt-2))
 * [Transformations](https://www.youtube.com/watch?v=o9sgjuh-CBM) (Youtube Video)
 * [Animation Basics: Rotation](https://www.youtube.com/watch?v=-YhzDuF\_kLs) (Youtube Video)
 * [Radians & The Unit Circle](https://www.dummies.com/education/math/calculus/pre-calculus-unit-circle/) (Explainer)
@@ -83,7 +83,7 @@ The image below shows the difference between rotating with positive and negative
 
 Let's test this with a bit of play!
 
-Go to [this link](https://editor.p5js.org/cmorgantywls/sketches/NyU-OagKH) and do the following (after duplicating!), also listed in the program (leave your answers as comments):
+Go to **this starter code** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/NyU-OagKH) | [repl.it](https://replit.com/@qrtnycs4all/U4LA22-Rotations-Exploration-Pt-1-Starter-Code#script.js)) and do the following (after duplicating!), also listed in the program (leave your answers as comments):
 
 * Play with the values for rotation (keep them below 6.28 for now!)
 * What happens if you move the rectangle to (0,0)?&#x20;
@@ -117,7 +117,7 @@ function draw() {
 }
 ```
 
-You can make a copy of [this starter code](https://editor.p5js.org/cs4all/sketches/Ska-yQ96Q) to code out the above example together.
+You can make a copy of **this starter code** [(p5 editor](https://editor.p5js.org/cs4all/sketches/Ska-yQ96Q) | [repl.it](https://replit.com/@qrtnycs4all/U4LA22-Rotation-Exploration-Pt-2)) to code out the above example together.
 
 Once you've tackled that, try the following challenges:
 

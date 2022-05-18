@@ -56,8 +56,9 @@ Students will be able to:
 
 _Elements of this lesson were adapted from_ [_http://genekogan.com/code/p5js-transformations/_](http://genekogan.com/code/p5js-transformations/)__
 
-* [Translate Exploration Example](https://editor.p5js.org/cs4all/sketches/Hy7EE-c6m) (Starter Code)
-* Translation Battleship (Plugged Starter Code): [Level 1](https://editor.p5js.org/cmorgantywls/sketches/ivol7UfjI) | [Level 2](https://editor.p5js.org/cmorgantywls/sketches/U1zQeJC5P) | [Level 3](https://editor.p5js.org/cmorgantywls/sketches/Ej\_0eGbUN)
+* **Translate Exploration Example Starter Code** ([p5 editor](https://editor.p5js.org/cs4all/sketches/Hy7EE-c6m) | [repl.it](https://replit.com/@qrtnycs4all/U4LA21-Translation-Exploration-Starter-Code#script.js))
+* **p5 editor:** Translation Battleship (Plugged Starter Code): [Level 1](https://editor.p5js.org/cmorgantywls/sketches/ivol7UfjI) | [Level 2](https://editor.p5js.org/cmorgantywls/sketches/U1zQeJC5P) | [Level 3](https://editor.p5js.org/cmorgantywls/sketches/Ej\_0eGbUN)
+* **repl.it:** Translation Battleship (Plugged Starter Code): [Level 1](https://replit.com/@qrtnycs4all/Lv1-Transformation-Battleship#sketch.js) | [Level 2](https://replit.com/@qrtnycs4all/Lv2-Transformation-Battleship#sketch.js) | [Level 3](https://replit.com/@qrtnycs4all/Lv3-Transformation-Battleship#sketch.js)
 * [Transformations Pt. 1](https://youtu.be/o9sgjuh-CBM) (Youtube Video)
 
 ### Assessments
@@ -123,9 +124,17 @@ Add two other elements that are not affected by translate().
 
 ### Translation Battleship
 
+**P5 Editor Links:**
+
 1. ****[**Level 1** ](https://editor.p5js.org/cmorgantywls/sketches/ivol7UfjI)**(one translation for everything) -** _Pause_ after this _to talk about adding multiple translations in a sketch, with the results being cumulative. Then, you're on to Level 2!_
 2. ****[**Level 2**](https://editor.p5js.org/cmorgantywls/sketches/U1zQeJC5P) **(separate translations for each shape - cumulative)** - _Pause here to talk about push() and pop(), outlined below. These are also WILDLY USEFUL THINGS that students will not understand the use of until a bit farther into this learning activity! Once they understand the idea of push() and pop(), then move on to:_
 3. ****[**Level 3**](https://editor.p5js.org/cmorgantywls/sketches/Ej\_0eGbUN) **(with push() and pop())**
+
+**Repl.it Links:**
+
+* ****[**Level 1**](https://replit.com/@qrtnycs4all/Lv1-Transformation-Battleship#sketch.js) **(one translation for everything) -** _Pause_ after this _to talk about adding multiple translations in a sketch, with the results being cumulative. Then, you're on to Level 2!_
+* ****[**Level 2**](https://replit.com/@qrtnycs4all/Lv2-Transformation-Battleship#sketch.js) **(separate translations for each shape - cumulative)** - _Pause here to talk about push() and pop(), outlined below. These are also WILDLY USEFUL THINGS that students will not understand the use of until a bit farther into this learning activity! Once they understand the idea of push() and pop(), then move on to:_
+* ****[**Level 3**](https://replit.com/@qrtnycs4all/Lv3-Transformation-Battleship#sketch.js) **(with push() and pop())**
 
 #### push() and pop()
 

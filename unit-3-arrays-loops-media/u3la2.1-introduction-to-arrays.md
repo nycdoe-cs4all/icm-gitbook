@@ -54,7 +54,7 @@ Give examples of specific patterns in something I can see, do or touch.
 ### Resources
 
 * [Introduction to Arrays](https://youtu.be/qq6rsfemYYA) (Youtube Video)
-* [Colors in Arrays](https://youtu.be/O-gAiUNtZ3Q) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/tBzRpplfn)
+* [Colors in Arrays](https://youtu.be/O-gAiUNtZ3Q) (Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/tBzRpplfn) | [repl.it](https://replit.com/@qrtnycs4all/U3LA21-Colors-in-Arrays-Starter-Code#script.js))
 * [7.1 What is an Array?](https://youtu.be/VIQoUghHSxU) | Code (6.1)&#x20;
 * [Learning Processing:](http://learningprocessing.com/examples/) Chapter 9. Arrays&#x20;
 * [Getting Started With p5.js:](https://p5js.org/books/) Chapter 4. Variables (Section: Repetition)&#x20;
@@ -179,7 +179,7 @@ var buildingPop = [50,0,20,40,10]
 
 After all of those examples, it's time to see one last application of arrays - this time instead of numbers or strings, let's try putting colors into an array. For this activity, we are going to imagine we are making a color palette for a design project (something that graphic artists, fashion designers, and even event planners have to do often) using [Adobe Color Picker](https://color.adobe.com/create/color-wheel).
 
-[Share students on this starter code](https://editor.p5js.org/cmorgantywls/sketches/tBzRpplfn). Then demonstrate Adobe Color Picker and select a palette of your choosing. With students, show them how they could create and use an array of colors via the following code along. Note: the color() feature is p5.js specific (it is essentially creating a color object) and so this array, while the variable still needs to be declared globally, above setup, must be given values _inside_ the setup function for the colors to register. Creating the array would look like this:
+**Share students on this starter code** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/tBzRpplfn) | [repl.it](https://replit.com/@qrtnycs4all/U3LA21-Colors-in-Arrays-Starter-Code#script.js)). Then demonstrate Adobe Color Picker and select a palette of your choosing. With students, show them how they could create and use an array of colors via the following code along. Note: the color() feature is p5.js specific (it is essentially creating a color object) and so this array, while the variable still needs to be declared globally, above setup, must be given values _inside_ the setup function for the colors to register. Creating the array would look like this:
 
 ```
 var palette1;

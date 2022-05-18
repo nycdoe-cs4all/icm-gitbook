@@ -94,7 +94,7 @@ _Have students try to create a grid using the for loop method from the previous 
 
 ![Image showing row of ellipses and several completed columns](<../.gitbook/assets/Screen Shot 2021-12-13 at 10.42.43 AM.png>)
 
-[Example](https://editor.p5js.org/cs4all/sketches/S1rbcElNW) - Students should realize how tedious and prone to errors this method can be.
+**Example** ([p5 editor](https://editor.p5js.org/cs4all/sketches/S1rbcElNW) |[ repl.it](https://replit.com/@qrtnycs4all/U3LA13-Grid-Without-Loops-Example-Code))- Students should realize how tedious and prone to errors this method can be.
 
 _Ask Students:_
 
@@ -104,7 +104,7 @@ _Ask Students:_
 
 ### Nested For Loops
 
-As you review the Do Now, explain that in a previous lesson, we drew rows and columns using for loops. Here is an example of how we accomplished that using multiple for loops (display linked [example code](https://editor.p5js.org/cs4all/sketches/S1rbcElNW)). The first for loop increments the x position creating a row of ellipses and the second loop increments the y position creating a column of ellipses.&#x20;
+As you review the Do Now, explain that in a previous lesson, we drew rows and columns using for loops. Here is an example of how we accomplished that using multiple for loops (display linked example code ([p5 editor](https://editor.p5js.org/cs4all/sketches/S1rbcElNW) |[ repl.it](https://replit.com/@qrtnycs4all/U3LA13-Grid-Without-Loops-Example-Code))). The first for loop increments the x position creating a row of ellipses and the second loop increments the y position creating a column of ellipses.&#x20;
 
 This is a lot of repetitive code, and aside from being tedious and error-prone, our brains should be firing a flashing light whenever we see that much repitition: it usually means there is an easier, or at least more efficient, computational way to solve our problem.
 

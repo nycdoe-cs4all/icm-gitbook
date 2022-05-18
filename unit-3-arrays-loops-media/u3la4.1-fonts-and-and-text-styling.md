@@ -48,10 +48,10 @@ Students will be able to...
 
 * [Finding and Adding Fonts ](https://youtu.be/JIv8J-CrSoA)(Youtube Video)
 * [Using Custom Fonts](https://youtu.be/4B21lABmmKU) (Youtube Video)
-* [Using Fonts Practice Starter Code](https://editor.p5js.org/cmorgantywls/sketches/TSVIWvEX2)
+* **Using Fonts Practice Starter Code** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/TSVIWvEX2) | [repl.it](https://replit.com/@qrtnycs4all/U3LA41-Adding-Fonts-Starter-Code#script.js))
 * [What is a font?](https://whatis.techtarget.com/definition/font)&#x20;
 * [Google Font Pairings Examples](https://femmebot.github.io/google-type/)
-* [Font Pairings Tool ](https://fontpair.co)
+* [Font Pairings Tool ](https://fontpair.co/)
 * [What is HTML and CSS? ](https://drive.google.com/open?id=13Git94LR3TgbAf1jQ3AHdOXCXjOqLSIU)(4 min video)&#x20;
 * [Papyrus](https://drive.google.com/open?id=0BzEvNJib39cVdmc3SXpoQVBxOFE) (SNL Skit)&#x20;
 * [The Rise and Fall of Comic Sans](https://www.greatbigstory.com/stories/the-rise-and-fall-of-comic-sans) (3 min video)&#x20;
@@ -107,7 +107,7 @@ It’s also worth knowing that some fonts come with a lot of baggage from the de
 
 Fonts on the web are downloaded from a server upon request. There are some fonts that all computers know and can access easily; common examples are "Arial", “Courier,” “Courier New,” “Georgia,” “Helvetica,” “Palatino,” “Times New Roman,” “Trebuchet MS,” and “Verdana”. Other fonts, computers need to be pointed towards either by having the downloaded font as part of our project, or by linking to the location of the font in our HTML.
 
-Many options for finding fonts are available, often for free, on websites like [Google Fonts](https://fonts.google.com) and [Open Font library](https://fontlibrary.org).
+Many options for finding fonts are available, often for free, on websites like [Google Fonts](https://fonts.google.com/) and [Open Font library](https://fontlibrary.org/).
 
 In Google Fonts, you will need to click the fonts you would like (note that you an search by different categories or font names, and once you view a font you can retype the sample text to preview) and then click **+Select Font Family.** You can select one or multiple fonts at a time, but they will all show up in a selected fonts side panel. Once you've selected your font, you want to EMBED the font in the HTML using a code snippet that looks like this (font names will vary based on selection):&#x20;
 
@@ -164,7 +164,7 @@ function draw() {
 
 ### Practice: Build Your Font Library!
 
-Open [**this starter code**](https://editor.p5js.org/cmorgantywls/sketches/TSVIWvEX2) of boring sentences that you will be styling. Before you can begin, you will need to build your font library. Go forth onto Google Fonts (or Open Font Library) and find the following to add to your program and slide into that array:
+Open **this starter code** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/TSVIWvEX2) | [repl.it](https://replit.com/@qrtnycs4all/U3LA41-Adding-Fonts-Starter-Code#script.js)) of boring sentences that you will be styling. Before you can begin, you will need to build your font library. Go forth onto Google Fonts (or Open Font Library) and find the following to add to your program and slide into that array:
 
 * 3 Serif Fonts&#x20;
 * 3 Sans Serif Fonts&#x20;

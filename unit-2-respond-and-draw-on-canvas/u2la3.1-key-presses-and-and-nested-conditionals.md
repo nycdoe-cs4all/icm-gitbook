@@ -69,8 +69,8 @@ Integrate key presses to control aspects of their program
 
 ### Resources
 
-* [Key Presses in p5.js ](https://youtu.be/U7LsNnJH7C4)(Youtube Video) | [Starter Code ](https://editor.p5js.org/cmorgantywls/sketches/ZP31L3Dx4)
-* [Keycode Info ](https://keycode.info)
+* [Key Presses in p5.js ](https://youtu.be/U7LsNnJH7C4)(Youtube Video) | Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/ZP31L3Dx4) | [repl.it](https://replit.com/@qrtnycs4all/U2LA31-Key-Press-Starter-Code#script.js))
+* [Keycode Info ](https://keycode.info/)
 * [Getting started with p5 Example 5-15: Tap a Key](https://books.google.com/books?id=iP3GCgAAQBAJ\&pg=PT92\&lpg=PT92\&dq=keyispressed+p5.js\&source=bl\&ots=4tsPcbUqAm\&sig=As7TQTro1qdt6uqILJ67mM29Kps\&hl=en\&sa=X\&ved=0ahUKEwjZvcvY5YvUAhUG8IMKHVxxD5oQ6AEITzAH#v=onepage\&q=keyispressed%20p5.js\&f=false)
 
 ### Assessments
@@ -95,6 +95,8 @@ Ask students to draw an ellipse in the center of their screen with a size of 50.
 ### **Press A Specific Key**
 
 Ask students to share out some things they may want to change - remind them that this list could be long, and making buttons for everything might not make sense. Some things can change with a key press.
+
+_For this section, you may have students start from scratch or utilize **this starter code**_** ** ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/ZP31L3Dx4) | [repl.it](https://replit.com/@qrtnycs4all/U2LA31-Key-Press-Starter-Code#script.js))_, working from just one circle and saving the others for practice._&#x20;
 
 Code along with students; suggest that you all change the size of the circle together. Take notes in code that you want the circle to get bigger when you press b and smaller when you press s. Be sure to demonstrate that because size will change, it needs a new variable to control it. **Explain that you will be changing many different attributes of this circle eventually, so even though you are just changing one thing for now, you are going to set up your code using an object, like so:**
 
@@ -154,7 +156,7 @@ From there, send students to pair program. With their partners, they should deci
 
 ### keyCode
 
-Students may want to use keys outside of letters, which is possible but works a bit differently. Instead of saying ‘if (key===) ‘, they can say ‘if (keyCode ===) ‘ and use this website to identify keycodes: [http://keycode.info/](http://keycode.info)
+Students may want to use keys outside of letters, which is possible but works a bit differently. Instead of saying ‘if (key===) ‘, they can say ‘if (keyCode ===) ‘ and use this website to identify keycodes: [http://keycode.info/](http://keycode.info/)
 
 For more information on where key codes come from, students can look into the Unicode system, which will be useful in AP CSP. [https://en.wikipedia.org/wiki/Unicode](https://en.wikipedia.org/wiki/Unicode)
 

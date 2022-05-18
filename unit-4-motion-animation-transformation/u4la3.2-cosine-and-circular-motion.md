@@ -53,7 +53,7 @@ Students will be able to:
 
 ### Resources
 
-* [Circular Motion Exploration](https://editor.p5js.org/cmorgantywls/sketches/X42BnepRa) (Starter Code)
+* **Circular Motion Exploration Starter Code** ([p5 editor ](https://editor.p5js.org/cmorgantywls/sketches/X42BnepRa)| [repl.it](https://replit.com/@qrtnycs4all/U4LA32-Circular-Motion-Starter-Code#script.js))
 * [Sine && Cosine from CCFest LA](http://dexterjshepherd.com/ccfestla2018/#/5)
 * [Ken Chung Sine && Cosine in p5](https://editor.p5js.org/kchung/sketches/SyTz42l87)
 * [Cosine and Circular Motion](https://youtu.be/JrMeqBx8igs) (Youtube Video)

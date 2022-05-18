@@ -77,8 +77,8 @@ _Use your best judgment in timing! This lesson can easily be completed in one pe
 
 ### Resources
 
-* [Collide && Click](https://youtu.be/9lRIv80js\_U) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/Ch4Ef2U90) (completed in last lesson)&#x20;
-* [Blank Collide2D Template](https://editor.p5js.org/cs4all/sketches/H6r7sf5IW)&#x20;
+* [Collide && Click](https://youtu.be/9lRIv80js\_U) (Youtube Video) | [Starter Code](https://editor.p5js.org/cmorgantywls/sketches/Ch4Ef2U90) - completed in last lesson ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/aUZv6Jll7)| [repl.it](https://replit.com/@qrtnycs4all/Collide-with-Other-Shapes-Practice-Starter-Code#script.js))
+* Blank Collide2D Template ([p5 editor](https://editor.p5js.org/cs4all/sketches/H6r7sf5IW) | [repl.it](https://replit.com/@qrtnycs4all/Blank-Sketch-with-Collide2D-Library-Linked))
 * [Variables in p5.js ](https://www.youtube.com/watch?v=Bn\_B3T\_Vbxs\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=7)(make your own)&#x20;
 * Video tutorial 3.4: [Boolean Variables ](https://www.youtube.com/watch?v=Rk-\_syQluvc\&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA\&index=14)
 * Learning Processing book: [Chapter 3](http://learningprocessing.com/examples/chp03/example-03-05-mouse-key-events), section 5 | [Code](https://github.com/shiffman/LearningProcessing-p5.js/blob/master/chp03\_flow/)
