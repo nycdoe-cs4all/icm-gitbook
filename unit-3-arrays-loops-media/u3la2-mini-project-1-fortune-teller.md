@@ -10,23 +10,25 @@ While this is marked as a mini-project, it is really a specific practice activit
 
 If students are struggling to come up with interesting things to fill their arrays with, encourage them to Google - this is a coding task, not a creative writing one, and students feeling stumped should feel free to get inspiration where they can.
 
+Students have not _formally_ been taught to join strings, which is a part of this lesson. Many students can figure out that strings can be joined by looking at the **text()** function they use to display mouse coordinates - **string + string** creates a joined version. Students may need assistance remembering this, or reasoning out why they made need spaces in their strings to make sentences readable. Students who are looking to add another skill (and vocab word) to their toolbox may benefit from learning about the [.**concat()** string method](https://www.w3schools.com/jsref/jsref\_concat\_string.asp), either on their own or in the briefest of mini lessons.
+
 ### Prompt
 
 It's time for your code to tell the future, and as we know, the future is always changing! You will be creating a fortune teller project (and if you don't like fortunes, it can be a homework excuse generator, or anything else similar) that will look great and randomly give out a fortune.
 
 #### Task
 
-Create a project that will generate a random string of text from three distinct arrays when run, take a random value from each array to create a setnence. In the case of the fortune teller, the three arrays might be TIME, PREDICTION, and REASON, so it gives you something like "Tomorrow during the full moon" (for time), "you will meet a masked stranger" (for prediction), "because of the position of Venus" (for reason). It would then generate the full sentence: **"Tomorrow during the full moon you will meet a masked stranger because of the position of Venus."**
+Create a project that will generate a random string of text from three distinct arrays when run by taking a random value from each array and joining them to create a sentence. In the case of the fortune teller, the three arrays might be TIME, PREDICTION, and REASON, so it gives you something like "Tomorrow during the full moon" (for time), "you will meet a masked stranger" (for prediction), "because of the position of Venus" (for reason). It would then generate the full sentence: **"Tomorrow during the full moon you will meet a masked stranger because of the position of Venus."**
 
 The _time_ array would contain strings similar to the example that give different times - likewise for prediction and reason, and you should be able to pick one element from each array and get a complete sentence.
 
-**NOTE:** You do NOT have to make a fortune teller, but you do need to have three arrays that can combine to make any random sentence. If you were feeling crafty, maybe make a homework generator, or get creative with the other random things you could generate!
+**NOTE:** You do NOT have to make a fortune teller, but you do need to have three arrays that hold strings that can be combined to make any random sentence. If you were feeling crafty, maybe make a homework generator, or get creative with the other random things you could generate!
 
 #### Requirements
 
 Your project should:
 
-* Generate a sentence by combining random elements from three different arrays when run
+* Generate a sentence by sequentially combining random elements from three different arrays when run
 * Include a button that can be clicked or key that can be pressed to generate a new sentence
 * Be designed/styled in a creative way (not just text on a plain background)
 * Utilize any and all skills from prior units that you see fit to use!

@@ -98,7 +98,7 @@ Open a blank editor and using whatever color-choosing application you like, crea
 
 _Students should use their work from the previous lesson as reference - as they begin this warm-up activity, circulate to ensure that you can help them troubleshoot any errors as they get used to both arrays and storing this particular data type in arrays._
 
-### random() & floor() functions
+### random() & floor() functions (8 - 15 min)
 
 Explain to students that today, they are going to build a program with shapes that change color randomly whenever the program is run. This should feel familiar - they've done it before - but they've never done it by pulling random values from the array. And since that can be a little tricky, that will be the focus!
 
@@ -189,11 +189,11 @@ Essentially, this is what is happening in our code:
 
 By changing the value to the length of the list, we will ensure that even if our lists gets longer (or shorter), the code will always work correctly. This kind of thinking is a best practice as we continue to make our programs more and more complicated. Always be asking yourself: what can I do to make sure this won't break in the future?
 
-### Student Practice
+### Student Practice (10 - 20 min)
 
 Ask students to create a design where at least 5 shapes change randomly using colors from the array. _All_ shapes in their design should pull colors from the array, to practice calling array elements again, but they do not all need to be randomized.
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
 
