@@ -6,7 +6,7 @@ description: A High School Computer Science Curriculum using p5.js
 
 **This curriculum is being revised as we port it to Gitbooks (forgive any formatting issues) - stay tuned for all content to eventually make its way here! **_**If you are viewing this curriculum from Github, we certainly recommend**_ [_**viewing on the much prettier Gitbooks**_](https://cs4all-icm.gitbook.io/introduction-to-computational-media-curriculum/)_**.**_
 
-This curriculum was developed by the [NYCDOE CS4All](http://cs4all.nyc) academics team (José Olivares, EJ Park) with lead writer [Luisa Pereira](http://www.luisapereira.net). Additional contributors to the curriculum include Courtney Morgan 🙆‍♀️ & José Orea (teacher implementation guide and additional activities), Esther Hersh, and the [Processing Foundation](https://processingfoundation.org). Curricular reorganization, rewrites, and extras developed by Courtney Morgan. All lessons are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license License: CC BY-NC-SA 4.0. For more info on the limitations and use of materials under this license please click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This curriculum was developed by the [NYCDOE CS4All](http://cs4all.nyc/) academics team (José Olivares, EJ Park) with lead writer [Luisa Pereira](http://www.luisapereira.net/). Additional contributors to the curriculum include Courtney Morgan 🙆‍♀️ & José Orea (teacher implementation guide and additional activities), Esther Hersh, and the [Processing Foundation](https://processingfoundation.org/). Curricular reorganization, rewrites, and extras developed by Courtney Morgan. All lessons are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license License: CC BY-NC-SA 4.0. For more info on the limitations and use of materials under this license please click [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ### AP CSP and ICM
 
@@ -46,9 +46,9 @@ Peblio pages contain executable code, text, slides, videos and more. They are us
 ### Additional Tools
 
 * [Code-it:](./#ap-csp-and-icm) A block language based on p5
-* [Open Processing](https://www.openprocessing.org): A web editor with a lot of cool examples from the community
-* [Codepen](https://codepen.io): A front end web editor with cool examples (although mostly not p5)
-* [Repl.it:](https://repl.it) An online web editor for any language with classroom tools
+* [Open Processing](https://www.openprocessing.org/): A web editor with a lot of cool examples from the community
+* [Codepen](https://codepen.io/): A front end web editor with cool examples (although mostly not p5)
+* [Repl.it:](https://repl.it/) An online web editor for any language with classroom tools
 
 ### Additional Workshops && Tutorials
 
@@ -74,16 +74,16 @@ _This hour of code activity introduces drawing with p5 and system variables mous
 ### Communities
 
 * [Facebook group for Processing and p5.js users](https://www.facebook.com/search/top/?q=creative%20coding%20with%20processing%20and%20p5.js\&epa=SEARCH\_BOX)
-* [Processing Discourse discussion group](https://discourse.processing.org)
+* [Processing Discourse discussion group](https://discourse.processing.org/)
 * [NYC DOE CSforAll Teacher Slack group](https://join.slack.com/t/cs4allteachers/shared\_invite/enQtMzIwODg0NjEyMzg2LWNhNTI0ODk1N2RkNTQwODMxMTNhYjE1ZWYyMzZiNjM5MDRjZTQ5NTNlMGI5MjQ0OGY1MjQ2ODc0MDcwZGY2YTI)
 
 ### Opportunities
 
-* [Hackathons for High Schoolers](https://hackathons.hackclub.com)
+* [Hackathons for High Schoolers](https://hackathons.hackclub.com/)
 * [Built by Girls Events](https://www.builtbygirls.com/events-calendar)
 * [Wave: Built by Girls Mentorship Program](https://www.builtbygirls.com/about-wave)
-* [CS Ed Week](https://csedweek.org)
+* [CS Ed Week](https://csedweek.org/)
 * [AI for All Summer Programs](http://ai-4-all.org/summer-programs/)
-* [All Start Code: Summer program](https://www.allstarcode.org)
+* [All Start Code: Summer program](https://www.allstarcode.org/)
 * [Google Open Source Coding Challenge](https://codein.withgoogle.com/archive/)
 

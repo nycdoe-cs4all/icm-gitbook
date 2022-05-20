@@ -102,7 +102,7 @@ What would happen in each of these scenarios? How do they differ? Is there a sit
 
 _After students have think time, feel free to share and/or act out the situation (bringing actual candy is an easy win for this). In the WHILE scenario they will keep getting candy as long as there is candy in the bag - in the FOR, they will each only get one piece._
 
-### Repeat Shapes with a For Loop
+### Repeat Shapes with a For Loop (10-15 min)
 
 Explain to students that WHILE and FOR (be careful to specify this is NOT the number) are both control structures that act as loops. They behave a little differently, but their main components are similar. One way to think of it is like this: what's the difference between saying 'I will give each student in here a piece of candy while I have candy in this bag' and 'For each student, give one piece of candy'? (You can also act this out with some advanced prep - the while will keep repeating until the candy is out, the for will end once every student has one piece of candy.)
 
@@ -143,7 +143,7 @@ for(i = 0; i < width; i += 50){
 }
 ```
 
-### More Practice
+### More Practice (10 - 15 min)
 
 If you would like students to have more practice making purposeful for loops, consider asking them to try to recreate one or all of the following:
 
@@ -166,7 +166,7 @@ for(y=0;y<=height;y=y+40){
 }	
 ```
 
-### Varying with For Loops _- Intro_
+### Varying with For Loops _- Intro (5 min)_
 
 _It is very likely that the above content will take a full class period - feel free to use the introduction of this section as a Do-Now/Warm Up Activity. Alternatively, it can be used to simply allow students to shift their thinking from one task to the next!_
 
@@ -176,7 +176,7 @@ Display the following and ask students to recreate:
 
 _In previous lessons, students used for loops to create columns, rows, and diagonal rows. Ideally, we would want students to be using for loops to create a row of 5 circles so if students are still having some confusion with for loops use this opportunity to review loops. Ask any student who was able to create the image above to share out their solution with the class._
 
-### Incrementing Size, Incrementing Color, Specific numbers of repetition
+### Incrementing Size, Incrementing Color, Specific numbers of repetition (10 - 15 min)
 
 Students may have taken several paths to recreate the Do Now image; some may have made many ellipse, and some will hopefully still been thinking _for loops_ to make it happen. Regardless of where your class is, make sure that they take some time to code along this example and get everyone on the same page:
 
@@ -219,7 +219,7 @@ for(x=100;x<width;x=x+100){
 
 Remind students that color values only go up to 255 - so this is a great opportunity to divide the variable by a number so you have a wider range of color shifts! Give students a few minutes to experiment and play. You \*might\* even drop the idea that they try using mouseX or Y as a color value and dividing by an incrementing variable. (It's always a crowd-pleaser.)
 
-### Student Activity: Create Your Own Incrementing Design
+### Student Activity: Create Your Own Incrementing Design (10 - 15 min)
 
 Ask students to take what they have learned and try to create their own design by making a unique row of fully styled shapes. They should practice changing size, color, strokeWeight, transparency... anything and everything they can think of!
 
@@ -286,7 +286,7 @@ function draw(){
 }
 ```
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
 

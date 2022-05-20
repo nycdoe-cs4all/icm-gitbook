@@ -82,9 +82,9 @@ Programming:
 
 ### Resources
 
-* Additive Mixing [Sample Code](https://editor.p5js.org/cs4all/sketches/H1y6f957X)
-* fill([) Practice Code - RGB Color Mode](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm)
-* [Working with Color](https://youtu.be/3aHWKQCqP-M) (Youtube Video)
+* Additive Mixing Sample Code ([p5 editor](https://editor.p5js.org/cs4all/sketches/H1y6f957X) |[ repl.it](https://replit.com/@qrtnycs4all/U1LA31-Additive-Mixing-Example#script.js))
+* Partner Practice Starter Code ([p5 editor ](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm)| [repl.it](https://replit.com/@qrtnycs4all/U1LA31-Intro-to-Color-fill-Partner-Practice#script.js))
+* [Working with Color](https://youtu.be/3aHWKQCqP-M) (Youtube Video) | Independent Starter Code ([p5 editor](https://editor.p5js.org/cmorgantywls/sketches/hX-nR7Q6o) | [repl.it](https://replit.com/@qrtnycs4all/U1LA32-Intro-to-Color-fill-Independent-Practice#script.js))
 
 ### Assessments
 
@@ -186,7 +186,7 @@ After allowing time for discussion, introduce the following ideas:
 
 ### RGB Color - Student Practice
 
-To allow student practice, share with them[ the following sample code](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm). Students will pair-program to create a colorful design. Assign a driver and navigator to begin the exploration.
+To allow student practice, share with them the following sample code ([p5 editor](https://editor.p5js.org/cs4all/sketches/SJjuB99Xm) | [repl.it](https://replit.com/@qrtnycs4all/U1LA31-Intro-to-Color-fill-Partner-Practice)). Students will pair-program to create a colorful design. Assign a driver and navigator to begin the exploration. **NB:** _There is an independent code along/practice activity linked in the resources for classes that must meet remotely or for whom partner work is not possible._
 
 First, ask students to set a fill() and stroke() before the first ellipse with their partner (each should be a different color). Then, ask what happened and why they think that took place. Students should notice that all circles now have this fill and stroke color.
 

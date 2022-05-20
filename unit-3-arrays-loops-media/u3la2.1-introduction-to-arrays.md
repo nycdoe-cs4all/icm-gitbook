@@ -8,7 +8,7 @@ description: How can arrays help us simplify code?
 
 In this lesson, students will be introduced to the concept of arrays.
 
-Arrays are an important and useful concept in computer science as they allow us to easily store a lot of information in an orderly fashion. (And they will be used in many future lessons!) Arrays can be confusing to students when it comes to calling index values to access elements of the array. It would be good to create multiple array examples and then have students call the elements with either hard coding the number or using a variable. Students will have an opportunity to integrate through a list using a for loop in a later lesson.
+Arrays are an important and useful concept in computer science as they allow us to easily store a lot of information in an orderly fashion. (And they will be used in many future lessons!) Arrays can be confusing to students when it comes to calling index values to access elements of the array because computers begin counting at 0. It would be good to create multiple array examples and then have students call the elements by either hard coding the number or using a variable. Students will have an opportunity to integrate through a list using a for loop in a later lesson.
 
 ### Objectives
 
@@ -107,7 +107,7 @@ But one way of storing information that you’ve definitely used before is a lis
 
 Explain to students that this groceryList has an order that is defined by something called an _index_ value, or the number we give to each element. Computers are interesting in that they start indexing at **zero** instead of **one**, like we may be used to. **On the chart paper, number each item 0 - however many items you have.** Then give this scenario to students: _You're shopping with a parent and have a lot to get - they could hand you the list, or tell you 'go get bread,' but they could also say 'Go get item 2. Go get item 0' etc. If I asked you to go get item 1, what would you come back with? What about item 4?_
 
-Ask a few rounds of these questions, taking student answers and asking them to explain. Using 1 and 0 may trip up students which is perfectly natural - just review and make sure they understand the numbering system used in JavaScript! When students have gotten the hang of retrieving items with an index value, ask them "What is the length of this list?" Anticipate that most students will look at the last number - for example, 9 - and say that. Remind them that there is also a 0 value and demonstrate counting how many items there are if necessary! Explain to students that a cool thing about arrays, in addition to making our code simpler by holding lots of things in one place, is that traits about them, like length, get stored in the program and we can access with simple commands that we will talk about later.
+Ask a few rounds of these (_'go get item...')_ questions, taking student answers and asking them to explain. Using 1 and 0 may trip up students which is perfectly natural - just review and make sure they understand the numbering system used in JavaScript! When students have gotten the hang of retrieving items with an index value, ask them "What is the length of this list?" Anticipate that most students will look at the last number - for example, 9 - and say that. Remind them that there is also a 0 value and demonstrate counting how many items there are if necessary! Explain to students that a cool thing about arrays, in addition to making our code simpler by holding lots of things in one place, is that traits about them, like length, get stored in the program and we can access with simple commands that we will talk about later.
 
 Once students have done a little practice, it's time to turn this example into code before moving to example 2. Ask students to open a blank editor and code along the following, using whatever you wrote on your chart paper as a model:
 
@@ -116,11 +116,15 @@ var groceryList = ["bread", "orange juice", "pasta", "rice", "beans",
 "pizza", "bananas", "coconut", "potatoes", "spinach"]
 ```
 
-Explain the pieces needed to make this array. By now, you should understand what a variable is. It’s a name that you give to a piece of data or information. You can change the value of the variable, but the name will always stay the same. With arrays, we can store many separate values in one variable name. To indicate that a variable holds an array, we put all of the items inside square brackets, with each element separated by a comma.
+Explain the pieces needed to make this array. By now, you should understand what a variable is. It’s a name that you give to a piece of data or information. You can change the value of the variable, but the name will always stay the same. With arrays, we can store many separate values in one variable name. To indicate that a variable holds an array, we put all of the items inside square brackets, with each element separated by a comma. Arrays themselves are a data type that can hold many different _types_ of data - this one is currently holding strings, but they could hold colors, numbers, objects, even other arrays!
+
+If students need more of an example of how arrays work, consider this:
+
+![Diagram of an array explaining name, elements, values, etc.](<../.gitbook/assets/Screen Shot 2022-05-20 at 10.34.08 AM.png>)
 
 Please note for students: the elements in this array are strings, or letter characters all put together, which is why they are in quotation marks. If we were storing numbers, p5.js colors, or other specific data types, the quotations wouldn't be needed!
 
-Once the array is in your code, review with students how you can **call** items of an array using the **array name** and the **index value.** You can do this either with console.log() or text(), depending on your preference and what works best for your classroom.
+Once the array is in your code, review with students how you can **call** items of an array using the **array name** and the **index value, like so: groceryList\[3].** You can do this either with console.log() or text(), depending on your preference and what works best for your classroom.
 
 ```
 var groceryList = ["bread", "orange juice", "pasta", "rice", "beans",
@@ -145,7 +149,7 @@ Similarly to the chart paper example, after a few iterations of calling single i
 console.log(groceryList.length)
 ```
 
-It's okay if students do see a ton of use in this feature yet - you can brainstorm some places where that might be useful, or just let it ride until future lessons.
+It's okay if students don't see a ton of use in this feature yet - you can brainstorm some places where that might be useful, or just let it ride until future lessons.
 
 Once they feel comfortable, it's time to hit them with another example!
 
@@ -175,7 +179,7 @@ var buildingPop = [50,0,20,40,10]
 
 ...and we could then call those numbers in our program to control whatever we wanted!
 
-### Color in Arrays && Practice
+### Color in Arrays && Practice (20 - 30 min)
 
 After all of those examples, it's time to see one last application of arrays - this time instead of numbers or strings, let's try putting colors into an array. For this activity, we are going to imagine we are making a color palette for a design project (something that graphic artists, fashion designers, and even event planners have to do often) using [Adobe Color Picker](https://color.adobe.com/create/color-wheel).
 
@@ -195,11 +199,11 @@ function setup(){
 You would then use the colors as we have called other items in the array. Students will need to choose primary and secondary/accent colors based on the palette they create:
 
 ```
-fill(pallete1[2])
+fill(palette1[2])
 rect(10,50,200,50)
 ```
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
 

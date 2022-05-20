@@ -80,15 +80,13 @@ If you attempt to tackle the triangle solution with your students, you might ask
 
 ### Do Now/Warm Up (\~4 - 8 min)
 
-Share students on [this sample](http://editor.p5js.org/cs4all/sketches/S1eQDQRXX) code.
+Share students on this sample ([p5 editor ](https://editor.p5js.org/cs4all/sketches/S1eQDQRXX)| [repl.it](https://replit.com/@qrtnycs4all/U1LA21-Intro-to-Variables-Do-Now#script.js)) code.
 
 Instruct students to play with their code and then try to create an ellipse that is perfectly centered in their canvas. If students complete this task early, ask them to make the ellipse large enough so that the ellipse touches each edge of the canvas (if their canvas is square - if it comes out as a rectangle, touching the top and bottom will suffice).
 
-[Click Here - Center the ellipse challenge code](http://editor.p5js.org/cs4all/sketches/S1eQDQRXX)
+_While students struggle, teachers will circulate and identify one or two students who have completed the task to share their work. Plug their computer into the smartboard (or otherwise display their code) - hit play again and the canvas values should reroll, creating a new canvas in which the circle is not necessarily centered._
 
-While students struggle, teachers will circulate and identify one or two students who have completed the task to share their work. Plug their computer into the smartboard (or otherwise display their code) - hit play again and the canvas values should reroll, creating a new canvas in which the circle is not necessarily centered.
-
-Ask students: Why was this process frustrating? Why are you mad that we hit play again?
+**Ask students:** Why was this process frustrating? Why are you mad that we hit play again?
 
 Students should realize it was frustrating guessing the center and that hitting play again changed their design, thus ruining all of their hard work.
 

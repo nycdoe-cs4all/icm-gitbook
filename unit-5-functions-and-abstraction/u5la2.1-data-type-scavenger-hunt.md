@@ -50,7 +50,7 @@ Students will be able to:
 ### Resources
 
 * [Scavenger Hunt Worksheet](https://docs.google.com/document/d/1fW3VMQtDPbq8\_OsERONbMW8Qu1zKVXCUsg-E-I0oaAY/copy) (Google Doc)
-* [Scavenger Hunt Starter Code](https://editor.p5js.org/cs4all/sketches/W\_fQXjB6b) (p5.js Sketch)
+* Scavenger Hunt Starter Code ([p5.js editor](https://editor.p5js.org/cs4all/sketches/W\_fQXjB6b) | [repl.it](https://replit.com/@qrtnycs4all/U5LA21-Data-Type-Scavenger-Hunt-Starter-Code#script.js))
 * [Data Types in JavaScript](https://youtu.be/4JgIcc3E-cI) (Youtube Video)
 
 ### Assessments

@@ -169,4 +169,4 @@ Consider allowing students to do a gallery walk/game swap - they rotate to other
 
 ### Extension
 
-The project itself can be extended to create a more complex or challenging game, or you can consider having students use the [Google Teachable Machine](https://teachablemachine.withgoogle.com) to create a model trained on other keywords. The starter code would look similar except they would load in their own model instead of the SpeechCommands18w.
+The project itself can be extended to create a more complex or challenging game, or you can consider having students use the [Google Teachable Machine](https://teachablemachine.withgoogle.com/) to create a model trained on other keywords. The starter code would look similar except they would load in their own model instead of the SpeechCommands18w.

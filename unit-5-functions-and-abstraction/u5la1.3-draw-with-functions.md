@@ -49,7 +49,7 @@ Students will be able to...
 
 ### Resources
 
-* [Starter Code](https://editor.p5js.org/cs4all/sketches/gO8RjHdqA) (p5 Editor)&#x20;
+* **Lesson Starter Code** ([p5 Editor](https://editor.p5js.org/cs4all/sketches/gO8RjHdqA) | [repl.it](https://replit.com/@qrtnycs4all/U5LA13-Draw-with-Functions-Starter-Code#script.js))&#x20;
 * [Your First p5.js Abstraction ](https://youtube.com/playlist?list=PLc2XcmagK0XEqNrnwC5vbJ4dW5qOCIUFK)(YouTube)
 
 ### Assessments
@@ -59,7 +59,7 @@ Students will be able to...
 
 ### Do-Now/Warm Up (\~5 Minutes)
 
-Display link to starter code and ask students to duplicate the code so they can be ready to begin the lesson. If you would like, this is also a great place to put an SEL check, like asking students to complete a mood meter, journal, or otherwise react to how their day or week is going.
+Display link to starter code ([p5 Editor](https://editor.p5js.org/cs4all/sketches/gO8RjHdqA) | [repl.it](https://replit.com/@qrtnycs4all/U5LA13-Draw-with-Functions-Starter-Code#script.js)) and ask students to duplicate the code so they can be ready to begin the lesson. If you would like, this is also a great place to put an SEL check, like asking students to complete a mood meter, journal, or otherwise react to how their day or week is going.
 
 ### Code Along: Happy Face (\~20 Minutes)
 

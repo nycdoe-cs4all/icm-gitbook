@@ -6,7 +6,7 @@ description: How can we break down a robot into basic shapes in p5.js?
 
 ### Teacher Feedback and Overview
 
-**PLEASE review the coding environment options before beginning this lesson - students can either work in the** [**p5 editor**](https://editor.p5js.org) **or on** [**repl.it**](https://repl.it)**, depending on your classroom needs and preferences. You should pick ONE environment that the ENTIRE class should use - don't leave this one to student choice!**
+**PLEASE review the coding environment options before beginning this lesson - students can either work in the** [**p5 editor**](https://editor.p5js.org/) **or on** [**repl.it**](https://repl.it/)**, depending on your classroom needs and preferences. You should pick ONE environment that the ENTIRE class should use - don't leave this one to student choice!**
 
 This lesson is an unplugged activity that has students drawing a robot using shapes and that they will then use abstraction to code in the alpha editor. It is a great way to introduce p5.js before coding.
 

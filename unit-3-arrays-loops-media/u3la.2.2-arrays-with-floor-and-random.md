@@ -61,6 +61,8 @@ Students should be able to:
 * Element - a piece of data in an array&#x20;
 * **Zero-Indexed** - The first element of an array has an index of 0, not 1&#x20;
 * **random()** - a function that will return a random number in between its two parameters
+* **floor()** - rounds down to the nearest integer value
+* **.length** - accesses the property of an array and returns the length as a numeric value
 
 ### Planning Notes
 
@@ -102,7 +104,7 @@ Explain to students that today, they are going to build a program with shapes th
 
 random() was introduced way back in Unit 1 (and likely used in Unit 2), so this should be familiar to students. If you think it's needed, feel free to take some time and review the following:
 
-* random() is a different sort of function than something like ellipse() - it does something called _returning a value_ rather than making something happen on the screen, like an ellipse does
+* random() is a different sort of function than something like ellipse() - it does something called _returning a value_ rather than making something happen on the canvas, like an ellipse does
 * It returns a random value based on a maximum (like random(100), which would be any number between 0-100) or a range (like random(5,50) which would be any number between 5-50).
 * We can use this anywhere we would use a number, or even call it to stash our random value in a variable, as has been our best practice.
 * The value will be randomized each time the random() function is called.
@@ -180,6 +182,10 @@ Remember that **.length** property we learned about in the last lesson? This is 
 ```
 randomNumber = floor(random(pallete1.length))
 ```
+
+Essentially, this is what is happening in our code:
+
+![Breakdown of the order of operations in choosing a random value based on the length of an array.](<../.gitbook/assets/Screen Shot 2022-05-20 at 11.08.59 AM.png>)
 
 By changing the value to the length of the list, we will ensure that even if our lists gets longer (or shorter), the code will always work correctly. This kind of thinking is a best practice as we continue to make our programs more and more complicated. Always be asking yourself: what can I do to make sure this won't break in the future?
 

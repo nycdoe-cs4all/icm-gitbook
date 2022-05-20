@@ -57,7 +57,7 @@ _No new vocabulary words are presented in this unit_
 
 ### Resources
 
-* [Starter Code](https://editor.p5js.org/cs4all/sketches/jKVdiYMg8)
+* Lesson Starter Code ([p5 editor](https://editor.p5js.org/cs4all/sketches/jKVdiYMg8) | [repl.it](https://replit.com/@qrtnycs4all/U5LA24-Functions-that-Return-Boolean-Values-Starter-Code#script.js))
 
 ### Assessments
 

@@ -57,7 +57,7 @@ It’s recommended you spend more time on practice if you know that many of your
 ### Resources
 
 * [Algorithm Cards ](https://docs.google.com/presentation/d/1lNv8WDCP4hB40Xhh6qL0UiFRe298AiZsYPrtlbKX6-Q/copy)- print and cut out for student use&#x20;
-* [DeltaMath.com](https://www.deltamath.com)
+* [DeltaMath.com](https://www.deltamath.com/)
 * [Functions that Return Values](https://youtu.be/qRnUBiTJ66Y) (Youtube Video)
 
 ### Assessments

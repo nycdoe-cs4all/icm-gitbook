@@ -70,7 +70,7 @@ Students will be able to:
 * [How Stuff Works: Sound ](https://science.howstuffworks.com/sound-info.htm)
 * [Freesound.org](https://freesound.org/help/about/) (Requires login for download) | [Freesound.org Video Tutorial ](https://www.youtube.com/watch?v=EpMEHo5luHQ)
 * [Archive.org](https://archive.org/details/audio) | [Archive.org Video Tutorial ](https://www.youtube.com/watch?v=ZviF5FGEdM4\&t=9s)
-* [Free Music Archive](http://freemusicarchive.org) | [Free Music Archive Video Tutorial ](https://www.youtube.com/watch?v=\_3sNMfO4joM)
+* [Free Music Archive](http://freemusicarchive.org/) | [Free Music Archive Video Tutorial ](https://www.youtube.com/watch?v=\_3sNMfO4joM)
 * [wearecc - Creative Commons Soundcloud Channel ](https://soundcloud.com/wearecc)
 * [Wikimedia Commons ](https://commons.wikimedia.org/wiki/Category:Sound)
 * [Creative Commons License](https://creativecommons.org/licenses/) | [Type of Creative Commons Licenses ](https://en.wikipedia.org/wiki/Creative\_Commons\_license#Types\_of\_licenses)

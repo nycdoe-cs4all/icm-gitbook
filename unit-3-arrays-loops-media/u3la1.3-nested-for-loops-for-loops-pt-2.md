@@ -88,7 +88,7 @@ Assess the **Wrap Up** assignment. Check for the ability to:
 
 * Describe how nested loops work.
 
-### Do Now/Warm Up
+### Do Now/Warm Up (3 - 7 min)
 
 _Have students try to create a grid using the for loop method from the previous lessons._
 
@@ -102,7 +102,7 @@ _Ask Students:_
    1. To break down all the parts of a grid (columns and rows).
 2. Review how the position increments with each iteration.
 
-### Nested For Loops
+### Nested For Loops (7 - 12 min)
 
 As you review the Do Now, explain that in a previous lesson, we drew rows and columns using for loops. Here is an example of how we accomplished that using multiple for loops (display linked example code ([p5 editor](https://editor.p5js.org/cs4all/sketches/S1rbcElNW) |[ repl.it](https://replit.com/@qrtnycs4all/U3LA13-Grid-Without-Loops-Example-Code))). The first for loop increments the x position creating a row of ellipses and the second loop increments the y position creating a column of ellipses.&#x20;
 
@@ -117,8 +117,8 @@ This can be really confusing for students, and that's okay - they will probably 
 With your students, code out the following example in the draw function that you can use to explain (and that they can mess with):
 
 ```
-for(var x = 30; x < width; x = x +30){
-  for(var y = 30; y < height; y = y+30){
+for(var x = 30; x < width; x += 30){ //same as x = x +30
+  for(var y = 30; y < height; y += 30){ //same as y = y + 30
     ellipse(x,y,15,15)
   }
 }
@@ -134,7 +134,7 @@ You may need to describe this to students several times, and it's also recommend
 
 Once you feel like students have at least a basic grip of the logic happening in the code, it's time to send them off! With their partners, they should work on the activity below. This will solidify their understanding of for loops. Look out for curly bracket errors. Students may want to create new variables but encourage them to use the x and y variables they create in the for loops.
 
-### Student Activity: Grid Design
+### Student Activity: Grid Design (10 - 15 min)
 
 Ask students to go find a design they have made in the past, such as their emoji project or taijitu symbol. (Avoid having them make a brand new design unless it is comprised of 3 or less shapes and can be done in about five minutes.)
 
@@ -171,7 +171,7 @@ function draw() {
 
 The focus here is on practice as opposed to innovation and creativitity ONLY because there is a mini project directly after this lesson that will allow them to use this skill in a more ✨creative/interesting ✨way. We want them to have practiced before getting there, but not get totally lost in making this new practice assignment (yet)!
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Ask students to post their project links in a forum such as Slack or the Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
 

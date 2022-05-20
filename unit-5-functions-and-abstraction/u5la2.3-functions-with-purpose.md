@@ -57,7 +57,7 @@ _No new vocabulary words introduced in this lesson._
 ### Resources
 
 * [CodeWars Worksheet](https://docs.google.com/document/d/1QmK9lk1sl4DiIpL33qtauk6C6lFki-XpGXSXY3hAGes/copy) (Google Doc)&#x20;
-* [CodeWars Website](https://www.codewars.com)
+* [CodeWars Website](https://www.codewars.com/)
 
 ### Assessments
 

@@ -10,7 +10,7 @@ This project comes right before the bigger, end of unit project. As such, it's u
 
 ### Prompt
 
-You are going to be tasked with making a program that will be fully interactive and allow the users to play sounds that also correspond to something that happens on the canvas. (Think back to our lesson on sound with the changing face!) Your task can go in one of two directions: you can make something purely whimsical, or you can attempt to make a p5 keyboard (complete with visual) where the keys will play and change color as you type. If you go for the whimsical route, [think something closer to this.](https://patatap.com)&#x20;
+You are going to be tasked with making a program that will be fully interactive and allow the users to play sounds that also correspond to something that happens on the canvas. (Think back to our lesson on sound with the changing face!) Your task can go in one of two directions: you can make something purely whimsical, or you can attempt to make a p5 keyboard (complete with visual) where the keys will play and change color as you type. If you go for the whimsical route, [think something closer to this.](https://patatap.com/)&#x20;
 
 #### Task && Requirements
 
