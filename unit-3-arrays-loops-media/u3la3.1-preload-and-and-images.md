@@ -79,7 +79,7 @@ Students will be able to:
 * Mini Project: Vision Board&#x20;
 * End of Unit Project: Meme Generator
 
-### Do Now/Warm Up
+### Do Now/Warm Up (3 -5 min)
 
 _Have students respond to the following prompt:_
 
@@ -87,7 +87,7 @@ List the five things that you absolutely cannot start your day without having or
 
 _After students have responded, give time for them to share out. Push students to think about why these things are necessary for their day to be successful. Explain that there are some things that might also be crucial to our programming running and that we want to make sure they happen before anything else takes place._
 
-### File Types & Finding Files
+### File Types & Finding Files (10 - 12 min)
 
 Discuss the goals of this lesson:
 
@@ -105,7 +105,7 @@ Before students can continue with a code-along, first establish the basics of fi
 
 Now, to add images into our program, we first need to find some images. Because we are making small, personal projects for the purpose of education, we will be using Google Images and won't be super concerned about the source of our images. **However, it is important for students to know that images may be subject to copyright protection and should always be properly credited in their code via code comments.**&#x20;
 
-If you are so inclined, you may choose to teach students about [copyright](https://www.copyright.gov/what-is-copyright/), [fair use](https://www.copyright.gov/fair-use/more-info.html#:\~:text=Fair%20use%20is%20a%20legal,protected%20works%20in%20certain%20circumstances.\&text=Nature%20of%20the%20copyrighted%20work,purpose%20of%20encouraging%20creative%20expression.), digital licensing, and [creative commons licenses](https://creativecommons.org/licenses/). You can also have students pull from images that are under creative commons/fair use licenses using the following sites, but they can sometimes be limited in scope:
+If you are so inclined, you may choose to teach students about [copyright](https://www.copyright.gov/what-is-copyright/), [fair use](https://www.copyright.gov/fair-use/more-info.html), digital licensing, and [creative commons licenses](https://creativecommons.org/licenses/). You can also have students pull from images that are under creative commons/fair use licenses using the following sites, but they can sometimes be limited in scope:
 
 * [Creative Commons Image Search](https://wordpress.org/openverse/?referrer=creativecommons.org)
 * [Creative Commons on Flickr](https://www.flickr.com/creativecommons/)
@@ -126,7 +126,11 @@ We are going to focus on #1 for now, but we will give an example of #2 later in 
 
 After students have saved their first image, show them that they have some control over the results from a google image search. If they click the **'Tools**' button (bottom right under the search bar when in Google Images) it will bring up several options. If they select '**Color --> Transparent**' they will be shown only images with a transparent background, which can be useful when adding to our program. (You can also search by usage rights using the Tools button - just select 'labeled for reuse.') Have students save two more images (preferably with transparent backgrounds) to practice.
 
-Now, let's head to our program. Did you know that there is an entire section of our sketch that p5.js has been hiding from us? When we type into the editor, we have so far just been typing into a Javascript file - but Javascript works alongside HTML and CSS to create websites. This HTML and CSS has been there the whole time, hidden by the p5 Editor. If we click the little arrow on the side, we will expand to be able to see our hidden files - and have a space to upload our own files. While we can look through the HTML and CSS if we want (and those of us with some web dev skills might want to start making fully realized sites!) we are going to mostly ignore them for now.
+Now, let's head to our program. Did you know that there is an entire section of our sketch that p5.js has been hiding from us? When we type into the editor, we have so far just been typing into a Javascript file - but Javascript works alongside HTML and CSS to create websites.&#x20;
+
+HTML (Hyper Text Markup Language) can be thought of like the bones of the website, CSS (Cascading Style Sheets), like the clothing or makeup, and JavaScript like the muscles that animate it.\
+\
+This HTML and CSS has been there the whole time, hidden by the p5 Editor. If we click the little arrow on the side, we will expand to be able to see our hidden files - and have a space to upload our own files. While we can look through the HTML and CSS if we want (and those of us with some web dev skills might want to start making fully realized sites!) we are going to mostly ignore them for now.
 
 ![](../.gitbook/assets/p5gif1.gif)
 
@@ -136,15 +140,17 @@ To upload an image, click the downward arrow next to program-file, select ‘add
 
 Once you've done one image together, ask students to load the other two in for practice. Circulate the room and make sure students can see their images now listed in the sidebar with the other files.
 
-### preload()
+### preload() (12 - 15 min)
 
-p5 can draw images, text with certain font types, and play sounds. In order to display (or play) them, it must first load the file in question. Take a look at the sketch below: we load the birch.png file within setup(), and then call the image function to draw it in draw(). From this code, one would expect to see an image in the sketch. However, chances are you are only seeing the gray background.
+_**NB**: Your code will vary from the examples as you are finding and uploading your own sample image with students. As such, your file may not be called birch.png, and your image may not even be of a tree!_
+
+p5 can draw images, text with external font types, and play sounds. In order to display (or play) them, it must first load the file in question. Take a look at the sketch below: we load the birch.png file within setup() into a variable, and then call the image function to draw it in draw(). From this code, one would expect to see an image in the sketch. However, chances are you are only seeing the gray background.
 
 ```
 var tree;
 
 function setup() {
-  tree = loadImage("tree.png")
+  tree = loadImage("tree.png") //must be exact and include file extension in ""
   createCanvas(400, 400);
   //Loop is off so it would load faster
   noLoop()
@@ -190,7 +196,7 @@ function draw() {
   }
 ```
 
-The **image()** function takes in five values - the variable holding an image, an x and y position, and a width and height.
+The **image()** function takes in five values - the variable holding an image, an x and y position, and a width and height, with the latter two being optional: **image(x, y, \[width], \[height])**
 
 Once one image is working, encourage students to do the same for the rest of their images. They should aim to get \~6 images loaded into their program and displaying on their screen! As students work, watch for these common errors:
 
@@ -202,13 +208,13 @@ Once one image is working, encourage students to do the same for the rest of the
 
 If students are at a loss for what images to put in their program, consider making a scavenger hunt of items for them to find images of and go from there.
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Students can submit their project as a formative assessment if you’d like, or answer one of the following questions as an exit slip:
 
 1. What is the purpose of the preload() function?&#x20;
 2. Describe the steps needed to upload an image and get it to display on your canvas.&#x20;
-3. What are common file types for images?
+3. What are common file types for images? Which file type(s) did you use in today's project?
 
 ### Extensions
 

@@ -61,6 +61,8 @@ Students should be able to:
 * Zero-Indexed - The first element of an array has an index of 0, not 1&#x20;
 * For loop - loops through a block of code a number of times&#x20;
 * Iterate - go through elements one by one
+* [Property Accessor ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Property\_accessors)- provide access to an object's properties by using the dot notation or the bracket notation.
+* [Variable Scope](https://www.w3schools.com/js/js\_scope.asp) - the places within a program where variables can be accessed. Scope can either be global (available through the entire program) or local (available only in a specific function).
 
 ### **Planning Notes**
 
@@ -111,7 +113,7 @@ for(i = 0; i < yourArray.length; i++){
 
 **NB:** _If you haven't covered it yet, i++ is the same as saying i+=1, or i = i + 1. This is not essential knowledge if you think it will confuse your students, but it's sure short and easy to write!_
 
-Walk through this loop with your students once you hit play, focusing on what is happening in each loop. The first time it runs, the fill is going to be whatever color is in index 0 of the array - then index 1 for the next ellipse, etc. The ellipses themselves should form a row 50 units apart, because you are multiplying each i value by 0. (First 0\*50, then 1\*50, then 2\*50, etc). The y and sizes stay the same. If needed, adjust values with kids to demonstrate what all the numbers are controlling!
+Walkthrough this loop with your students once you hit play, focusing on what is happening in each loop. The first time it runs, the fill is going to be whatever color is in index 0 of the array - then index 1 for the next ellipse, etc. The ellipses themselves should form a row 50 units apart, because you are multiplying each i value by 0. (First 0\*50, then 1\*50, then 2\*50, etc). The y and sizes stay the same. If needed, adjust values with kids to demonstrate what all the numbers are controlling!
 
 You may also need to spend some time explaining < **yourArray.length.** This is making sure that we make it through the entire array, getting to every value, without going past the end of the list.
 
@@ -183,7 +185,7 @@ function setup(){
 Now, here's what we should be asking (and as a teacher, you should pose these to students first before clarifying):
 
 * **What exactly is happening on line 6?** Well, we made a for loop. It starts at 0, and it is going to run until is 10 or higher, and each time it will increase i by one. Because this loop is adding an object to our array, this means it will add 10 objects to that array. (If you change this number, you can get more/less objects - try it!)
-* **What about the whole thing with line 7?** So glad you asked - remember how our array is empty? This line is saying that at an empty index value - whichever empty index value i has landed us on in that moment - take it from being empty to being equal to this object.
+* **What about the whole thing with line 7?** So glad you asked - remember how our array is empty? This line is saying that at an empty index value - whichever empty index value i has landed us on in that moment - take it from being empty to set the element of that index value to be this object.
 * **Aren't all our objects the same?** Not at all! See how we used random in several places in that object? (And you could of course alter how/where the randomness is being used, as you see fit.) It's going to 'reroll' those random values each time, creating new, unique objects.
 * **What if I don't trust this process?** Pop a console.log(anotherArray) at the end of your setup function, after the for loop, and let's see what we get once the for loop has run. It should be an array of objects - demonstrate how you can click through the arrow levels to display the different objects - each with their own random values for different properties. And if we run the program again, we will get NEW random objects in our array!
 
