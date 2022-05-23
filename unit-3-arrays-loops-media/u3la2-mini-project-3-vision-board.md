@@ -10,7 +10,7 @@ Encourage students to mess with tint and also seek images with transparent backg
 
 ### Suggested Duration
 
-1-2 Periods (\~45 - 90 minutes)
+2-4 Periods (\~90 - 180 minutes)
 
 ### Prompt
 

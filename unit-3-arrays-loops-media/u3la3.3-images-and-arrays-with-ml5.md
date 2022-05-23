@@ -87,7 +87,7 @@ This project can be made much longer or shorter depending on your personal prefe
 
 **NB:** _These articles were selected when this lesson was originally written, but machine learning is being used in new technologies developed every day. If you choose to extend this lesson to a deeper discussion of machine learning and algorithmic bias, it is worth doing some light googling to try and find contemporary articles that point out the benefits and harms of this technology._
 
-_If you notice yourself getting paywalled by any of these (or just need to print a neat, clean version) consider typing 'outline.com/' before the URL. This will remove many ads and payblockers for easy printing/reading. If you are still troubled by a paywall, consider temporarily disabling JavaScript for a webpage by clicking the lock next to the URL, followed by site settings, and then disabling JavaScript._
+_If you notice yourself getting paywalled by any of these (or just need to print a neat, clean version) consider deleting the www. and typing '12ft.io/' before the remaining URL. This will remove many ads and payblockers for easy printing/reading. If you are still troubled by a paywall, consider temporarily disabling JavaScript for a webpage by clicking the lock next to the URL, followed by site settings, and then disabling JavaScript._
 
 * [Algorithmic Justice League ](https://www.ajlunited.org/)
 * [Machine Bias ](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)- software used across the country to predict future criminals is racist.&#x20;
