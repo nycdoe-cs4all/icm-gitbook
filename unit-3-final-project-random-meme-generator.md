@@ -10,17 +10,25 @@ As the course progresses and students gain the skills to explore and create inde
 
 Additionally, this project involves the use of sound. If that is something that you did not cover in your classroom, or you feel students will unnecessarily struggle with, feel free to take it away or make it an extension as you see fit.
 
+**To begin this project, you may want to have students think about the following:**
+
+1. What is a meme?&#x20;
+2. What purpose do they serve?&#x20;
+3. How can memes support free expression?
+
+As a class, you may want to review this [history of memes](https://www.nytimes.com/2022/01/26/crosswords/what-is-a-meme.html) or this video on [how memes shape politics.](https://www.youtube.com/watch?v=DazKys0gpHU\&ab\_channel=HuffPost)
+
 **NB:** _As students try to get many images that can be different sizes to show up nicely on their canvas,_ [_consider sharing this resource on making images display proportionally._](https://editor.p5js.org/L05/sketches/o1a4f6XpE)__
 
 ### Prompt
 
-In this project, you will create a random meme generator! This is your opportunity to make your peers and teacher laugh so get creative and silly (while staying classroom appropriate) with this project.
+In this project, you will create a random meme generator using the [macro image meme format](https://knowyourmeme.com/memes/image-macros)! This is your opportunity to make your peers and teacher laugh so get creative and silly (while staying classroom appropriate) with this project.
 
 ![Four differently commonly used meme images.](<.gitbook/assets/Screen Shot 2022-02-11 at 10.24.07 AM.png>)
 
 #### Requirements
 
-Create a random meme generator: pick a collection of images and a collection of phrases from an array. Each time you run your sketch, it should select one random image and one random text, creating a (potential) meme. You have the option to either use objects to keep certain captions/fonts/images together, or simply organize in arrays and let chaos reign.
+Create a random meme generator: pick a collection of images and a collection of phrases from an array. Each time you run your sketch, it should select one random image and one random text from the appropriate arrays, creating a (potential) meme displayed on the canvas. You have the option to either use objects to keep certain captions/fonts/images together, or simply organize in arrays and let chaos reign.
 
 Think about what fonts and images you may want to use and how you will source them. As an extra challenge, you can make a sound play when the meme loads. Consider how you could find these things!
 
@@ -42,9 +50,13 @@ Think about what fonts and images you may want to use and how you will source th
 4. **Use the information from your data structure to get the image and styled caption (and possibly sound) on the screen.** Adjust as needed!
 5. **Run the program and make any tweaks/changes.**
 
+### Suggested Duration
+
+3- 6 45-minute periods, depending on the pace of your class and the level of challenge your students attempt.
+
 ### Sample Output
 
-![Two sample memes](<.gitbook/assets/Screen Shot 2022-02-11 at 11.50.21 AM.png>)
+![Sample meme](<.gitbook/assets/Screen Shot 2022-05-23 at 2.43.36 PM.png>) ![Sample meme](<.gitbook/assets/Screen Shot 2022-05-23 at 2.43.48 PM.png>) ![Sample meme](<.gitbook/assets/Screen Shot 2022-05-23 at 2.44.01 PM.png>) ![Sample meme](<.gitbook/assets/Screen Shot 2022-05-23 at 2.44.20 PM.png>)
 
 [**Example Project Code**](https://editor.p5js.org/cmorgantywls/sketches/SOCouTm6G)****
 

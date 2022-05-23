@@ -18,7 +18,7 @@ Create a program that has/does the following:
 
 * Includes at least 5 sounds, each that plays when a specific key is pressed
 * Makes something appear or change on the screen when each sound is played
-* Utilize any relevant skills from past lessons
+* Utilize any relevant skills from past lessons - think back on past projects and get creative with skills you can integrate into this one!
 
 #### Writing Prompts
 
