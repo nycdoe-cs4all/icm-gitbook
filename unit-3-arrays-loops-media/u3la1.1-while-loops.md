@@ -110,7 +110,7 @@ Ask students to do the following:
 1. Add 5 more ellipses to the current row, they will most likely get frustrated because they will have to keep the ellipses equidistant.&#x20;
 2. Answer the prompt: how we can call the ellipse function more efficiently? Push their thinking to think about why loops are necessary.
 
-### Repeat Shapes with a While Loop
+### Repeat Shapes with a While Loop (15 min)
 
 From this Do Now, ask students how could they code their loops effectively? Students might talk about copy/pasting lines of code, adjusting only selected numbers, etc. Most, if not all students, probably came to a solution like so:
 
@@ -155,7 +155,7 @@ Code this for loop with students so that they have an example saved in their acc
 
 The big benefit of loops is that not only does it make our code cleaner and more efficient, but our code is now easy to change, customize, and update. If we want the row of ellipses to start somewhere else, we can adjust the starting variable. If we want to increase or decrease the spacing between the ellipses, we can adjust what we add to x. And we can change the circles themselves without having to make edits to multiple places in our code! Give students 2-3 minutes to just play with numbers and add shapes/features to their loop - it's important they understand the loop can do more than just draw one repeated shape.
 
-### Student Practice & Play
+### Student Practice & Play (15 - 20 min)
 
 After students have had a chance to experiment with the code from the lesson section, send students to work either individually or in pairs/small groups, based on your classroom. (We STRONGLY encourage collaborative pair or group work to help students grow their soft skills as they learn to code!)
 
@@ -173,7 +173,7 @@ For students who need an extra spicy challenge, ask them to try to recreate one 
 
 **Alternately, or in addition, students may take a design they have created previously and try to get it to repeat in a while loop, or build a new custom design that will be repeated.**
 
-### Wrap Up
+### Wrap Up (5 min)
 
 Ask students to post their project links in a forum such as Slack or Google Classroom. Then, have them view and comment on two other projects, leaving a glow and grow for each
 

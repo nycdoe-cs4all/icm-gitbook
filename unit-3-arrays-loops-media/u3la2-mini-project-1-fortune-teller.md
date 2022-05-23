@@ -12,6 +12,8 @@ If students are struggling to come up with interesting things to fill their arra
 
 Students have not _formally_ been taught to join strings, which is a part of this lesson. Many students can figure out that strings can be joined by looking at the **text()** function they use to display mouse coordinates - **string + string** creates a joined version. Students may need assistance remembering this, or reasoning out why they made need spaces in their strings to make sentences readable. Students who are looking to add another skill (and vocab word) to their toolbox may benefit from learning about the [.**concat()** string method](https://www.w3schools.com/jsref/jsref\_concat\_string.asp), either on their own or in the briefest of mini lessons.
 
+**Students may benefit from pre-planning before they jump to coding. This** [**planning page**](https://docs.google.com/document/d/1uyZFZFd9S9\_S7JSSeRgbZ5GyqovOm4k0BE8P5Vd\_H88/edit) **specifically designed for this project is available for their use.**
+
 ### Prompt
 
 It's time for your code to tell the future, and as we know, the future is always changing! You will be creating a fortune teller project (and if you don't like fortunes, it can be a homework excuse generator, or anything else similar) that will look great and randomly give out a fortune.
