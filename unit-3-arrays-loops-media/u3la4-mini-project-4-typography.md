@@ -2,7 +2,7 @@
 description: How can type be interactive while conveying mood and meaning in projects?
 ---
 
-# 🗃 🗃U3LA4: Typography Project
+# 🗃 🗃U3LA4 Mini Project 4: Typography
 
 ### Prompt
 
@@ -23,6 +23,10 @@ While we don’t have quite the animation skills yet to make something this elab
 * Integrate other p5 elements you have learned so far to improve your program
 
 **NB:** _You can certainly set expectations around school-appropriate selections (or ask students to censor appropriately), but be sure students also know this is about picking something they like or are interested in. They can choose songs/poems in any language or genre!_
+
+### Suggested Duration
+
+**2-4 45 minute periods,** _dependent on how ambitious your students get with their projects!_
 
 ### Sample Output
 

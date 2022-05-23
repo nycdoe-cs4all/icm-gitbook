@@ -6,13 +6,15 @@ description: How can sounds be embedded with code?
 
 ### Overview && Teacher Feedback
 
-**NB: Sound is fun, and often asked for, but can be difficult to deal with in a classroom setting.** Some teachers skip this unit entirely and do not require a sound component for the final project of Unit 3 - others selectively teach sound to interested students. The three biggest challenges for sound are:
+**NB: Sound is fun, and often asked for, but can be difficult to deal with in a classroom setting.** Some teachers skip this lesson sequence entirely and do not require a sound component for the final project of Unit 3 - others selectively teach sound to interested students. The three biggest challenges for sound are:
 
 1. Finding the sounds students want, reliably and for free. (They will not be able to put in whole songs as the files are too large for the editor to support, or for copyright restrictions.)
 2. Navigating program flow to ensure sounds play seamlessly and without repetition from a loop, which makes them unintelligible.
 3. Ensuring all students have and use headphones to avoid room chaos.
 
 This is not to scare you off of sound, but rather for you to stop and consider if this is a worthwhile use of time for your classroom, or if you would prefer to move directly into the final project.
+
+Because all sounds must be hosted in the free editor (which has limits!), we recommend the use of .wav for short sounds. If it's a full song or portion of a song, .mp3s will work well, but there are limits and if you encounter errors trying to utilize a full song or long sound, it is likely due to file size issues.
 
 This lesson covers the basics of digital audio file formats and how to download and use sounds in a p5 sketch. This lesson also introduces resources for downloading free, Creative Commons licensed sounds for use in projects and adding the ability to save a sound recording to the sound input sketch. It also covers some of the basic qualities of sound and loading a sound in a p5 sketch. Students will create a sound "sampler" using buttons to trigger recorded sounds.
 
@@ -69,6 +71,7 @@ Students will be able to:
 * [17.1: Loading and Playing - p5.js Sound Tutorial ](https://www.youtube.com/watch?v=Pn1g1wjxl\_0\&index=1\&list=PLRqwX-V7Uu6aFcVjlDAkkGIixw70s7jpW)
 * [How Stuff Works: Sound ](https://science.howstuffworks.com/sound-info.htm)
 * [Freesound.org](https://freesound.org/help/about/) (Requires login for download) | [Freesound.org Video Tutorial ](https://www.youtube.com/watch?v=EpMEHo5luHQ)
+* [Mixkit Sound Downloads](https://mixkit.co/free-sound-effects/)
 * [Archive.org](https://archive.org/details/audio) | [Archive.org Video Tutorial ](https://www.youtube.com/watch?v=ZviF5FGEdM4\&t=9s)
 * [Free Music Archive](http://freemusicarchive.org/) | [Free Music Archive Video Tutorial ](https://www.youtube.com/watch?v=\_3sNMfO4joM)
 * [wearecc - Creative Commons Soundcloud Channel ](https://soundcloud.com/wearecc)
@@ -82,16 +85,16 @@ Students will be able to:
 * Assess the learning activity. Check for the ability to: Search and upload sound files&#x20;
 * Assess the Wrap Up assignment. Check for the ability to: Use conditionals
 
-### Do Now/Warm Up
+### Do Now/Warm Up (3-5 minutes)
 
 **Direct students to:**
 
 * [Register](https://freesound.org/home/register/) for an account on Freesound.org. This requires a username, email, and password. Share your account info back with your teacher.&#x20;
 * Find 1-2 sounds that you like, share them with a peers
 
-Have extra headphone_**s**_ available because students will be playing with many different sounds, for now, it does not matter which sounds they play.
+_Have extra headphones available because students will be playing with many different sounds, for now, it does not matter which sounds they play. Additionally, you may find other websites - like_ [_Mixkit_](https://mixkit.co/free-sound-effects/) _- to be easier to use. Review beforehand and adjust Do-Now accordingly to get students set up to use whichever site you'd like to walkthrough with them!_
 
-### Discussion: Usage Rights and Sound Files
+### Discussion: Usage Rights and Sound Files (7 - 10 minutes)
 
 As you may have guessed from the warm-up, today we will be learning how to incorporate sounds into our program.  Freesound.org is one resource, but you will have access to many, and before we start coding, we are going to spend some time talking about usable files (from a licensing and format perspective). Sound can be difficult to work with because the files are sometimes big, or copyrighted so you either can't use them (like a song on Spotify that doesn't belong to you) or behind a paywall so that you have to pay to use them.
 
@@ -110,7 +113,7 @@ While you don't need to memorize all the license types, be prepared to see these
 * N**oDerivs** allows for redistribution as long as the work is unchanged.&#x20;
 * **NonCommercial** requires attribution and that new works must be non-commercial, or not for sale.
 
-### Sound File Formats
+### Sound File Formats (3 - 5 minutes)
 
 Before we go start saving sounds, let's do a quick review. Sounds hosted on the web come in a variety of different files formats. File formats are standards used to encode the data of a recorded sound in a way that can be recognized and played back by many different software platforms.\
 \
@@ -124,7 +127,7 @@ This is a brief overview of some of the common file formats. WAV and MP3 are the
 
 Although MP3s have a lower quality, they became the most popular sound file format because they were an early way to share music relatively easily because they greatly reduced the file size or the amount of space a file takes in a computer's memory. This was especially important in the early days of the internet when connection speeds were slow and you had to choose between downloading a song at 3MB, a typical MP3 size, vs 30MB for a WAV file.
 
-### Code Along Pt 1: Downloading and Using a Sound File
+### Code Along Pt 1: Downloading and Using a Sound File (\~12 - 15 minutes)
 
 Alright, with all of that behind us, it's time to go forth and find our first sound that we will download, stick into a program, and get to play. We are going to look at **freesound.org** together because the interface can be a little wonky - while the interface may look different on each download site, the steps to upload and use a sound will remain the same.
 
@@ -199,13 +202,13 @@ function mousePressed(){
 }
 ```
 
-### Student Practice
+### Student Practice (5 -1 0 minutes)
 
 Post code-along, allow for a little mini practice to make sure students can find and upload sounds. Ask students to go find three sounds they would want to use in a program and upload them to the code you were working on together. Then, have them swap out the variables in mousePressed to practice playing the other sounds.
 
 If students are quick about it, or if you would like to devote more time to this practice, see if they can create buttons that when clicked (again, using the mousePressed() function) will play different sounds. Use your best judgement based on how much time you'd like to spend on sound/how much you'd like to tie it into their final or future projects to guide you!
 
-### More Ways to Make Sound Play
+### More Ways to Make Sound Play (10 - 15 minutes)
 
 _This is likely the place where you will hit day two of this lesson. As a Do Now/Warm Up, consider having students_ [_open and duplicate this starter code_](https://editor.p5js.org/cmorgantywls/sketches/HCqOTwpz2) _- they could even read/comment or try to sample some of the sounds as they see fit._
 
@@ -326,7 +329,7 @@ function keyPressed(){
 }
 ```
 
-### \[OPTIONAL] Play Duration
+### \[OPTIONAL] Play Duration (7 - 10 minutes)
 
 **NB:** _This **** section can be skipped whole class (unless you feel strongly about it), as it requires a kind of silly part of JavaScript - but you may be asked about how to get sounds to start at different spots, or only play for a certain amount of time, and that's what this is about!_
 
@@ -387,7 +390,7 @@ function setup(){
 
 Depending on how consistent you've been with objects, this may be a breeze for students, or it may be an extra and unnecessary stress, so please choose based on the needs of your learners how (and if) to review this. It may be best to deliver on an as-needed or small group basis.
 
-### keyTyped and keyReleased
+### keyTyped and keyReleased (12 - 18 minutes)
 
 Sometimes, you may want your program to have something happen only while a key is being held and to end once the key is lifted. (Imagine, for example, a game where you are charging up for a powerful move - it may play a specific sound while the move charges, and then another once you let up the button and unleash that move. Same idea here!)
 
@@ -507,17 +510,17 @@ function keyReleased(){
 
 There are a TON of interesting things you can do with sound, and you'll have some time to explore them in your next mini-project. Today we will do some mini-practice to help you get ready!
 
-### Student Practice
+### Student Practice (10 - 15 minutes)
 
 **NB:** _The mini-project attached to this lesson is direct practice for this activity - so feel free to either dive right into it, or assign some pre_-_tasks (listed below) to get students ready._
 
-Depending on how your classroom is feeling, consdering asking students to do any number of the following:
+Depending on how your classroom is feeling, consider asking students to do any number of the following:
 
 1. Find 5-10 sounds that you would like to use in a project.&#x20;
 2. Practice getting at least one sound to play in your program using a method we reviewed today.
 3. Explore the sound library and see if there are any features you may want to experiment with in this or future projects.
 
-### Wrap Up
+### Wrap Up (5 minutes)
 
 Ask students to answer one or more of the following questions as an exit ticket:
 

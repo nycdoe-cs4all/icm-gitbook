@@ -12,9 +12,11 @@ This project uses p5 and continues in Javascript, but also uses a new library ca
 
 repl.it offers support in many languages and also allows students to code together in one project simultaneously (similar to how they would work in a Google Doc or similar). Students may have used this site in previous classes, or to work in other languages.
 
+There are many optional readings associated with this lesson, and in the longest version, students read various articles selected by the teacher. In the shortest, the teacher presents summarized points from the articles. **Please give yourself time to review the articles before presenting this lesson so you can make informed decisions or find supplemental materials.**
+
 This project can be made much longer or shorter depending on your personal preferences. In the shortest version of this lesson, students should gain a basic understanding of machine learning, complete the code along, and then form and test a hypothesis about the model. In a longer form, take a detour with your students to give them more background on machine learning and some of the bias that exists within it by exploring some articles/videos to give them a better understanding. It’s important students understand that machine learning itself is not inherently evil or bad, but because the people training the models come with their own bias, it passes along to the AI.
 
-* _Two periods would involve moving very quickly through the ml5 process and creating the p5 program & hypothesis._&#x20;
+* _Two periods would involve moving very quickly through the ml5 process and creating the p5 program & hypothesis._
 * _Four periods would allow you to devote more time to the social implications of machine learning._
 
 ### Objectives
@@ -27,7 +29,7 @@ This project can be made much longer or shorter depending on your personal prefe
 
 ### **Suggested Duration**
 
-2-4 45 minute periods
+2 or 4 forty-five minute periods, with 4 recommended to allow the full experience of engaging with the social implications of machine learning
 
 ### **NYS Standards**
 
@@ -59,6 +61,7 @@ This project can be made much longer or shorter depending on your personal prefe
 * Machine learning - an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed&#x20;
 * Artificial intelligence (AI) - training a computer to do something humans would identify as thinking&#x20;
 * Bias - prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair. Bias can be personal or a part of great social systems of power and oppression.
+* Library - a collection of files, programs, routines, scripts, or functions that can be referenced in the programming code.
 
 ### **Planning Notes**
 
@@ -110,7 +113,7 @@ Listen to [this recording](https://soundcloud.com/alexismadrigal/google-duplex-c
 
 _Be sure not to display the title for students - play it without any context, then ask students to share their thoughts. After they share, reveal that while this was someone scheduling a hair appointment with a salon, that someone was actually a robot. Ask students to explain how they think someone could teach a robot to do this (look for answers beyond saying ‘code’ or ‘they programmed it’)_
 
-### What is Machine Learning & How do Machines Learn?
+### What is Machine Learning & How do Machines Learn? (10 min)
 
 Introduce students to the idea of machine learning as an important part of AI - it’s AI with the goal of getting computers to learn and adapt based on information they are fed through a model and training sets given by a programmer.
 
@@ -126,7 +129,7 @@ You may want to act out an example with students; ask a student to imagine that 
 
 Break students into groups and give them each a different article on machine learning. Ask them read (or skim - some are length) to summarize and then pull out key points from the article. Then have students complete a Chalk Talk activity where they circulate the room (silently!) and respond to questions posted on chart paper by writing on the chart paper or post-its. Students can respond to each others’ writing with more writing, and then at the end, will come together to share out what they thought and noticed from reading the responses.
 
-Some ideas for questions:
+**Some ideas for questions:**
 
 * What are some flaws we see in machine learning and AI?&#x20;
 * Why do we think machine learning has a bias? What could be done to improve machine learning models?&#x20;
@@ -136,13 +139,13 @@ Some ideas for questions:
 
 ### Using a Basic Machine Learning Model (\~10 - 20 minutes)
 
-This is the moment that really teaches a coding skill - and there are a few different ways to do that!  The big code-skill takeaway from this lesson is to teach students that images can be placed in arrays, but that's not actually a terribly difficult or far removed skill from what they were doing before, so they will not miss anything with either option. Choose the one that _you_ are most comfortable delivering and you think will best hold your students attention! Additionally, please make sure by this point you have made a decision about if you will be continuing in the p5 editor or swapping to repl.it for this lesson.
+_This is the moment that really teaches a coding skill - and there are a few different ways to do that!  The big code-skill takeaway from this lesson is to teach students that images can be placed in arrays, but that's not actually a terribly difficult or far removed skill from what they were doing before, so they will not miss anything with either option. Choose the one that you are most comfortable delivering and you think will best hold your students' attention! Additionally, please make sure by this point you have made a decision about if you will be continuing in the p5 editor or swapping to repl.it for this lesson._
 
 #### Option 1: Distribute Completed Code
 
 Ask students to duplicate ([p5 editor version](https://editor.p5js.org/cmorgantywls/sketches/eLJZwn4k1)) or fork ([repl.it version](https://replit.com/@cmorgantywls/u3la33-images-and-arrays-with-ml5-Complete-Starter-Code#index.html)) the completed image classifier code. Even though this is finished code, it's important to stress to students that reading code is still an important way to learn.
 
-Begin by having students take 3-5 minutes to silently read through the code in the sketch.js file (and also in the index.html, if you think it will be helpful) and leave comments on as many lines as possible. The comments can be noticings, wonderings, or responses to the following questions:
+Begin by having students take 3-5 minutes to silently read through the code prioritizing the setup() and draw() functions in the sketch.js file (and also in the index.html, if you think it will be helpful) and leave comments on as many lines as possible. The comments can be noticings, wonderings, or responses to the following questions:
 
 1. What is familiar about this code?
 2. What looks new?

@@ -10,6 +10,8 @@ In this learning activity, students draw text with different fonts (both system 
 
 The only new code introduced in this lesson are commands that control text styling - everything else is really about using custom fonts, which involves a little hopping in and out of the HTML. It's VERY IMPORTANT, as with images, that students are extra mindful of making sure they type (and capitalize, and space) everything correctly in their font names, as this is a common way that students will run into errors.&#x20;
 
+There is an option to teach students how to use downloaded fonts, as opposed to relying on the options on the Google Fonts website. If this appeals to you, be sure to test downloading and using a font ahead of delivering that portion of the lesson.
+
 This is a really fun time for kids, so enjoy it!
 
 ### Objectives
@@ -40,7 +42,8 @@ Students will be able to...
 
 ### Vocabulary
 
-* **Font**: A font is a set of printable or displayable text character s in a specific style and size.&#x20;
+* **Font**: A font is a set of printable or displayable text characters in a specific style and size.&#x20;
+* **Typeface:** a particular design of type/a font.
 * **Serif**: Serifs are semi-structural details or small decorative flourishes on the ends of some of the strokes that make up letters and symbols. An example would be the Times New Roman font.&#x20;
 * **Sans-serif**: Sans serif does not have these details or flourishes. An example would be the Arial font.
 
@@ -69,7 +72,7 @@ How would you react to seeing each of these signs **in the wild?** Which do you 
 
 As we've seen, we can create text using the text() function. It must be given a string (the text it will display) as well as an x and y location for the text. (There are other optional values that will allow you to create a 'box' that the text will wrap in, kind of like how text naturally drops to the next line when you are typing in the editor or a word processor.)&#x20;
 
-But there is a lot more to text, including a lot of things y'all have been asking about - you can change the size, the color (both stroke and fill, just like with shapes), and the **font** which we know has been something that everyone has been waiting for!
+But there is a lot more to text, including a lot of things students have probably been asking about - you can change the size, the color (both stroke and fill, just like with shapes), and the **font** which we know has been something that everyone has been waiting for!
 
 We've been saving fonts because in the world of design - and p5 - there is a lot to know about them, and we want to make sure that y'all have that down before we start playing.
 
@@ -93,7 +96,7 @@ While we won't go too deep into all of that - which would be a class all on its 
 6. AVOID ALL CAPS EVERYTHING, IT IS ANNOYING AND LOSES IMPACT.&#x20;
 7. Don’t minimize spacing between lines of text.&#x20;
 8. Make sure you have sufficient color contrast if you expect something to be readable.&#x20;
-9. Avoid coloring text in red and green (because of color blindness)&#x20;
+9. Avoid coloring text in red and green (because of color blindness - there are actually many types of color blindness, but this is most common. [You can learn more here!](https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/color-blindness/types-color-blindness))
 10. Avoid using blinking text when possible (so you don’t trigger seizures)
 
 It’s also worth knowing that some fonts come with a lot of baggage from the design community - fonts like Papyrus and Comic Sans give people a lot of strong feelings! Tread carefully if you choose to use them. Teachers, feel free to use the videos below to take a silly moment before you dive into the code explanations, or skip if you do not feel they would land well with your class:
@@ -131,7 +134,7 @@ textSize(34)
 text("This is the text that will be in your font", 0, 0)
 ```
 
-(**NB**: _we also changed the size of our text. This is VERY similar to how you change font sizes when writing in Google Docs/Slides/etc! We could, if we wanted to, also change the stroke and fill of our text just the way we do with shapes, but note that not every font has a stroke, and not every font has a fill. You may need to experiment!_)
+(**NB**: _we also changed the size of our text. This is VERY similar to how you change font sizes when writing in Google Docs/Slides/etc! textSize() uses pixels as the unit size. We could, if we wanted to, also change the stroke and fill of our text just the way we do with shapes, but note that not every font has a stroke, and not every font has a fill. You may need to experiment!_)
 
 ### Use a Downloaded Font
 
