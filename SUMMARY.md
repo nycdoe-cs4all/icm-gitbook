@@ -2,6 +2,7 @@
 
 * [Introduction to Computational Media](README.md)
 * [How to Use this Curriculum](how-to-use-this-curriculum.md)
+* [Submit Feedback](submit-feedback.md)
 
 ## Curriculum Extras
 
