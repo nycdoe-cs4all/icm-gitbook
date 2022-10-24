@@ -54,7 +54,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 | Planning Notes                                                                                                                                                                                                                      | Materials Needed                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| <ul><li>Students might have lost their robot or may want to redo it from lesson.</li><li><p>Students will need 3 tabs open</p><ul><li>Alpha Editor</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
+| <ul><li>Students might have lost their robot or may want to redo it from lesson.</li><li><p>Students will need 3 tabs open</p><ul><li>p5 Editor or repl.it</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
 
 ### Resources
 
@@ -66,12 +66,12 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Assessments
 
-**Formative**: Creating ellipses and positioning, Creating rectangles and positioning\
+**Formative**: Creating ellipses and positioning, Creating rectangles and positioning
 **Summative**: Coding robot in p5.js, Taijitu symbol
 
 ### Do Now/Warm Up
 
-This will be an unplugged activity, it is important to review how to find the positions and sizes of the shapes used to create the robot the drew and deconstructed in lesson U1LA1.1 Ask student to take out their robot worksheet and add or make changes to it.
+This will be an unplugged activity, it is important to review how to find the positions and sizes of the shapes used to create the robot that students drew and deconstructed in lesson U1LA1.1 Ask student to take out their robot worksheet and add or make changes to it.
 
 To review how rectangles and ellipses work in p5 ask students ask the following:
 
@@ -85,9 +85,9 @@ Bring students back together to briefly code-along the rect() function. They sho
 
 Begin by introducing the rectangle function and how it works. You may have students copy it into their notes or add it onto a function poster around the classroom.\
 \
-**As you code discuss the following:**
+**As you code, discuss the following:**
 
-* How many parameters does rect() accept? Use the [reference](https://p5js.org/reference/#/p5/rect) to show its arguments.
+* How many arguments does rect() accept? Use the [reference](https://p5js.org/reference/#/p5/rect) to show its parameters.
 * How can we tell what are the “x” and “y” values of the position of a rectangle or other shapes?
 * Students can copy & paste this line of code onto future sketches. This line of code displays the “x” and “y” value of the mouse location while on the canvas.
 
