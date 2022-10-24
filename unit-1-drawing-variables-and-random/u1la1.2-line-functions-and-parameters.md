@@ -50,7 +50,7 @@ Students should be able to:
 
 | Planning Notes                                                                                                                                                                                                                                                                                                                                                                                                                                    | Materials Needed                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
-| <ul><li>You’ll be using the p5 online IDE A LOT - make sure every code example linked in your modified lesson is updated and usable</li><li>Students should log-in to their account at the beginning of each class (build this as a routine in your classroom)</li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>Alpha Editor</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
+| <ul><li>You’ll be using the p5 online IDE A LOT - make sure every code example linked in your modified lesson is updated and usable</li><li>Students should log-in to their account at the beginning of each class (build this as a routine in your classroom)</li><li><p>Students will need 3 tabs open for every lesson of this course</p><ul><li>p5 Editor or repl.it</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
 
 ### Resources
 
@@ -69,7 +69,7 @@ Students should be able to:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>This unplugged activity will help reinforce your student’s understanding of the p5.js coordinate plane. Students can work as groups, pairs or individually.<br></p><p><strong>Ask students to:</strong><br></p><ul><li>Take a <a href="https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/edit?usp=sharing">Line Worksheet</a></li><li>List the starting and ending points of each line using the p5 coordinate plane.</li><li>The first point is on the left and then the second is on the right.</li></ul><p><em><strong>Once students have finished the task, ask:</strong></em></p><ol><li>What would be different if these lines were to be drawn on a regular cartesian plane?</li><li>What are the coordinates for lines 1 - 6?</li></ol> |
+| <p>This unplugged activity will help reinforce your student’s understanding of the p5.js coordinate plane. Students can work as groups, pairs or individually.<br></p><p><strong>Ask students to:</strong><br></p><ul><li>Take a <a href="https://docs.google.com/document/d/14mDvlCxeFW6elTAi1RMNdzJZv0ZZVKv3HXlK8hRfNOk/edit?usp=sharing">Line Worksheet</a></li><li>List the starting and ending points of each line using the p5 coordinate plane.</li><li>The first point is on the left and then the second is on the right.</li></ul><p><em><strong>Once students have finished the task, ask:</strong></em></p><ol><li>What would be different if these lines were to be drawn on a regular Cartesian plane?</li><li>What are the coordinates for lines 1 - 6?</li></ol> |
 
 ### Introduction (3 min)
 
@@ -83,7 +83,7 @@ It’s up to you if you would like to run this session as a code along, or if yo
 
 Begin by reviewing how to login and navigate the editor.
 
-Be sure to demo saving - always foreign to students who didn’t grow up with Clippy - and how to open saved files.
+If you are working with the p5 editor, be sure to demo saving - always foreign to students who didn’t grow up with Clippy - and how to open saved files. For repl.it, all changes are automatically saved but do review how to create new repls and how to find existing ones.
 
 Remind students that having a user account will allow them to save their projects and share them on the web.
 
@@ -99,9 +99,9 @@ While explaining functions remind students that is important to use the right vo
 
 As you code discuss the following:
 
-Not all functions take the same take of parameters
+Not all functions take the same parameters
 
-Some parameters have different scales. For example the canvas function by default accepts values 0-255 but in HSB mode it accepts values 0-360.
+Some parameters have different scales. For example, the background function by default accepts values 0-255 but in HSB mode it accepts values 0-360.
 
 ### Independent Exploration (5 min)
 
