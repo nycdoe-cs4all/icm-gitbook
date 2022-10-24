@@ -8,7 +8,7 @@ description: How can code be used as a creative and expressive medium?
 
 Taijitu is a symbol representing the religious and philosophical tradition of Taoism (also called Daoism). The term means a ‘diagram of the supreme ultimate,’ and it refers to the famous Chinese concept of yin and yang, of opposites existing in complete harmony.
 
-![Taijitu Or Yin-Yang Symbol](https://lh6.googleusercontent.com/860mL-xJsUZI1OE8z3HDhBYnM6nmfQUAIB\_c7NWEYoFp0YQjnKu3LwQSyGf9CeZGTjt\_BirPey\_a83DJxtvaeCD5P8RfXu0BIN4Qz9Tx2MtWArQEOqiJdP2aCeulSWNF4VREk9Ka=s0)
+![Taijitu Or Yin-Yang Symbol](<../.gitbook/assets/TaijituBlackBG.png>)
 
 The Taijitu symbol consists of two (one black and one white) swirling ‘teardrop’ shapes that fit within each other to form a perfect circle. Each figure contains a part of the other so that there is a black dot in the white half of the circle and a white dot in the black portion. These seemingly opposing, but complementary halves make a whole and thus, are incomplete without each other.
 
@@ -34,7 +34,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 ### Output
 
-![p5.js Generated Taijitu Symbol on grey background](https://lh6.googleusercontent.com/18BL39dWOzL9mEZfpreUZaOBfviNJ4275sKL-FWU1KqtNOFm8qETuTjvfoKf4SHYoUei0\_0A69wWcky5QmyWN5NTo6sGBdKrIdzoTG7iV93fpBEGJTUhApZaWSZDRPRaJDZX3cqk=s0)
+![p5.js Generated Taijitu Symbol on grey background](<../.gitbook/assets/p5_TaijituSymbol.png>)
 
 ### Culturally Responsive Best Practice
 
