@@ -43,17 +43,17 @@ Students should be able to...
 
 * **Computational Media** - The practice of using programming to build expressive and interactive computer applications and media.
 * **p5.js** - An open-source Javascript library that allows people to make web pages animated and interactive.
-* **IDE** - Integrated development area is a software application that provides a place for computer programmers to develop code.
-* **Unplugged Activity** - an activity that can be conducted without the use of computers or electronic equipment.
-* **Abstraction** - Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics
+* **IDE** - Integrated development environment(IDE) is a software application that provides a place for computer programmers to develop code.
+* **unplugged activity** - an activity that can be conducted without the use of computers or electronic equipment.
+* **abstraction** - Abstraction is the process of taking away or removing characteristics from something in order to reduce it to a set of essential characteristics.
 
 **Pre-Req Vocab:**
 
-* **Width** - Horizontal distance of a 2D shape
-* **Height** - Vertical distance of a 2D shape
-* **Radius** - distance from the center to edge of a circle
-* **Diameter** - distance from edge to edge of a circle passing through the center point
-* **Cartesian (Coordinate) Plane** - four quadrant grid with an x & y axis, origin, etc.
+* **width** - Horizontal distance of a 2D shape
+* **height** - Vertical distance of a 2D shape
+* **radius** - distance from the center to edge of a circle
+* **diameter** - distance from edge to edge of a circle passing through the center point
+* **Cartesian (coordinate) plane** - four quadrant grid with an x & y axis, origin, etc.
 
 ### Planning Notes
 
@@ -113,7 +113,7 @@ Note: The video is interactive so move the mouse around when prompted to show st
 
 Show some final project student examples to give your classroom a sense of what is possible with p5.
 
-* [\*\*Emoji \*\*](https://alpha.editor.p5js.org/SEP/sketches/HylwiSZXQ)
+* [**Emoji**](https://alpha.editor.p5js.org/SEP/sketches/HylwiSZXQ)
 * [**Paint Tool**](https://alpha.editor.p5js.org/dcanizares/sketches/HklghoFlf)
 
 ### Unplugged Activity: Draw A Robot (10 - 15 minutes)
@@ -124,9 +124,9 @@ Explain to students that they will be creating robots on their paper using only 
 
 During the first part:
 
-* Distribute Robot Worksheets and ask students to draw their robot consisting of only rectangles and ellipses
-* They can use as many or as few as they want, but should try to use both shape
-* Let them draw! (Having colored drawing implements on hand can be very useful for this step)
+* Distribute Robot Worksheets and ask students to draw their robot consisting of only rectangles and ellipses.
+* They can use as many or as few as they want, but should try to use both shapes.
+* Let them draw! (Having colored drawing implements on hand can be very useful for this step.)
 
 **After the drawing**:
 
@@ -169,10 +169,10 @@ Show students the drawing below:
 
 If you are more interested in data collection and have other structures in place for culture building, consider having students answer the three questions on an index card or other half sheet of paper that you can easily collect/grade/return.
 
-### Ex**tensions**
+### **Extensions**
 
 **For the Robot Itself:**\
-Add a hat or another element to the robot:\\
+Add a hat or another element to the robot:\
 
 1. Using rectangles and ellipses.
 2. Find a partner and add one feature to their robot and have then them deconstruct the position and size of the new feature.
