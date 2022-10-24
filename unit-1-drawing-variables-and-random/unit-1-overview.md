@@ -27,7 +27,7 @@ We do not include a proper Unit 0 in this curriculum - the lessons begin with st
 
 **NYS Standards**
 
-* \*\*9-12.CT.5 \*\*Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
+* **9-12.CT.5** Modify a function or procedure in a program to perform its computation in a different way over the same inputs, while preserving the result of the overall program.
 * **9-12.CT.7** Design or remix a program that utilizes a data structure to maintain changes to related pieces of data.
 * **9-12.CT.9** Systematically test and refine programs using a range of test cases, based on anticipating common errors and user behavior.
 * **9-12.CT.10** Collaboratively design and develop a program or computational artifact for a specific audience and create documentation outlining implementation features to inform collaborators and users.
