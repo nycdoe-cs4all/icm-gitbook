@@ -144,7 +144,7 @@ Are the width and height radius or diameter? The width and height of an ellipse 
 
 Ask students to add to their first practice by inscribing an ellipse in each rect, like so:
 
-![Grey canvas with a white square in each corner and a white circle inscribed in each.]<../.gitbook/assets/greyCanvas_fourCircleInscribedRects.png>
+![Grey canvas with a white square in each corner and a white circle inscribed in each.](<../.gitbook/assets/greyCanvas_fourCircleInscribedRects.png>)
 
 This activity will reinforce students’ knowledge of coordinate points and positioning on the canvas. Some calculations will be needed in order to get the ellipse in the corner. \\
 
