@@ -8,7 +8,7 @@ description: How do the parameters of function effect positioning on the p5 canv
 
 In this learning activity, students will create a visual composition using the p5 shape-drawing functions point() & line(). They will be introduced to functions, parameters, and then how to call them in p5.
 
-Students should have already created an account and know how to login. If not, it would be good to model it before reviewing the editor. <strong>The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js.<strong>
+Students should have already created an account and know how to login. If not, it would be good to model it before reviewing the editor. **The p5.js Editor is not like Google Classroom: it is strictly an online IDE for p5.js.**
 
 This lesson will be the first time that many students will be coding along with the teacher; give students enough time to copy as they get accustomed to code-alongs. Giving students access to the slide deck will help with questions, sharing links and entry points for anyone who may have gotten off track or needs help.
 
