@@ -93,19 +93,19 @@ Once students are logged in, continue to the next section.
 
 ### createCanvas() and background() (5 min)
 
-Introducing functions, parameter and the canvas will be the students first code alone so some students may ask you to repeat a step or to zoom in on sections of code.
+Introducing functions, parameter and the canvas will be the students first code along, so some students may ask you to repeat a step or to zoom in on sections of code.
 
-While explaining functions remind students that is important to use the right vocabulary words and syntax when describing the values (parameters or arguments) of functions. It will help them communicate their code and thinking to others. This will assist their independent learning and research skills while using the reference guide.
+While explaining functions, remind students that is important to use the right vocabulary words and syntax when describing the parameters(and their specific values or arguments) of functions. It will help them communicate their code and thinking to others. This will also assist their independent learning and research skills while using the reference guide.
 
 As you code discuss the following:
 
-Not all functions take the same parameters
+Not all functions take the same parameters.
 
 Some parameters have different scales. For example, the background function by default accepts values 0-255 but in HSB mode it accepts values 0-360.
 
 ### Independent Exploration (5 min)
 
-After discussing the background() function ask students to do the following independently:
+After discussing the background() function, ask students to do the following independently:
 
 * Change the values in createCanvas() to the following:
   * 100, 20
@@ -118,7 +118,7 @@ The visual below can help students have a better understanding.
 
 ![A scale going from black (0) to white (255) with number values marked in between.](<../.gitbook/assets/Screen Shot 2021-10-01 at 10.19.53 AM.png>)
 
-\*\*Then, ask students: \*\*
+**Then, ask students:**
 
 What would happen if you were to add multiple background functions with different values? Which of background color is prioritized? Why?
 
