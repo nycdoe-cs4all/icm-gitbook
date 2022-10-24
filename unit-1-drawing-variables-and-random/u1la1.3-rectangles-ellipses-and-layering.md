@@ -15,7 +15,7 @@ The do-now will give students an opportunity to create a new robot (or multiple 
 
 Have extra copies of the worksheet because students may make mistakes (or may have lost their sheet prior to this class).
 
-**NB**: _There are two activities to practice rectangles and ellipses. Offer multiple opportunities for students to display and explain their work to the class or peers._
+**NB**: _There are two activities to practice rectangles and ellipses. Offer multiple opportunities for students to display and explain their work to a partner, small group or the class._
 
 _Some students may want to add color, but that lesson won’t be introduced until U1LA3. The student focus should be on drawing using functions from the p5.js library. Trust the process that styling will come later!_
 
@@ -24,7 +24,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 ### Objectives
 
 |                                                                                                                                                                                                                                                                                                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|  |
 | <p><strong>Students should be able to:</strong><br></p><p>Consult the p5 reference</p><ul><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
 
 ### Suggested Duration
