@@ -93,9 +93,9 @@ Once students are logged in, continue to the next section.
 
 ### createCanvas() and background() (5 min)
 
-Introducing functions, parameter and the canvas will be the students first code along, so some students may ask you to repeat a step or to zoom in on sections of code.
+Introducing functions, parameters and the canvas will be the students first code along, so some students may ask you to repeat a step or to zoom in on sections of code.
 
-While explaining functions, remind students that is important to use the right vocabulary words and syntax when describing the parameters(and their specific values or arguments) of functions. It will help them communicate their code and thinking to others. This will also assist their independent learning and research skills while using the reference guide.
+While explaining functions, remind students that is important to use the right vocabulary words and syntax when describing the values(parameters or arguments) of functions. It will help them communicate their code and thinking to others. This will also assist their independent learning and research skills while using the reference guide.
 
 As you code discuss the following:
 
@@ -120,11 +120,11 @@ The visual below can help students have a better understanding.
 
 **Then, ask students:**
 
-What would happen if you were to add multiple background functions with different values? Which of background color is prioritized? Why?
+What would happen if you were to add multiple background functions with different values? Which of background color is prioritized? Why? 
 
 ### Line && Point Function Code Along (5 min)
 
-For this code-along it is important to spend time reviewing how the canvas works in p5 and its differences from a cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following example ([p5 editor](https://editor.p5js.org/cs4all/sketches/HkLEZg4Em) | [repl.it](https://replit.com/@qrtnycs4all/U1LA12-Line-and-Point-Example#script.js)) with your students.
+For this code-along it is important to spend time reviewing how the canvas works in p5 and its differences from a Cartesian plane. Students can copy these functions and their definitions into a journal. A good practice is to hang posters around the classroom every time a new function is added. Recreate the following example ([p5 editor](https://editor.p5js.org/cs4all/sketches/HkLEZg4Em) | [repl.it](https://replit.com/@qrtnycs4all/U1LA12-Line-and-Point-Example#script.js)) with your students.
 
 ```
 function setup() {
@@ -144,13 +144,13 @@ function draw() {
 
 As you code, go over the following:
 
-* Create various examples of a point and line with different parameters. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments.
+* Create various examples of a point and line with different arguments. After some iterations students may want to remove some lines of code but not delete them, this is a good opportunity to introduce comments.
 * Comments
   * Introduce and consistently model how to create and utilize comments so that students can build great habits of annotating their code.
   * This is a great practice for debugging, testing new code, temporarily blocking out old code and a great what to keep track of shapes and functions.
 * Ask questions like:
-  * What type of parameters does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”).
-  * How many parameters does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments.
+  * What type of arguments does the line function accept? Make sure students know that it accepts a numerical value and not text (a “string”).
+  * How many arguments does line() accept? Refer to [https://p5js.org/reference/#/p5/line](https://p5js.org/reference/#/p5/line) to show the arguments.
   * How can the use of comments help organize the different lines?
 
 ### Student Practice (10 min)
