@@ -172,7 +172,7 @@ Alternately, for students for whom it is not helpful to see the grid, they may g
 
 ### Wrap Up (3 min)
 
-Ask 2-3 students (preferably that have volunteered, or you have checked-in with) to share their code for the robot to the class. Try to call on students whether they have the right or wrong code and prompt the class to coach students through errors - this can begin to build a culture celebrating errors as learning moments. Shares work best if you make them a consistent part of your routine.
+Ask 2-3 students (preferably volunteers, or students you have checked-in with) to share their code for the robot to the class. Try to call on students whether they have the right or wrong code and prompt the class to coach students through errors - this can begin to build a culture celebrating errors as learning moments. Shares work best if you make them a consistent part of your routine.
 
 Ask Students:
 
