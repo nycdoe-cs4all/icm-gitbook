@@ -172,7 +172,7 @@ If you are more interested in data collection and have other structures in place
 ### **Extensions**
 
 **For the Robot Itself:**\
-Add a hat or another element to the robot:\
+Add a hat or another element to the robot:
 
 1. Using rectangles and ellipses.
 2. Find a partner and add one feature to their robot and have then them deconstruct the position and size of the new feature.
