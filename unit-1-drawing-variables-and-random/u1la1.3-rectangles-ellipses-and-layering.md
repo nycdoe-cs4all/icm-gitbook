@@ -27,7 +27,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Suggested Duration
 
-\1 period ~45 minutes\
+1 period ~45 minutes
 (This may require some extension depending on how elaborate students were with their robots, but they will come back to this project later!)
 
 ### NYS Standards
