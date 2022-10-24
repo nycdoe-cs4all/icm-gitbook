@@ -60,7 +60,7 @@ Students should be able to:
 
 | Planning Notes                                                                                                                                                                                                                                                                                                           | Materials Needed                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| <ul><li>Pairing or grouping students who have difficulty with literacy or difficulty reading the p5 reference with students who can assist in completing the task.</li><li><p>Students will need 3 tabs open or</p><ul><li>Alpha Editor</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li><li>Highlighters</li></ul> |
+| <ul><li>Pairing or grouping students who have difficulty with literacy or difficulty reading the p5 reference with students who can assist in completing the task.</li><li><p>Students will need 3 tabs open or</p><ul><li>p5 Editor or repl.it</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li><li>Highlighters</li></ul> |
 
 ### Resources
 
