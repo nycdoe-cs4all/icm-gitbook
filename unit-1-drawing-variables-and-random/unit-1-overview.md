@@ -40,7 +40,7 @@ We do not include a proper Unit 0 in this curriculum - the lessons begin with st
 * **3A-AP-21** Evaluate and refine computational artifacts to make them more usable and accessible.
 * **3A-AP-22** Design and develop computational artifacts working in team roles using collaborative tools.
 * **3A-AP-23** Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.
-* \*\*3A-CS-03 \*\*Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.
+* **3A-CS-03** Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.
 
 ### Suggested Duration
 
