@@ -23,9 +23,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Objectives
 
-|                                                                                                                                                                                                                                                                                                    |
-|  |
-| <p><strong>Students should be able to:</strong><br></p><p>Consult the p5 reference</p><ul><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
+ <p><strong>Students should be able to:</strong><br></p><ul><li>Consult the p5 reference</li><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> |
 
 ### Suggested Duration
 
