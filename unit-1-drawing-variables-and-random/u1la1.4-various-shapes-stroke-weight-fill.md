@@ -25,7 +25,7 @@ Students should be able to:
 
 ### **Suggested Duration**
 
-\~1 period, 45 minutes
+1 period ~45 minutes
 
 ### NYS Standards
 
@@ -39,12 +39,12 @@ Students should be able to:
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><strong>Abstraction:</strong><br></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain why I chose to include the specific components of my prototype over others.</li><li>Explain how I might help others identify patterns.</li><li>Explain why using patterns is necessary when creating with a computer.</li></ul><p><strong>Algorithms:</strong><br></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul><p><strong>Programming:</strong><br></p><ul><li>Experiment with the commands of a programming language.</li><li>Describe three ways a development environment helps me create a project.</li><li>Explain why I chose specific commands to communicate my instructions.</li><li>Describe the changes I made after testing at least three parts of my program.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
+| <p><strong>Abstraction:</strong></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain why I chose to include the specific components of my prototype over others.</li><li>Explain how I might help others identify patterns.</li><li>Explain why using patterns is necessary when creating with a computer.</li></ul><p><strong>Algorithms:</strong></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul><p><strong>Programming:</strong></p><ul><li>Experiment with the commands of a programming language.</li><li>Describe three ways a development environment helps me create a project.</li><li>Explain why I chose specific commands to communicate my instructions.</li><li>Describe the changes I made after testing at least three parts of my program.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
 
 ### Vocabulary
 
-* **Function** - Functions are lines of code that perform specific tasks.
-* **Parameters** - Parameters are the values inside of parenthesis following the name of the function.
+* **function** - Functions are lines of code that perform specific tasks.
+* **parameters** - Function parameters are the names listed in the function definition.
 * **triangle()**
 * **quad()**
 * **openShape()**
@@ -52,9 +52,9 @@ Students should be able to:
 
 **Pre-Req Vocab:**
 
-* **Vertices** - a corner or a point where lines meet.
-* **Quadrilateral** - A four sided polygon.
-* **Triangle** - Three sided polygon
+* **vertex (plural: vertices)** - a corner or a point where lines meet.
+* **quadrilateral** - A four-sided polygon.
+* **triangle** - Three-sided polygon
 
 ### Planning Notes
 
