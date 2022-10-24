@@ -111,7 +111,7 @@ Prompt students to think about these questions when they feel stuck. You can hav
 
 Model how to navigate the reference guide and then how to read the arguments a function takes.
 
-![Screenshot of the p5.js Reference Sheet](https://lh5.googleusercontent.com/j71sDwY4pf5jKT7LbtaYY192Nh4BYBp8c6L0IYb9gzNNEVg860uVlR7HgDeGgz56dyGFfKvV4yc5kw1SwmxXn5an-rZ7gqX7Vv17n\_M6vgG\_AB7AjoWKpFcMEt-Wv7HQ7k9RcLb2=s0)
+![Screenshot of the p5.js Reference Sheet](<../.gitbook/assets/p5_Reference_screenShot.png>)
 
 ### Draw Other Shapes and Navigate the p5.js Reference Sheet (\~15-25 min)
 
