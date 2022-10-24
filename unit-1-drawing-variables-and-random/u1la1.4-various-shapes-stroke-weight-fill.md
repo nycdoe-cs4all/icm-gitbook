@@ -143,7 +143,7 @@ Their sketches should include:
 
 **Examples of possible outputs:**
 
-![Four shapes on grey background, a triangle, a star-esque polygon, a quadrilateral, and a small arc.](https://lh3.googleusercontent.com/dGqIUpfi5c82eila\_zca\_VOhNxfCdp89lzjUxZgX7eLjayW2\_mVi\_lVl5IyxZnRwRIteQhuJPx8T1kWFizHaF-YE08YOQ-Qh44YYNGYjh1LcA4kbdQmTLDYhtdBz8sQxXhdbE2h6=s0)
+![Four shapes on grey background, a triangle, a star-esque polygon, a quadrilateral, and a small arc.](<../.gitbook/assets/fourShapesOnGreyBackground.png>)
 
 [**Possible Solution**](http://alpha.editor.p5js.org/SEP/sketches/Byc6nmFEX) | [**Possible Solution with stroke() and fill()**](http://alpha.editor.p5js.org/SEP/sketches/SkiIEh3Nm)
 
@@ -153,11 +153,10 @@ For students choosing to create the star shape or their own polygon, remind them
 
 **Example**:
 
-![Image of a continous line forming a house on a grey background](https://lh3.googleusercontent.com/OHZu7dvRlWatG3joa3Og6nWpEkyw2bAGBbsACBak2NbIXVzV9Os4AOGnTXnK\_5DxbnXVJ0Kejbk2PCmNBX-efcqKJ3yWtykQ-\_Si1lQoffrRM0VO26il2QLpeniJl66AgCZnI9fs=s0)
+![Image of a continous line forming a house on a grey background](<../.gitbook/assets/continuousLineHouse.png>)
 
 Ask students and partners to explain the parameter of one new shape function and how their image aligns with the parameters. Teacher will circulate and and help clear confusion. Students should use the content from the reference to explain their answers.
 
-![](https://lh3.googleusercontent.com/sLUbC17GhqVlqiYdSo22IVELtEG75TdaQKqvbtSzUsH9x0QWxojo37YNM75k-j621YHMB087dF8vtgABiThqwKJ0Bg159Iw-O0O2lUjURp\_OKMuEkPP6vTFoQt4NVHmqzgPejbzt=s0)
 
 ### **Wrap Up**
 
@@ -173,4 +172,4 @@ Ask 2-3 students (preferably that you have conferenced with) to share their answ
 
 If time allows, spend some time reviewing the arc function, angle measuring units, and how its parameters work using this [p5 reference cheat sheet](https://drive.google.com/file/d/0Byk7AxhPkTEJWWdUeVFteXFrT2M/view?usp=sharing) and have the students compare their results in their groups. Then have them create this arc using the cheat sheet.
 
-![Circle (arc) with a slice missing](https://lh5.googleusercontent.com/CffIEEI4ZmAL6XdROcZieVmN2EDyWB8PfTi0Q2i-lNVIR9dvWaskAFq1UrpnEJozwKNffITy39azMaReCdeqKs6x0qXqZLRu09tVWig-cW4jnavF3XDGqIMQKWl6cdFWiKJ1DS4B=s0)
+![Circle (arc) with a slice missing](<../.gitbook/assets/CircleWithMissingSlice.png>)
