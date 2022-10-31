@@ -38,9 +38,9 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 ### Exemplars
 
-*  MILD: [ p5 editor ](https://tinyurl.com/mrxs5wjb) | [ repl ](https://tinyurl.com/mvxre9t9)
-* MEDIUM: [ p5 editor ]  |  [repl]
-* SPICY:  [ p5 editor ]  |  [repl]
+* MILD:   [ p5 editor ](https://tinyurl.com/mrxs5wjb) | [ repl ](https://tinyurl.com/mvxre9t9)
+* MEDIUM: [ p5 editor ](https://tinyurl.com/h389re4p)  |  [repl](https://tinyurl.com/4c5dwh7w)
+* SPICY:  [ p5 editor ](https://tinyurl.com/mtue628r)  |  [repl](https://tinyurl.com/mtnrwc85)
 
 ### Culturally Responsive Best Practice
 
