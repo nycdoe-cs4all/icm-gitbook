@@ -36,7 +36,7 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 ![p5.js Generated Taijitu Symbol on grey background](<../.gitbook/assets/p5_TaijituSymbol.png>)
 
-##Exemplars##
+### Exemplars
 
 	* MILD:     [p5.js](https://editor.p5js.org/kjohnston2/sketches/cpTz76qRl)   | [repl.it](https://replit.com/@KELLYJOHNSTON4/Unit1MiniProject-1TaijituMILD#script.js)
 	* MEDIUM:     p5.js   | repl.it
