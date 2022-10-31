@@ -36,6 +36,12 @@ Project adapted from: [Susan Evan’s 1-day p5.js workshop](https://github.com/s
 
 ![p5.js Generated Taijitu Symbol on grey background](<../.gitbook/assets/p5_TaijituSymbol.png>)
 
+**Exemplars**
+
+	* MILD:     ![p5.js](https://editor.p5js.org/kjohnston2/sketches/cpTz76qRl)   | ![repl.it](https://replit.com/@KELLYJOHNSTON4/Unit1MiniProject-1TaijituMILD#script.js)
+	* MEDIUM:     p5.js   | repl.it
+	* SPICY:     p5.js   | repl.it
+
 ### Culturally Responsive Best Practice
 
 This project not only assesses students' ability to understand how to sequence functions in a program to get interesting results on screen, but it does so through a symbol that has a rich meaning and background. This can be a great moment for students to learn about other cultures, but there are also ways to make it more relevant to your student population and even tie it into other courses! Most sophomores in my class are quick to connect this to what they have learned about Daoism in their World History 1 course freshman year - consider looping your social studies teachers in on this project to help support learning.
