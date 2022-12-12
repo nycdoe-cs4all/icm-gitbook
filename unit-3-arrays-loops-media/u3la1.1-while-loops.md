@@ -59,7 +59,7 @@ Students should be able to:
 
 ### Vocabulary
 
-* **loop** - A sequence of instructions that is repeated until a certain condition is met.&#x20;
+* **loop** - a sequence of instructions that is repeated until a certain condition is no longer met.&#x20;
 * **iteration** - the repetition of a process&#x20;
 * **while loop** - a control flow statement that allows code to be executed repeatedly as long as the condition is true
 * **control structure -** a block of code that that specifies the flow of a program according to specific conditions
