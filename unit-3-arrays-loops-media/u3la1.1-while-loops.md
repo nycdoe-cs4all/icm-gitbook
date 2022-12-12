@@ -59,10 +59,10 @@ Students should be able to:
 
 ### Vocabulary
 
-* **Loops** - A sequence of instructions that is repeated until a certain condition is met.&#x20;
-* **Iterations** - the repetition of a process or utterance.&#x20;
-* **While loop** - The while loop loops through a block of code as long as a specified condition is true.
-* **Control structure -** codebase portion that supports decisions based on analysis of variables
+* **loop** - A sequence of instructions that is repeated until a certain condition is met.&#x20;
+* **iteration** - the repetition of a process&#x20;
+* **while loop** - The while loop loops through a block of code as long as a specified condition is true.
+* **control structure -** a block of code that that specifies the flow of a program according to specific conditions
 
 ### Planning Notes
 
