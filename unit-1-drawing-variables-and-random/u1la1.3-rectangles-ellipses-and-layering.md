@@ -23,12 +23,17 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Objectives
 
- <p><strong>Students should be able to:</strong><br></p><ul><li>Consult the p5 reference</li><li>Create rectangles using the rect() function</li><li>Create ellipse using the ellipse() function</li><li>Understand the concept of layering to create images using multiple shape functions</li></ul> 
+**Students should be able to:**\
+
+
+* Consult the p5 reference
+* Create rectangles using the rect() function
+* Create ellipse using the ellipse() function
+* Understand the concept of layering to create images using multiple shape functions
 
 ### Suggested Duration
 
-1 period ~45 minutes
-(This may require some extension depending on how elaborate students were with their robots, but they will come back to this project later!)
+1 period \~45 minutes (This may require some extension depending on how elaborate students were with their robots, but they will come back to this project later!)
 
 ### NYS Standards
 
@@ -40,20 +45,20 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Blueprint Foundational Student Outcomes
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Abstraction:</strong></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain how I might help others identify patterns.</li></ul><p><strong>Algorithms:</strong></p><ul><li>Describe more than one set of instructions that might complete a task.</li><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul><p><strong>Programming:</strong></p><ul><li>Experiment with the commands of a programming language.</li><li>Describe three ways a development environment helps me create a project.</li><li>Explain why I chose specific commands to communicate my instructions.</li><li>Discuss what can and cannot be done with a specific set of commands.</li></ul> |
 
 ### **Vocabulary**
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <ul><li><strong>function -</strong> Functions are lines of code that perform specific tasks.</li><li><strong>parameters -</strong> Function parameters are the names listed in the function definition, e.g. in the following function definition, rect(x-coord, y-coord, width, height), x-coord, y-coord, width and height are all parameters.</li><li><strong>rect() function -</strong> Draws a rectangle to the screen.</li><li><strong>ellipse() function -</strong> Draws an ellipse (oval) to the screen.</li></ul><p><strong>Pre-Req Vocab:</strong><br></p><ul><li><strong>width -</strong> Horizontal distance of a 2D shape</li><li><strong>height -</strong> Vertical distance of a 2D shape</li><li><strong>rectangle -</strong> a 2D figure with four straight sides and four right angles</li><li><strong>ellipse -</strong> a regular oval shape</li></ul> |
 
 ### **Planning Notes**
 
-| Planning Notes                                                                                                                                                                                                                      | Materials Needed                                                                            |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Planning Notes                                                                                                                                                                                                                              | Materials Needed                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- |
 | <ul><li>Students might have lost their robot or may want to redo it from lesson.</li><li><p>Students will need 3 tabs open</p><ul><li>p5 Editor or repl.it</li><li>Slide Decks (optional)</li><li>P5.js Reference Guide</li></ul></li></ul> | <ul><li>Computer or laptop</li><li>Pens/Pencils</li><li>Rulers</li></ul><p>Highlighters</p> |
 
 ### Resources
@@ -66,8 +71,7 @@ _This lesson provides opportunities for pair programming. Please note that paire
 
 ### Assessments
 
-**Formative**: Creating ellipses and positioning, Creating rectangles and positioning
-**Summative**: Coding robot in p5.js, Taijitu symbol
+**Formative**: Creating ellipses and positioning, Creating rectangles and positioning **Summative**: Coding robot in p5.js, Taijitu symbol
 
 ### Do Now/Warm Up
 
@@ -144,7 +148,7 @@ Are the width and height radius or diameter? The width and height of an ellipse 
 
 Ask students to add to their first practice by inscribing an ellipse in each rect, like so:
 
-![Grey canvas with a white square in each corner and a white circle inscribed in each.](<../.gitbook/assets/greyCanvas_fourCircleInscribedRects.png>)
+![Grey canvas with a white square in each corner and a white circle inscribed in each.](../.gitbook/assets/greyCanvas\_fourCircleInscribedRects.png)
 
 This activity will reinforce students’ knowledge of coordinate points and positioning on the canvas. Some calculations will be needed in order to get the ellipse in the corner. \\
 

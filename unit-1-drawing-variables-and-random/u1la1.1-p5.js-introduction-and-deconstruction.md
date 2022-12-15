@@ -35,8 +35,8 @@ Students should be able to...
 
 ### Blueprint Foundational Student Outcomes
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>Abstraction:</strong></p><ul><li>Give examples of specific patterns in something I can see, do or touch.</li><li>Describe different things I tried in order to achieve a goal.</li><li>Explain how I might help others identify patterns.</li></ul><p><strong>Algorithms:</strong></p><ul><li>Explain why I used specific instructions to complete a task.</li><li>Compare and contrast my instructions with other instructions that complete the same task.</li></ul> |
 
 ### **Vocabulary**
@@ -151,7 +151,7 @@ Watch the “wrap up” space for suggestions on how to end your class for the d
 
 Show students the drawing below:
 
-![Sample Robot on p5.js Coordinate Plane](<../.gitbook/assets/Screen Shot 2021-09-30 at 3.29.22 PM.png>)
+![Sample Robot on p5.js Coordinate Plane](../.gitbook/assets/screen-shot-2021-09-30-at-3.29.22-pm.png)
 
 **Let's unpack this drawing together:**
 
